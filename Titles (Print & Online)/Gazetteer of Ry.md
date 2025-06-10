@@ -1,0 +1,21 @@
+Gazetteer of R’y
+
+Starting in the NE, the gate called the Threshold of Viruda. This gate is the main access to the City of the Dead which can be seen outside the wall to the NE. The road leads off to the farmlands and other small villages in the foothills of the nearby mountains. It was here, that General Hlucha Tlakotani led the Legion of the Crystalline Peak, 41 Imperial Archers in the defense against the Khomorg. Reasoning that she could not defend the walls with so few troops, she dared the Khomorg to attack her while she drew up her army and skirmish battalions between the hill on which the City of the Dead rests and the city wall itself. The enemy attacked across the raised road (not sakbe) but fell into pits and traps full of flammable substance. A small offensive magical contingent on the Threshold of Virida gates caused an illusion of First Legion Heavy Infantry emerging from the gates and the Khomorg fell into disarray, then fled as the Archers of the 41 picked them off. Though not considered a classic example of Tsolyani warfare, it introduced the new General and saved R’y.
+
+Within the walls of the Threshold of Virida are the barracks and workshops of the Legion of the Crystalline Peak. It is rumored that there are some ancient weapons and armories there, but no one is telling.
+
+The temple district is South of the Crystalline Peak barracks. It follows in a clockwise fashion from the Threshold of Virida and is composed of a number of small temples for the major Gods and Cohorts as well as some for Shiringgayi. The servants and other necessary personnel live in enclaves near the wall at this juncture. The area is separated from the rest of the city by the avenue that runs from the Threshold of Virida to the Door of Keshan, the next exit in the SE of the wall.
+
+Despite the world map showing a Sakbe road to Eastern Salarvya as a few miles South of R’y, the Gate of Keshan egresses onto a Sakbe road that skirts the foot of the mountains and approaches the east as well. There is a joining of the two some 50 tsan out of the city.
+
+The Northern part of the city is delineated by the old wall from the Gate of Keshan across to the Gate of Logs in the SW wall. In the Central Northern part, near the Crystalline Peak Barracks, sprawl the mansions of the wealthier clans and nobles. From this to the Old Maika Market Square there are located warehouses and the Palaces of the Realm, Priesthoods and Foreign Lands. Within the slums surrounding the Old Maika Market is the armory of a local who has become famous for the black lacquered armor favored by the Salarvyani. The City guard also has a barracks near the south gate here.
+
+To the other side of the North South road that passes through R’y is the Foreigner Quarter* with a small market and fountain in it. The Northern or Sankolum Tower is the current headquarters of the Governor of R’y as the city rebuilds. (it also affords a handy escape route to Sokatis)
+
+The Southern districts are newly built around the destruction caused by the Salarvyani in the last war. Though the Well of Mirigu and the Ontlaru Gate (to the West) survived, most of the slums were razed.
+
+South near the wall is the Honun Market, a lively place where many Salarvyani barter with their Tsolyani counterparts. The Sakbe road to Mmillaka and points south starts here, and climbs to its full height as it passes through the sough Mruggaktash Towers. This is where the Chlen carts form up in caravans for the trip or are met by merchants greedy for the spoils of trade as they enter town.
+
+Misulan Palace, at the extreme south end of the City of R’y is being rebuilt. It is thought that the Governor will eventually repair to this place and again watch over the little Village of Charsidra, where people en route to the baths further south often stay in quaint little hostels.
+
+*It should be noted that the Foreigners Quarter is not for Salarvyani as the citizens and clans of R’y are often heavily related to their Salarvyani cousins. The first step toward avoidance of a war is usually to ‘call the clan master of such-and-such and offer them a trade deal’ Except for crazy Khomorg and the occasional idiot Noble general it usually works.
