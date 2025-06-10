@@ -1,0 +1,76 @@
+Date: Wed, 21 Apr 1999 11:46:41 -0500 (CDT)
+From: The Blue Room Mailing List <blueroom@spectre.prin.edu>
+To: george.hammond@umich.edu
+Subject: Message 963: Elara hiVriddi
+
+[Moderator's Note:  Professor Barker lets us know what finally befell Elara ]
+[                   hiVriddi.  James Snead asked this question.             ]
+
+>Perhaps the professor can clear up another loose end in recent history.
+>The famed rebel, Elara HiVriddi, who was allegedly frozen in stone and
+>hidden in the vaults of Avanthar more than two decades ago, is said to 
+>have reappeared in Fasiltum at the beginning of the recent civil war
+>and so charmed Prince Mirusiya that he dallied in that city for some
+>time, to the detriment of the effort to unseat Dhich'une.   It later became
+>clear that "Elara" was a phantasm of some sort, sent by the the prince's
+>enemies.
+
+Yes, Mirusiya did search for Elara, immediately after his troops took
+Avanthar. She had been put slightly "out of phase" with an Excellent Ruby
+Eye, and when this was undone, she emerged at the exact moment that she was
+put into it long ago! She looked the same, felt the same -- everything. It
+was at this point that some of the last Sarku defenders of Avanthar managed
+to substitute a demon look-alike for her, putting the real Elara back into
+stasis in an unused part of Avanthar. Mirusiya brought her to Fasiltum,
+where "she" lived until her deception was found out by the redoubtable
+General Karin Missum. (I vaguely recall that Arumel hiChankolel also had
+something to do with revealing her). In any case, the Prince had loved
+Elara since he was a boy and she was a young woman active in the Free
+Fasiltum Movement. She returned to find Mirusiya older(and hence more
+sexually appealing) and more powerful and confident. He soon won her for
+himself, married her, and took her into the Golden Tower with him, where
+she dwells in adored glory to this day.
+
+>Do we know any more about this episode, and what nefarious
+>forces were behind it?  And now that the Prince is enthroned in Avanthar,
+>has any effort been made to determine the real story of Elara's demise,
+>and whether there's a block of stone in the basement with her name on it?
+
+She never "died" -- that's the virtue of an Excellent Ruby Eye. It simply
+freezes a target in exactly the same state and position it was in when it
+was "shot." The target remains immobile, no breath, no heartbeat, etc.
+surrounded by a very faint reddish glow. This apparently lasts nearly
+forever. Once, I recall the Harbourmaster of Jakalla pulled a body out of
+the muck below the eastern docks to find that it was a perfectly preserved,
+living man whose enemies had ruby-eyed him and thrown him into the river
+back in the times of Queen Nayari. He was of no great importance, however,
+and could tell scholars little about things they wanted to know (just as
+the "iceman" mummy  of the Swiss/Austria border might not be able to shed
+much light on his contemporary cultures, literatures, etc.)
+
+Regards,
+Phil
+-----
+
+Date: Mon, 17 May 1999 10:23:58 -0500 (CDT)
+From: The Blue Room Mailing List <blueroom@spectre.prin.edu>
+To: george.hammond@umich.edu
+Subject: Message 983: More Elara hiVriddi
+
+[Moderator's Note:  Joe Zottola offers up some more tidbits on Elara hiVriddi.]
+
+To clarify a matter,.
+It was Arumel Hichankolel who revealed the false Elara..(with the help of
+the Temple of Vimuhla) The temple had implanted a device/spell into Arumel
+that would dispel the illusion of Elara from the Demon..(with out Arumel's
+knowledge) Arumel was brought before Murisiya & Elara and the Demon was
+revealed..The prince was whisked away & Karim  Missum dispatched the
+Demon...Arumel was put in the dungeon & later freed.....
+
+One more thing,
+Prince Mirusiya was not told of the reality of the false Elara
+The Temple of Vimuhla replaced the demon with one of their own in the
+appearance of Elara...The real Elara was not revealed until
+she entered the Golden Tower in the guise of Ijena the wife of Arumel
+Hichankolel...
+-----

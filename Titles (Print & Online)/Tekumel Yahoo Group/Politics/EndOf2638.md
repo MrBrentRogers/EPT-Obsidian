@@ -1,0 +1,220 @@
+Date: Sun, 21 Dec 1997 15:25:14 -0600 (CST)
+From: The Blue Room Mailing List <blueroom@prin.edu>
+To: george.hammond@umich.edu
+Subject: Message 602: Current Events in Tsolyanu
+
+[Moderator's Note:  Dateline, Usenanu...  Bob Alberti (and the Professor)  ]
+[                   have provided some info about the various goings on in ]
+[                   the Tsolyani Empire.  I also spoke with the Professor  ]
+[                   and he gave me some more details I have added to the   ]
+[                   end of this post.                                      ]
+
+> = Professor Barker's comments
+  = Bob's comments
+
+>I hope that Bob Alberti will elaborate on his posting to the newsgroup. I
+>rarely look there myself, preferring the Blue Room. I would also prefer
+>that correspondents write or copy messages to both places, if the posting
+>has content for Tekumel fans. I never would have known that Bob had already
+>broken the story except for a correspondent who excitedly telephoned me. I
+>was rather hoping to break it myself on the Blue Room.
+
+My only mention was made on Friday the 12th (i.e. nine days ago, not yesterday).
+It read, in total, "Oh, by the way, Dhich'une is no longer Emperor."
+At that time, the Thursday night gaming party had just been dropped off
+on the Plane of the Buffalo, and I truly didn't know any more than that.
+For all I knew, he was going to head back and reclaim the throne, and I
+knew neither the date nor his successor.
+
+>It is true: With Vimuhla's finest warriors pouring up out of the cellars of
+>Avanthar, the Emperor decided to leave. With the aid of a sorceress, the
+>Lady Sarvodaya Di'ela,
+
+Oh ho!  I didn't know THAT.  I mean, I had guessed it was one of her ships,
+but I didn't know she was actively assisting him in any way.
+
+>he set off in one of her airships and transferred to
+>another Plane, then on to still other Planes.
+
+I comfort my self with the delusion that I at least inconvenienced him for
+a few minutes...
+
+>He thus lives,
+
+(after a fashion...)
+
+>together with
+>some of his retainers, but the Imperium is no longer his. The Empire is now
+>in a state of elation and wild flux. The capital is in the hands of
+>Mirusiya and Taksuru. The latter has already announced that he will
+>probably resign the Gold and work as Mirusiya's righthand man. Rereshqala
+>has also stated that he wants only the prosperity of the Empire, and he is
+>too old and sedentary to do much more. The saddest thing was the death of
+>Prince Eselne -- lowly dysentary brought him down. Princess Ma'in is still
+>in Tumissa, where she holds court and wishes she were younger and more in
+>demand. There will be a Kolumejalim, of course, and there may be some
+>surprises.
+
+Here is what little I can add to that.  First off, Chris, make sure if the 
+Professor wants to break something more formal than this redirected-private-
+message that he has a chance to do so:  I don't want to upstage him!
+[Moderator's Note:  Nope.  This was fine by him.                             ]
+
+Our hapless group of low-circle adventurers travelled under the loving
+guidance of experienced rapscallion Captain Harchar and his trusty sidekick
+Swordswinger (his partner Staffswinger having met an unkind fate some months
+before). We were cruising the oceans of the far side of Tekumel in a ship of
+the Ancients, given into our bumbling care by some annoyed Wizards from the
+College at the End of Time and certain Guardians of Ancient Places who had
+wished too hasten our departure from their domain.
+
+One of our party, a Sarku-worshippping crossbowman named Shemesh, had 
+unbeknownst to the rest of us been granted certain favors and charges by
+highly-placed representatives of his Worm Lord on this side of the globe.
+So when we sailed into an amazing harbor, accessable only via a large
+tunnel carved through a moutain's roots, Shemesh was in position to serve
+his waiting masters.
+
+He disembarked and returned later with the tallest Chima we had ever seen,
+explaining that this worthy knew how to operate our Ship of the Ancients.
+No sooner had the Chima touched the controls than the Ship vaulted into
+the heavens, and for a day we roared along in air too thin to breathe.
+
+When we descended the Chima was gone, and a hirstute human was commanding
+the helm.  We descended by night, and were surprised to see a tall tower 
+loom out of the darkness.  Peering over the side, we could see nothing
+below the ship but darkness.  A gangway was extended from an opening
+just beneath the corbelled roof of this tower, and a party of soldiers
+quickly secured the main deck.  Our surprise at these activities was
+increased when their torches lit the darkness sufficiently to reveal 
+the gleam of blue and gold armor, and we heard our native Tsolyani being
+spoken for the first time in months.  We were somewhere in Tsolyanu!
+
+Then further persons boarded, some wearing purple robes which were not
+those of the Temple of Hru'u, others gesticulating orders mutely.  Still,
+I did not catch on, because I am thick.
+
+Finally a young man boarded, accompanied by several elder gentlemen with
+the air of wizardry about them.  Finally it dawned on me (it was already
+noon for the rest of the party of course) who these people were!  They were 
+the Emperor Himself, Dhich'une Tlakotani, as well as the wizards Vridekka,
+and our sometime-Chima pilot Jayargo.
+
+Certain things happened very quickly thereafter.  First we heard shouts
+and cries from below, where now we could see distantly the torches of 
+troops battling at what must be the base of the Golden Tower of Avanthar.
+
+We were at first ignored by the guards, and one of our party managed to
+sneak into the engine room with an Eye of Disjection and fired it into 
+the engines.  When he woke up to find himself capable of still moving, the
+Vimuhla worshipper picked up the Eye, crawled over to the gaping wound in
+the side of the engine, stuck his arm inside, and fired it again.
+
+Quick heal spells preserved Achumel's life, but we were locked in a cabin
+as proof against further mischief while Lord Jayargo initiated repairs 
+to the engine.  He was successful, and we did not smash into the ground.
+
+Unfortunately, the guards then decided that they wanted some fun, and 
+the two women in the party were directed by Shemesh into the galley and
+there abused.  One woman sneaked away through the kitchen into the hold
+with the aid of the brave Chef of Avanthe.  There she dug through the
+miscellaneous cargo until she found a device which, when she activated
+it, produced a grid of blue lines and incidentally shifted the ship
+over to the Plane of the Buffalo.
+
+The Plane of the Buffalo is a "nearby" plane to that of Tekumel (while it
+may be "distant" in Inter-planar terms, it is a frequent first stop in
+interplanar travel).  It is a dominion of the Silver Suits, servitors of
+the Pariah Deities so-called for their full-body silver armor.  It is
+comprised mainly of broad savannahs of golden grass traversed by mighty
+"buffalo" (no real relation) about the size of a small Chlen.  These herds
+can stretch from horizon to horizon and are inexorable in their stampedes.
+
+Annoyed with us, the former Emperor ordered us put off about five Tsan
+ahead of one such herd, and the ship departed.  We were, as the saying 
+goes, screwed.  The depths of our screwedness can be illustrated by the
+cheerful fact that at least it didn't matter that neither of the sorcerors
+in the party had the Visitations of Other Planes spell necessary to escape
+this plane, because spellcasting doesn't work there.
+
+The party spent a nasty night dodging through a miles-wide herd of elephantine
+buffalo in the darkness of a driving rainstorm.
+
+The next day, as the straggling buffalo passed, another airship arrived and
+we boarded.  It turned out that this was a nature-study tour from the domain
+of the Silver Suits, out to observe the herd.  I'll skip much of what occured
+here except to say that they were much more polite than a lot of Tsolyani
+I've met, and after an exchange of sexual favors with the Captain of this
+vessel, he agreed to detour long enough to drop us off at home.
+
+We arrived in Bey Su in the modern era, apparently only a couple of days
+after we left.  This being interplanar travel, we could have arrived during
+the reign of the Fishermen Kings, so we were all quite happy.  
+
+We learned that the Emperor had been deposed on the 18th of Dohala, 2368,
+by the allied forces of Prince Mirusiya and Prince Taksuru.  Prince Eselne
+had apparently perished of a wasting illness during the summer of 2368,
+having never quite recovered from wounds suffered earlier in the civil 
+strife.  The popular mood was good, except in and around the temples and
+clanhouses of those faithful to the deposed Emperor, some of which had
+been destroyed by vengeful mobs.
+
+The taking of the Golden Tower was an unbelievable achievement, unparalleled
+in Tsolyani history.  Legendary general Karin Missum had been carried off 
+the field, gravely wounded, and his condition remained unknown.
+
+It is generally expected that Prince Mirusiya has or will soon declare himself
+regent until such time as a Kolumejalim can be held.  He seems to have
+arranged with his siblings that he shall be the only candidate, both 
+Taksuru and Rereshqala pledging to renounce the Gold and work with the new
+Emperor.  Princesses Ma'in and Aremala could not hope to prevail over 
+Mirusiya, and of poor Prince Surundano nothing has been heard (although
+several have suggested that the Imperial Heirs should pitch in and send
+him a nice fruit basket.)  Prince Mridobu remains missing and assumed dead.
+
+Eselne's former general Kettukal has retreated to Paya Gupa with his troops,
+and is not expected to perpetuate the civil strife without an Imperial
+sponsor.  The last holdouts of Prince Dhich'une's troops were defeated 
+in Thri'il only recently.
+
+The date is now 29 Dohala 2368, and all of Usenanu is preparing for a 
+particularly festive Intercalary Day celebration.  The only lingering
+doubts remain in the minds of our party, who are the only ones on Tekumel
+(aside, one assumes, Mirusiya himself) who know that Prince Dhich'une 
+remains alive (or whatever) and active, guarded and supported by the dread
+allies who helped him seize the throne.
+
+----------------
+Some more news from conversations I have had with Phil over the last day or
+so.  These are my impressions.  Don't attribute them to anyone else.  :)
+
+Karin Missum has been moved down to Bey Su, and is under the care of the 
+Healing Sorcerors there.  No word yet on his condition.  
+
+Mirusiya is coldly grim about his victory.  He desperately wants Dhich'une's
+head.  The awful part of this is that when there is a Kolumejalim, and if
+someone hasn't killed Dhich'une, he would be able to participate.  According
+to Tsolyani law, an heir cannot be kept from his right to participate.  But,
+if this law was so strictly kept, how did Dhich'une keep all the others from
+getting their fair chance Professor?
+
+The princesses Main and Aremalla are pretty much out of the picture as Bob
+stated.  Surundano is well, Surundano.   :)
+
+Rereshqala will probably be the Hig Provost of the Chancery at Avanthar, (the 
+job held by Chaimira hiSsanmirin during Hirkane's rule.
+
+Taksuru will probably be given a special position, some type of Legate to
+the Priesthoods.  Primarily to keep an Imperial eye closely on them.
+
+Poor Eselne did pass to the Paradises via a bout of dysentary.
+
+I asked about Mridobu, and the answers I got led me to the the following 
+possible conclusions about Mridobu.
+1.  He's dead.
+2.  He's a Mrur or Shedra somewhere.
+3.  He's been Mind Barred, or effectively lobotomized.
+
+Phil led me to believe that he would be ineffective as a politician if, in 
+fact, he was indeed alive.
+-----

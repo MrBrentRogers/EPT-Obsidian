@@ -1,0 +1,106 @@
+Date: Sun, 15 Feb 1998 01:24:45 -0600 (CST)
+From: The Blue Room Mailing List <blueroom@prin.edu>
+To: george.hammond@umich.edu
+Subject: Message 661: Tsolyanu's Civil War
+
+[Moderator's Note:  Phil answers further questions from Charlie on numerous ]
+[                   facets of the recent civil war.                         ]
+
+I don't have all of the information you need because our playing group was
+not at the sites of the battles (except one, briefly). Mostly our gamers
+chose to operate in areas free of war and Sturm und Drang.
+
+>When did open warfare begin between Dhich'une' and the other contending
+>Tsolyani Princes ?
+
+There were rumblings almost within a couple of months after Dhich'une's
+"accession." The followers of both Mirusiya and Eselne complained bitterly
+that they had been "invited" to a Kolumejalim that they could not attend
+because it was so far away -- Mirusiya was just coming home from Tleku
+Miriya, and Eselne was in northwestern Yan Kor and Pijjena. I can't recall,
+but I think the first battles began inside of six months. Rereshqala joined
+in later, when Dhich'une was on the point of seizing Jakalla.
+
+Bob Alberti: are you reading this? Please look at your journals and put
+dates in! I don't have them handy!
+
+>When did the Salarvyani and the Mu'ugs' invade ?
+
+The Salarvyani made an attempt to take Kerunan and the Kaija Protectorate.
+They almost took Jaikalor. They did hold Hundranu Rise for a while. The
+Gilraya Forests have practically belonged to the Salarvyani government of
+Koyluga (and allied cities) for some time, although Tsolyanu claims them.
+
+The Mu'ugalavyani quickly occupied Pan Chaka and performed another massacre
+of Pachi Lei. They set up a puppet government in Butrus and occupied
+neighbouring hamlets and agricultural regions. The Pachi Lei retreated into
+their forests, and many became landless refugees in southern Tsolyanu. The
+Red Hats are rumoured to be packing up and heading for home, now that
+Mirusiya is in.
+
+>Who were the principal generals for the various princes, the late emperor and
+>the foreign forces ?
+
+Kettukal acted for Eselne. Karin Missum and a number of other officers
+helped Mirusiya. The new Ksarul candidate, Taksuru, was not a military man,
+and he thus put his forces (from Bey Su and environs) at Mirusiya's
+disposal. Rereshqala had a number of generals from the southern cities, but
+I don't know exactly who.
+
+>What legions and their foreign equivalents comprised the main striking forces
+>of the respective armies ?
+
+Can't answer this one; the situation kept changing, and the "mix" of
+legions and officers did not seem to stay stable very long.
+
+>Was disease/starvation or combat the greater killer in the war- and by what
+>ratio ?
+
+The Empire had had a fairly good harvest just before the war, and most
+cities and towns had granaries full of food. Supplies were dwindling down,
+however, and the war was about to get ugly when Mirusiya's forces broke
+through the northern precipice behind Avanthar and came up through the
+"basement." I doubt that more than a few people really starved, mostly
+around Purdimal and Bey Su, where there was heavy fighting between
+Taksuru's troops and Eselnes's -- and then between Mirusiya and Eselne.
+
+>What Tsolyani territory do the Salarvyani and Mu'ugs still control ?
+
+See above. The Red Hats made a concerted attempt to take Do Chaka, too, but
+the "wild" Pe Choi of the forests hated them and stopped them cold. They
+did lay siege to Tumissa very briefly at the beginning of the war, but they
+couldn't hold out so far from home, with their supply lines constantly
+harrassed by Pe Choi and Tsolyani irregulars. As far as I know, thus,
+Mu'ugalavya still holds onto the remnants of its Pan Chake force, while
+Salarvya has informally occupied the Gilraya Forests. The latter have
+retreated out of Kaija and Kerunan.
+
+Emperor Mirusiya (he may take another throne-name soon) is weighing the
+odds of snatching part of Mu'ugalavya -- and/or some of western Salarvya.
+But he other problems:e.g. Yan Kor.
+
+>During what period was Baron Ald controlled by Dhich'une's faction ?
+
+From the time Dhich'une ascended the throne for about 3 months thereafter.
+The Baron did not appreciate having his "superior" plot to kill him! He
+thus retired to Ke'er to take care of many little uprisings and defections,
+
+>What is the status of the Baron/Yan Kor now ?
+
+He is still legally the ruler of Yan Kor. He has been spending his time
+fighting, pleasing, cajoling, bribing, and threatening various local city
+governments, Last I heard, Eber and Rulla were quiet again, after nearly
+pulling loose from the "confederation."
+
+>What naval activity has there been so far ?
+
+Almosat none to speak of. The Governor of Penom had thought to bring ships
+down to support one or another faction in Jakalla, but they never did go
+through with it: too much risk of being cut off by other forces from
+Thayuri and Vra.
+
+>Thanks for the history.  My players may not always appreciate such
+>information, but it improves the scenarios I write for them dramatically.
+
+>- Steve Pisani
+-----
