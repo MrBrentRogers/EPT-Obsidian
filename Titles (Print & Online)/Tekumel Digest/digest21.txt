@@ -1,0 +1,90 @@
+ 
+                           Tekumel Digest, Number 21
+ 
+                          Thursday, November 14th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Today's Topics:
+ 
+                        The beggar in the market says...
+----------------------------------------------------------------------
+ 
+Date: Sat, 9 Nov 1991 00:13:10 -0600
+From: martin@gargoyle.uchicago.edu
+Subject: The beggar in the market says...
+
+Having climbed a bit out of the tar-pit of work, I offer a couple of
+comments:
+
+Re: the Ahoggya and Shen.  I had a message on this subject which evidently
+was eaten a while back.  I'll try to reconstruct it.
+
+The enmity between Ahoggya and Shen stems from an incident in the reign of
+Hejjeka II "the Heretic" (1325-1340 AS).  Shen troops were used against
+Salarvyani Ahoggya mercenaries; the Shen were defeated at Khum, and the
+Ahoggya ate two or three captive cohorts of captives.  "As hateful as the
+smoke of an Ahoggya cooking-fire" is a proverb in Shenyu.
+
+However, the Ahoggya action was not an aberrant act with respect to Ahoggya
+customs; evidently it was more or less normal.  Given the relatively casual
+nature of the Ahoggya, I just cannot see them getting all upset about
+eating the Shen or about the Shen being eternally pissed at them.  Since
+Ahoggya are pretty much the big bruisers of the nonhumans anyway, they may
+actually enjoy the fact that some Shen take it upon themselves to attack. 
+But I would say they are more the recipients of the Shen's enmity rather
+than providers of their own.
+
+Moreover, this incident occured to Shen recruited by Tsolyanu.  The
+incident probably entered the lore of the Tsolyani legions, and new Shen
+recruits are surely indoctrinated in the "Ahoggya hate cult."  But what
+about Shen serving in Mu'ugalavya or Livyanu?  Have they even heard the
+story?  Maybe in rumors, but it's probably more the status of a legend than
+a feud.
+
+What about Shen from other egg-groups?  Given that they may already
+experience biological hatred for the egg-group that was eaten, I doubt they
+could get too worked up about some rumor from thousands of Tsan away that
+some of their biological enemies got munched.  Moreover, how many Shen not
+in the service of the Five Empires have even heard of an Ahoggya, much less
+seen one?
+
+This goes double on the Ahoggya side, for which the story, if known at all,
+probably has the status of a fictional joke in the far eastern Ahoggya
+enclaves, and is probably worth a belly laugh around the Ngu'uka pits in
+southern Salarvya and Haida Pakala.
+
+In sum, I doubt many Ahoggya feel active enmity to Shen, and that while
+Shen of the eaten egg-group serving in Tsolyanu armies might be
+anti-Ahoggya fanatics, the feeling probably attenuates rapidly in other
+egg-groups and other nations.  Tsolyani commanders must still be careful
+where they put the Shen, though.
+
+Of course, while roaming Tsolyanu, many Shen will fall into this category. 
+But a random Shen merchant, for example, might look upon an Ahoggya with
+nothing more than vague distaste.
+
+Re: Fu Shi'i.  At the end of Flamesong, while the Lorun woman and Fu Shi'i
+decide to off the Baron's son, they have a conversation in which the Lorun
+woman refers to those Fu Shi'i serves.  There's more to the reference, and
+it seemed to be not too far a stretch to imagine that his masters are the
+Hokun, about whom we have only rumors in published materials.
+
+Re: TeX and Metafont.  Does anyone know of Metafont versions of the
+Tekumelyani scripts?  Or does anyone have any Macintosh fonts?
+
+Charles Martin // martin@cs.uchicago.edu // Ngangmaru brujutle!
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

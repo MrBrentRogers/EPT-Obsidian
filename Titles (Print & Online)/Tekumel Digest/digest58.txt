@@ -1,0 +1,277 @@
+
+			   Tekumel Digest, Number 58
+
+     Monday June 19th 1993
+
+Requests or comments: tekumel-request@boombox.micro.umn.edu
+Submissions: tekumel-submit@boombox.micro.umn.edu
+FTP sites: rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel
+	   potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel
+	   quayle.mu.wvnet.edu (120.71.32.151) in /pub/rpg/uploads
+	   wings.micro.umn.edu (134.84.130.22) in /pub/tekumel/Digests
+
+Gopher:   Fun & Games/
+	    Games/
+	      Fantasy Role-Playing Games/
+		Empire of the Petal Throne RPG/
+		  Digests/
+
+Administrative junk:
+---------------------------------------
+Well, here is the next issue.  Sorry this one is late, I have been having 
+problems with my modem.
+---------------------------------------
+
+Topics for this issue:
+			   Questions and Answers!
+				     &
+			   Update on rules work.
+---------------------------------------
+	
+>From: Bob Dushay <DUSHAY@NYSPI.BITNET>
+>Subject: Comments on Swords and Glory Rules
+
+
+>Keith, it's good to have the journal up and running again.
+>Stick with the more frequent format.  A monthly format
+>is really only workable if you have the discipline to
+>be sure not to miss an issue.
+
+
+
+>Rob Smith gave an excellent critique of the Swords & Glory rules.
+>I can't resist sticking my oar in as a sometime user.
+
+>   I agree with Rob's three major points: combat is unworkably
+>slow, the spells are too complex without constant access to
+>the rules book, and there are too many tables covering too
+>many unique actions.  A simplified, faster moving system would
+>be much appreciated.  However, there are many features of
+>S&G that I think should be retained in an updated version.
+>Of course, this is heavily dependent on the type of game
+>one wants to run.  A D&D-style game, with lots of magic and
+>lots of combat would not use the same system as a more "realistic"
+>feeling game.
+>   I play D&D most of the time that I play anything.  It has
+>big advantages: the rules are well known by most participants
+>which speeds play, and combat is fast and furious.  It's easy
+>to score hits on monsters, and it's easy enough to retreat
+>if an opponent proves too much for you: instant death is rare.
+>On the other hand, when I tried a D&D approach for Tekumel (I
+>did submit my rules to the digest a long time ago) I found the
+>system just didn't sit well with my feel for the world: big
+>bruisers shouldn't find it easy to laugh off a legion of low-
+>level soldiers and take them all on with only minor damage.
+>(Imagine Conan confronted by a Semetl of the Legion of the
+>Scales of Brown.  Now imagine your favorite character.  See
+>a difference?)
+>   S&G's combat rules, in abstract, provided a very realistic
+>feel.  Experienced warriors could cut down weak opponents easily,
+>but a lucky shot from a foe could cause serious damage.  There
+>would be no Conan-style heroics!  In practice, however, the
+>rules don't flow nearly so smoothly.  My experience was that combat
+>was way too slow, in part because of looking up tables, and in
+>part because it was so infrequent to actually see a hit!
+>   My recommendation to speed combat is modest: first, make
+>it easier to hit.  I figure evenly matched fighters should have
+>about a 50% chance of getting a blow in per round, although I
+>haven't tested this rate.  Second, use the polyhedral dice to
+>score damage, like the D&D rules: say, table A for melee becomes
+>1-4 points, B is 1-6, C is 1-8, and so forth.  This should speed
+>up the melee while keeping a realistic feel.
+>  The various skill rolls could also be a simple percentile die
+>roll against the characteristic itself, with a simple progression
+>to increase the difficulty: -10 for an easy task, -30 for a
+>difficult one, etc.  One could also consider the Universal
+>(something?) table used in the (gasp!) TSR's Marvel Superheros
+>game: a simple universal table for nearly any contingency.  It
+>works quickly and easily.
+
+>   I can't report which rules I'm currently using because I'm
+>not running a game at present.  (I am becoming a player very
+>shortly in one.)  If I start again, I intend to try to modify
+>Swords and Glory toward playability, which looks easier than
+>trying to convert all of the stats from the newer Tekumel stuff
+>into a different game system.  I know; I've tried.  I am looking
+>forward to both a rewrite and the long delayed volume 3.
+>   I am also interested in hearing about what rules other people
+>use and the respective advantages and disadvantages.
+
+
+
+
+
+
+I have to put in an appology here.  I accidentaly erased the address of the
+sender on the following letter. Paul, if you could, please send me your
+address.
+
+
+>Hello again.
+
+>     I thought  I would  take up  Robert  Smith's invitation  to write  in  and
+>comment on what  I would  like to  see in  the new  Tekumel roleplaying  rules.
+>Unlike Robert  I have  never seen  the S&G  rules so  I cannot  comment on  how
+>desirable a cut-down  version of  these would  be but  I can  suggest what  the
+>nature of the new rules should be.   Firstly however I should say that I  agree
+>with a lot  of what  Robert had  to say.   I will  start my  comment with  some
+>general points on  what I  (Paul Snow) think  roleplaying rules  should aim  to
+>achieve and then move on to particular points relating to Tekumel.>>
+>
+>     Roleplaying rules  allow  gamers  to  play a  rolegame  within  an  agreed
+>formalised structure that binds all play  to a shared definition of the  nature
+>of reality.  I believe that gamers who enjoy playing games set on Tekumel do so
+>because of the richly  detailed environment of the  world and the  accompanying
+>exotic atmosphere of the _roleplaying_ of the  game.  Bearing this in mind  any
+>game set on Tekumel has to have rules that recreate the laws of magic,  science
+>and society that hold on Tekumel and which thus simulate life on Tekumel.   The
+>rules also have to be sufficiently streamlined to be playable without intruding
+>on gameplay in a way that breaks or spoils the roleplaying experience.  This is
+?really just a re-statement of the  necessity for a balance between realism  and
+>playability that is true in any game but  what I want to emphasise is that  the
+>realism to be achieved is the reality  of life on Tekumel and that  playability
+>is _most_  important  to  preserve  the rich  roleplaying  experience  that  is
+>possible with Tekumel.  A Tekumel game running under the new rules should  have
+>the same feel as one  that has been run without  any dice being rolled  because
+>the implementation of the  new rules moderated by  dice should be so  intuitive
+>and quick as to be totally unobtrusive.
+>
+>CHARTS / MAGIC
+>     With these points in mind it is clear that _Chartitis_ is disastrous,  for
+>combat or anything, as it formalises the  game into a succession of breaks  out
+>of gameplay and  into librarianship  in order  to run the  game.   Even if  the
+>charts are adding to the accuracy of the simulation of life on Tekumel this  is
+>undesirable. With respect to  magic, it might  be the case  that the nature  of
+>magic on Tekumel is that it is a baroquely convoluted process to master a spell
+>but that doesn't mean that the rules are optimised if they recreate this. So  I
+>agree with Robert here that a lot of streamlining seems in order.
+>
+>COMPLEXITY
+>     I believe that hidden complexity in rules  systems is not a problem if  it
+>does not intrude on gameplay.  Both RuneQuest and GURPS have pretty complicated
+>game systems  but they  are both  fairly straightforward  in play  because  the
+>complicated calculations have taken place in the pre-game stage.  So once  more
+>I agree with Robert, a two sided character sheet should be able to hold all the
+>necessary information  for routine  game play  ( and  perhaps a  two sided  ref
+>sreen for  vital  facts/charts)  but I  am  happy  if the  attributes  on  the
+>character sheet have been  calculated in non-trivial ways  to start with.   The
+>caveat here of course is that the harder  it is to generate PCs, the harder  it
+>is to generate NPCs.   The draft RQIV rules which  are floating around the  net
+>have solved this by having a good PC/NPC generation system that is based on the
+>expenditure of background points.  This has the strength that it is as easy  to
+>generate experienced or veteran characters as novices.
+>
+>STANDARDISATION
+
+>     I agree that game mechanics should be as standardised as possible but just
+>as insisting on using only  d10s, d20s and d100  is unnecessary, it is  equally
+>needless to insist  on only  one mechanism. I  suggest that  broad skills  that
+>represent extended knowledge or actions are well covered by using rolls against
+>skill on a multi-dice bell distribution with modifiers for difficulty. This  is
+>also easy  to convert  into head-to-head  tasks when  characters confront  each
+>other in a skill vs skill contest.   However, for combat or any situation  that
+>is broken down  into many component  integer steps a  flat probability roll  is
+>better.   This also  allows  a more  gradual  increase in  character  ability.
+>Standardisation of  mechanic  within  single  gameplay  areas  (magic,  combat,
+>Lore/knowledge  skills,   practical  skills)   is  a   necessity  but   equally
+>differentiation of mechanic between the areas can help give individual feels to
+>these areas. (I have seen people genuinely strongly arguing for this.)
+>
+>CHARACTER GENERATION
+>     Several things to consider here, not  just the divide between the  options
+>of a random and deliberate method. It may be desirable to have various  "power"
+>levels at which to generate characters.  PCs may have characteristics which are
+>generated such that the range, and  thus probably the average, is identical  to
+>that of the  rest of  the population,  or they  might be  heroes whose  average
+>characteristics put them in a range equal  to the top percentile of the  massed
+>population.  So how heroic are the  characters? Do you choose or is this  set?
+>As mentioned above any system for PCs will also have to produce NPCs so it just
+>as well  be able  to produce  characters from  differing levels  of society  at
+>different "experience" levels right from the start. (Non frp use of  experience
+>there)
+
+>DOING THINGS: EMPOWERING THE PCs
+>     The present skills  generated in  Adventures On Tekumel  tend to  describe
+>professional skills or knowledge skills that the characters have. This is  fine
+>and understandable given the academic background  of both Prof. Barker and  the
+>average Tekumel player. However, any game  system in addition to the  functions
+>described above has to empower the adventurous PCs to be able to do things  and
+>be heroic within the game.  The worst thing you can  tell a player is that  you
+>can't do  that or  can't  try that  or  pause while  trying  to decide  how  to
+>adjudicate the situation.  So  I think the game needs  more skills like   Jump,
+>Run, Climb, Shadow, Sneak and other skills that enable characters to get on and
+>_do_ things and _know_ that they can do (or try to do) these things in the game
+>whenever they want.  As the rules currently stand (as far as I can tell)  there
+>is no indication of the supposition that  characters can climb a wall or  climb
+>out of a  pit unless they  have mountaineer. (I  know you can  always roll  vs.
+>stats but I'd  rather enshrine these  base skills  in the game  and then  allow
+>progression).
+>     I want to make clear that professional/craft skills, lore skills and other
+>knowledge skills  are  all vital  to  delineate character  knowledge  and  also
+>Tekumelani society.   I'm not against  them but the  active "doing" skills  are
+>vital as well.
+>
+>COMBAT
+>     Absolutely vital to get right. But what sort of combat do we want? I  like
+>the idea of fast and deadly so long as that deadliness is being applied to  the
+>NPCs. It  is no  good  if a  novice  character grabs  his  sword and  goes  out
+>searching for glory if he  then has his eye poked  out by the first peasant  he
+>meets wielding  a pointed  stick. I  favour a  more cinematic  feel to  combat:
+>Adventures of Robin Hood or Indiana Jones. Combat needs to feel deadly so  that
+>the players always fear death and appreciate victory.  This can be supplied  by
+>the possibilities of special or critical hits  but overall the odds have to  be
+>slightly stacked  towards the  PCs.   I think  RQ combat  is a  good model  for
+>combat. It has a good feel even if some of the rules are a bit odd in detail  (
+>'til RQIV hits the shelf  of course).  Also magic  needs to be integrated  into
+>combat in the right way.  Detailed combat probably leads to short melee rounds.
+>How fast can spells be cast on this scale and how deadly are the effects?  Lots
+>of magic in  combat is ok  so long  as it doesn't  devalue the fun  of being  a
+>fighter.
+>
+>ALIEN RACES / ALIEN MAGIC
+>     Even if core rules apply to  aristocrats from Tsolyanu the game  mechanics
+>have to be flexible enough to allow easy expansion to other races. For strength
+>it is easy to extend  the range above human to  take in say Ahoggya for  combat
+>purposes.  However if strength is also being used in the rules to calculate the
+>distance that you can jump then clearly the two may not scale in the same  way.
+>By the way, _Just how far and high do  you think an ahoggya can jump_ ?   These
+>sort of  things have  to be  considered and  the solution  may not  be  obvious
+>without resorting to chartitis.
+>     The question of magic for other  races is also interesting. What magic  do
+>the Hluss use?  No player,  I would hope, is ever going  to play a Hluss so  do
+>the rules for Hluss magic belong in "the  rules" or should the DM just make  it
+>up?  What are the boundaries of the core rules before supplements getting  into
+>the realms of "future suplements ...".
+>
+>WHAT NEXT: HELP
+>     Well I have rambled  on enough by  now. What does  everyone else think?  I
+>know that some of the subscribers to  this group are also deeply involved  with
+>the current RuneQuest Renaissance.  So what advice  from that experience  would
+>you pass  on to  the  potential Tekumel  Renaissance?   Henk  Langeveld,  Loren
+>Miller, David Cheng? I know that you're out there!
+>Paul Snow
+
+  Whew!   Some great letters there.  These letters will also be sent on to
+the rules design team.  I have heard that the rules are coming along nicely
+and that there is a lot of re-work going on.  I am pretty sure that the spell
+lists wil remain esentialy unchanged.  I personaly think that the diversity
+of spells is one of the funnest (Umm funner? most funnest?) parts of the
+game.  I always try to find new ways to use the old spells
+A
+there was one time when I hit an undead creature attacking us with a 
+revivication.  Really pissed him off.
+
+Anyway, work on other things goes well.  I spoke with Wes Postlethwaite
+and the miniature sales are going well.  He is having someone design
+air cars, lightning bringers, and some new Pe-Choi figures.
+
+Untill next time. keep those letters coming!
+
+
+B
+B
+D
+D
+C
+Thi
+

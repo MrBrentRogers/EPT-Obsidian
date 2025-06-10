@@ -1,0 +1,111 @@
+ 
+                            Tekumel Digest, Number 7
+ 
+                             Monday, July 22nd 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Administrivia:
+It has come to my attention (Thanks, Bob) that there is a
+typo in the header file for this digest. The directory that
+the archives reside in is '/pub/rpg/tekumel', not 
+'/pub/rgp/tekumel'. I hope that this hasn't inconvienced anyone.
+
+The Management
+ 
+Today's Topics:
+ 
+                         TOME and Barker to re-issue EPT
+                           Re:  Tekumel Mailing Header
+                           Re:  Tekumel Mailing Header
+----------------------------------------------------------------------
+ 
+Date: Mon, 15 Jul 91 11:09:36 -0500
+From: "Albatross" <alberti@cs.umn.edu>
+Subject: TOME and Barker to re-issue EPT
+
+3 July 1991
+Minneapolis
+
+Recently, Theatre of the Mind/Clash of Arms games of Pennsylvania entered
+negotiations towards publishing an all-new edition of the Empire of the
+Petal Throne (EPT) role-playing game written by M. A. R. Barker.
+
+Theatre of the Mind has re-issued the popular _Book of Ebon Bindings_
+and has announced plans to re-issue the _Deeds of the Ever-Glorious_,
+an updated compendium of the military legions of Tsolyanu.  Plans are
+also underway to release new works, including an EPT World Book, Solitare
+Adventure, and World Maps.  It is hoped to coordinate the release of these
+new materials with the publication of Professor Barker's third EPT novel
+sometime in 1992.
+
+Difficulties encountered in publishing the _Book of Ebon Bindings_ included
+the refusal of several large distributors to accept the publication based on
+the controversial nature of the work, and the refusal of _The Dragon_,
+published by TSR, to print the advertisement for the _Book_.
+
+The _Book of Ebon Bindings_ is currently carried by four distributors, and
+if it is unavailable in your area, ask your local game store to contact one
+of the following distributors:  Chessex, Aladdin (of Burnsville, Minnesota),
+Berkeley, and Zocci.
+
+If you have questions or comments to address to the publishers, you may write
+to:
+
+TOME, Inc.
+PO Box 60668
+King of Prussia, Penn  19406
+
+Additionally, Theatre of the Mind will be present at Gen-Con with copies of
+the _Book of Ebon Bindings_.  They will be located in booth #423.
+
+------------------------------
+ 
+Date: Wed, 17 Jul 91 10:43:37 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re:  Tekumel Mailing Header
+
+Thanks for the errata. Will update soon. Thanks also for the
+update on new products. Theatre of the Mind at least looks like it
+is really serious about producing products. I noticed on the
+Ebon book that Different Worlds was still mentioned in the copyright
+page. Does that mean that they still hold the rights but are licensing
+them to Theatre of the Mind, or some such arrangement. 
+
+I saw that disclaimer and actually thought that it was appropriate for the 
+material. It is, after all, pretty icky stuff, and a disclaimer doesn't hurt 
+much.  I think that The Dragon's refusal to advertise it is unfortunate and
+stupid and paranoid, but not unexpected from them. My word, Tekumel material
+that is trying to advertise? What is the world coming to? :-) Did Zocchi
+ever advertise S&G? I don't remember ever seeing an ad, but then I wasnt reading
+any game magazines at the time.
+
+Well, that's all for now.
+
+------------------------------
+ 
+Date: Wed, 17 Jul 91 14:30:54 -0500
+From: "Albatross" <alberti@cs.umn.edu>
+Subject: Re:  Tekumel Mailing Header
+
+Theatre of the Mind bought the rights following its production of BEB.
+That's probably why the licensing is on there.  I am not entirely clear on
+Zocci's involvement and distributorship -- it was mentioned in an aside by
+the fellow from TOTM that I spoke with.  Your sentiments on The Dragon echo
+mine, however.
+
+Thanks for the note!
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

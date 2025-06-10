@@ -1,0 +1,245 @@
+ 
+                           Tekumel Digest, Number 20
+ 
+                           Friday, November 8th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Today's Topics:
+ 
+                            Adapting Torg to Tekumel
+                               Re: Tekumel Digest, #19
+----------------------------------------------------------------------
+ 
+Date: Wed, 6 Nov 91 19:45:14 GMT-0500
+From: parham@masig5.ocean.fsu.edu (Fred Parham)
+Subject: Adapting Torg to Tekumel
+
+I have been working on adapting the Torg rules to the world of
+Tekumel, either for adventuring in Tekumel or for having Tekumel be
+part of Torg's Possibility Wars. Here are my ideas for axiom levels,
+world laws, and how to integrate Tekumel into a Torg campaign.
+Any comments?
+
+Some of this material deals not with Tekumel in itself but with how it
+interacts with the other worlds in the Torg campaign. If the Torg
+system is used just for adventuring in Tekumel, the axiom levels are
+not really necessary, since someone familiar with Tekumel can just
+disallow anything inappropriate. The world laws contain rules
+mechanics which deal with play in Tekumel.
+
+--Axioms--
+
+Social Axiom: 14
+Much of the known part of Tekumel is controlled by five large empires:
+Tsolyanu, Salarvya, Mu'ugalavya, Yan Kor and Livyanu. Society in these
+empires and in many of the smaller states is rigidly stratified. A
+large part of a person's place in life is determined by the clan into
+which he or she is born. In Tsolyanu, women normally have no
+independent legal existence; they are completely controlled by the
+leaders of their clans, though they can declare themselves "Aridani"
+(independent) and get the same rights and duties as a man. The Law of
+Stagnation has a huge influence on Tekumeli society.
+
+Spiritual Axiom: 20
+The Gods are real on Tekumel, and they have been known to intervene
+when called on. See the Law of Divine Intervention below for more
+details.
+
+Magical Axiom: 18
+Magic is important in Tekumel. Each legion of the armies of the five
+empires has its own wizards to aid it in battle. The temples and noble
+clans also have wizards. Magic is affected by the laws of Planar Power
+and Stagnation.
+
+Technological Axiom: 25
+Although the technology commonly in use on Tekumel is at a fairly low
+level, there are still functional devices of the ancients which have
+amazing powers; however, much of the knowledge of how to use these
+devices has been lost. Technology is affected by the laws of
+Decadence, Stagnation, and Planar Power.
+
+1. Law of Divine Intervention
+
+The gods are real on Tekumel, and they have been known to intervene in
+human affairs when called on; however, the belief of their followers
+does not produce any standardized miracles. The supernatural powers
+possessed by some of the clergy are the same as those used by
+independent magicians (of whom there are very few, and most of whom
+were originally trained by the temples), the sorcerers of the nonhuman
+races, and some of the devices of the Ancients. In Torg campaigns, any
+miracle other than Ritual of Hope or Ritual or Purification used in
+the cosm or realm of Tekumel creates a contradiction. Invocation of
+the gods according to the standard rules is allowed, however.
+Characters in the Tekumel realm or cosm can invoke the gods using
+either Faith or Focus; characters native to Tekumel will normally have
+only Faith.
+
+2. Law of Decadence
+
+There are many powerful technological devices in Tekumel, with
+technological levels up to 25. There are also techno-magical devices,
+allowed by the Law of Planar Power, with levels up to 31. These
+devices have no trouble functioning (unless they have exhausted their
+power supplies); however, the knowledge of how to operate, repair, and
+build them has been lost. Any use of the Science skill or any Vehicles
+skill to repair, build, or learn about any device above tech level 15
+takes the "device is from cosm with a higher tech axiom" penalty given
+under the description of the Science skill; tech 15 devices take half
+that penalty; devices of tech 14 or less are unaffected.  The penalty
+for learning how to operate a device does not apply to devices which
+can be operated very simply; for example, the "Eyes", techno-magical
+devices of the Ancients which are the size and shape of a human
+eyeball, are operated simply be pressing a button.
+
+In Torg campaigns, characters entering the Tekumeli realm on Earth
+with high-tech devices will still know how to operate the devices if
+they are fairly simple (for instance, if all it takes is pulling a
+trigger), and they will remember what the devices are supposed to do;
+however, they will forget how to operate, build, and repair complex
+devices until they have made the appropriate Science or Vehicles skill
+rolls. I suggest that the charactes be required to take a certain
+amount of time after a failed roll before they can try again; perhaps
+this could be governed by the dramatic skill use rules, with each card
+flip taking a day.
+
+3. Law of Stagnation
+
+Societies on Tekumel have remained basically unchanged for millenia.
+Use of the Persuasion skill to try to get anyone to do anything
+that would lead to a fundamental change in society gets a -3 penalty,
+as does use of the Science skill to invent things. A character
+designing spells gets a penalty of -3 to all rolls, and the character
+is stymied for those rolls. Creating spells to be cast on the fly
+creates a contradiction in Tekumel.
+
+4. Law of Planar Power
+
+Magic in Tekumel derives its power from Tekumel's connections to
+other dimensions. In Torg terms, these dimensions are part of
+Tekumel's cosm but can only be reached by Extradimensional Gate or
+similar spells. In some parts of Tekumel, the barriers between
+dimensions are especially thick, and there is a penalty to the bonus
+generated for magical skill rolls and rolls to apply the magical power
+of ancient devices; this penalty can be as high as
+-12 in some areas. In other areas, there is a concentration of magical
+power and there are bonuses to magical rolls. Such areas are much
+rarer than the areas which give penalties, and the bonuses only go up
+to +3.
+
+The extradimensional powers of Tekumeli magic are dissipated by metal.
+Any character with at least 1.5 kg of nonmagical metal on his person
+has a penalty to all magical skill bonuses of 2 times the Torg value
+of the mass of the metal. Thus a character wearing 30 lbs. of metal
+armor (Torg value 6) would have penalty of -12 to all magical skill
+rolls.
+
+The power of magic in Tekumel is such that it allows spells that can
+be cast by the power of the mind alone. There are two ways of handling
+this. The first is just to use spells with the gestures, incantations,
+etc. taken away and the difficulty increased to compensate; the second
+is to use the psionics rules, with the psionics depending on the magic
+axiom instead of the social axiom. More details may follow after the
+Space Gods book is published later this month.
+
+The Ancients had devices which drew on extradimensional power. Some of
+those devices still exist. They are generally more powerful and
+predictable than spells; however, they are subject to the laws of
+Decadence and Stagnation. The law of Planar Power allows devices of
+tech level 26-31 to exist, but these devices also require a magic
+axiom of at least 12; devices of tech level 26-31 from other cosms
+will not function in Tekumel unless they are powered by magic. The
+Occultech rules from the Tharkold sourcebook to be published in
+February may be helpful here.
+
+--Torg Link Difficulties--
+
+For Tekumel characters in other cosms:
+Core Earth   13
+Living Land  20
+Aysle        11
+Cyberpapacy  10
+Nile Empire   8
+Nippon Tech  18
+Orrorsh       7
+Land Below   17
+Space Gods   13
+
+For characters from other cosms in Tekumel:
+Core Earth   10
+Living Land   8
+Aysle         7
+Cyberpapacy   7
+Nile Empire   9
+Nippon Tech  11
+Orrorsh       9
+Land Below    3
+Space Gods   16
+
+--Tekumel in Torg campaigns--
+
+It would be possible to have an invading force from Tekumel as part of
+the Possibility Wars. The Earth from which Tekumel was originally
+settled would be assumed to be a alternate-cosm copy of Core Earth.  I
+think it would be appropriate to have the High Lord leading the
+invasion be a worshipper of one of Tekumel's Pariah Gods. Those gods
+desire to draw all the universe into themselves (thereby destroying
+it); that is also the goal of the Nameless One, the source of the
+Darkness Devices which give Torg's High Lords their power. Perhaps the
+High Lord could be one of the five empires' leaders who has fallen
+into the worship of the Nameless-One-as-Pariah-God.
+
+Fred Parham
+
+------------------------------
+ 
+Date:         Thu, 07 Nov 91 16:15:00 EDT
+From: Bob Dushay <ROYER%NYSPI.bitnet@CUNYVM.CUNY.EDU>
+Subject:      Re: Tekumel Digest, #19
+
+A few points, I'm sure Mr. Alberti could cover easily:
+
+1. The Egg of the World has been mentioned now and again in many Tekumel
+publications, perhaps most notably in "Flamesong", where the priest
+mistakes the tube-car for it.  Subadim the Sorcerer sought it and
+apparently found a fragment of shell.  I consider myself a moderately
+well-informed fan, and all I know is that the Egg is of immense sorcerous
+power, and may have some virtue in time-travel magics.  It certainly
+can effect the world strongly.
+
+2.  The Pylons are mentioned in "The Book of Ebon Bindings", where they
+are listed as an obstacle on one of the Demon Planes.  The description
+says they should be passed with caution, although the author of the book
+expresses puzzlement, as he claims they are no threat that he knows of.
+
+3.  I would also like to hear more about Mr. Alberti's musings.  The
+alternate universe theme of Tekumel explains alternate campaign worlds
+very nicely, although the necessity of Avanthar is puzzling.
+
+4.  Why is not Fu Shi'i's identity and that of his masters a mystery?
+Presumably Mr. Alberti has either discovered these and considers them
+unimportant, or Fu Shi'i is of less consequence than I believe.
+
+5.  I would be less surprised of the pocket dimensions being caused by
+the Mihalli than by the Gods.  However, the power needed to collapse each
+of the worlds of Humanspace into individual pockets is so inconceivable
+that I might argue for the natural stresses caused by the Three-Light drive
+as hypothesized in the Sourcebook.  Still, I have been sufficiently
+surprised by some of the other revelations on this digest that anything
+is possible.
+
+6.  Where is the hobbit from, pray tell?
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

@@ -1,0 +1,343 @@
+ 
+                           Tekumel Digest, Number 24
+ 
+                           Friday, December 6th 1991
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Administrivia:
+Since eklektik.cs.pitt.edu is down until further notice, I decided
+that the archives of this digest needed to be on more than one
+machine. As you can see by the header, three new sites have been
+added. If you need back issues of the Tekumel Digest, please get them
+from the FTP sites, if possible.
+
+Thank you for your cooperation.
+The Management
+
+ 
+Today's Topics:
+ 
+                             S & G animal statistics
+----------------------------------------------------------------------
+ 
+Date: Fri, 6 Dec 91 16:31:25 CST
+From: "Brett Slocum" <slocum@ssdc.honeywell.com>
+Subject: S & G animal statistics
+
+The following is a set of Tekumeli animal statistics that I have
+gleaned from various official and semi-official publications,
+such as the Tomb Complex of Nereshanbo. These are not meant to
+supercede those submitted to an earlier Digest, but to augment
+them. You will notice that the list is hardly complete.
+
+BTW, I am developing a set of animal statistics for GURPS. Those may be
+the next thing I send, if I get them finished. I may send an incomplete
+set, as I've done here.
+
+Tekumeli Animal Statistics
+
+Chlen                                           Armour-Beast
+Body: 75/83/91
+Armor: (10) 8
+Init:
+ActP: 4
+CV: 10
+Attack: stomp G
+   horn C
+   bite D
+Movement: 1/3/6/14/25
+Special: stamina 30, actions: bite 4, horn 3, stomp 2
+
+Chnelh                                            Ape-Mutant
+Body: 19/27/35
+Armor: 0
+Init:
+ActP: 6
+CV: 4
+Attack: B
+Movement: 2/6/12/25/50
+Special: stamina 20, action: one moves out another replaces 3
+
+Dnelu                                       Concealed Leaper
+Body: 15/23/29
+Armor: 2
+Init:
+ActP: 9
+CV: 14
+Attack: C
+Special: action: leap 3
+Movement: 3/9/20/40/80/7 +leap
+
+Dzor                                           Forest Giant
+Body: 55/64/73
+Armor: (4) 1
+Init:
+ActP: 5
+CV: 14(day)
+   20(night)
+Attack: G
+Movement: 3/8/14/30/63
+
+Feshenga                                Many-Legged Serpent
+Body: 110/128/146
+Armor: (7) 3
+Init:
+ActP: 5
+CV: 15
+Attack: E*
+Movement: 1/6/12/25/55
+Special: poison
+
+Hra                                          Bloodsucker
+Body: 110
+Armor: 4
+Init: 0
+ActP: 4
+CV: 10-12
+Attack: sword-C, lance-E
+Special: Any Priest of Ksarul (circle 3 +) has roll to control, reanimates
+in 2 minutes unless touched by Amulet of the Good God; will
+pursue 90% of the time, cannot stand light.
+
+Huru'u                                        Howler
+Body: 20
+Armor: 7
+Init: +2
+ActP: 4
+CV: 1-3
+Attack: B
+
+Hyahyu'u                                         Whooper
+Body: 19/27/35
+Armor: (4) 0
+Init:
+ActP: 5
+CV: 12
+Attack: D
+Movement: 3/8/14/30/63
+
+Kayi                                             The Eye
+Body: 40
+Armor: 1
+Init: +2
+ActP: 5
+CV: 4-6
+Attack: A
+Special: any attack has 75% chance of entangling target;
+
+Kuruku                                       Small Giggler
+Body: 13/19/23
+Armor: 1
+Init:
+ActP: 6
+CV: 4
+Attack: Bite B
+Movement: 3/9/20/40/80
+
+Lri                                   Flying Stinging Creaturwwwwe
+Body: 70
+Armor: 5
+Init: +4
+ActP: 6
+CV: 7-9
+Attack: D
+Special: tail sting paralyses.
+
+Mnor                                   Shaggy Insect Creature
+Body: 32/42/52
+Armor: 12(+6)*
+Init:
+ActP: 6
+CV: 12
+Attack: C
+Movement: 3/8/18/38/75
+Special: anything piercing armor get +6 damage (14-12+6 = 8, 11-12=0)
+
+Mrur                                           Undead
+Body: 38
+Armor: 2
+Init: -1
+ActP: 4
+CV: 1-3
+Attack: A
+Special: regenerate in 2 minutes unless burned
+
+Ngrutha                                         Leech
+Body: 50
+Armor: 5
+Init: +2
+ActP: 6
+CV: 7-9
+Attack: B, claws
+Special:
+
+Qaqtla                                      Swamp Snake
+Body: 60
+Armor: 4
+Init: +4
+ActP: 6
+CV: 10-12
+Attack: E
+Special: poisoned slashing whip-tail causes death in 1 minute.
+
+Qol                                    Serpent-headed Ones
+Body: 36
+Armor: 6
+Init: 0
+ActP: 4
+CV: 1-3
+Attack: weapon
+Special: weapons poisoned, bite does A plus poison.
+Arrows poisoned too. Only attack if they outnumber by 5-6.
+
+Qumqum                                             Thunderer
+Body: 120
+Armor: 2
+Init: +2
+ActP: 4
+CV: 13-15
+Attack: F
+Special: special -6 to all attack CV
+
+Renyu                                       Loyal Follower
+Body: 35/42/49
+Armor: 3
+Init:
+ActP: 6
+CV: 10|NA: 2-11|DX:
+Attack: bite: C Claw: B
+Movement: 3/8/16/35/70
+
+Serudla                                         Pale Murderer
+Body: 52/110/180
+Armor: 10
+Init:
+ActP: 5
+CV: 13/25/30
+Attack: acid: D/D/D
+   weapon: D/F/G
+Movement: 3/8/15/30/75
+Special: action: spit 3, weapon 4
+
+Shedra                                           Eater of the Dead
+Body: 40
+Armor: 2
+Init: 0
+ActP: 4
+CV: 1-3
+Attack: D
+Special: anyone killed becomes Shedra in 2 minutes unless Remove Curse is
+cast. Once they are Shedra, only a Wish or Divine Intervention can return them to
+life.
+
+Thunru'u                                    Eater of Eyes
+Body: 90
+Armor: 4
+Init: +2
+ActP: 5
+CV: 10-12
+Attack: C
+Special: repeled by Tsural buds
+
+Tsi'il                                      Giant Herbivore
+Body: 63/76/89
+Armor: (5) 2
+Init:
+ActP: 4
+CV: 16
+Attack: D+2 tail
+Movement: 1/3/6/14/25
+Special: actions: tail 3
+
+Tsoggu                                     Drowned One
+Body: 45
+Armor: 2
+Init: 0
+ActP: 4
+CV: 4-6
+Attack: B
+Special: paralysis only when looked in the face
+
+Vorodla                                       Flying Undead
+Body: 50
+Armor: 3
+Init: +4
+ActP: 5
+CV: 7-9
+Attack: C
+Special: regenerate in 2 minutes; +2 CV at night.
+
+Zrne                                         Barbed One
+Body: 35/42/49
+Armor: 4 (3)
+Init: (+4)
+ActP: 5 (6)
+CV: 16(10-12)
+Attack: bite D*
+   paws(2) A(F)
+Movement: 3/9/18/35/75/7 +leap
+Special: action leap 3 bite 3 paw 2, stamina 10, Teeth are poisoned,
+death in 12 sec.
+
+Giant Atlun-spider
+Body: 60
+Armor: 2
+Init: 0
+ActP: 5
+CV: 7-9
+Attack: D
+Special: may 'web' opponent; as per light x-bow,
+any hit immobilizes opponent, CV = 0 when
+immobilized.
+
+Giant Shqa-beetle
+Body: 80
+Armor: 1
+Init: 0
+ActP: 4
+CV: 4-6
+Attack: C
+
+Zombie Hlyss
+Body: 120
+Armor: 4
+Init: 0
+ActP: 4
+CV: 10-12
+Attack: C
+Special: humans -1 to attack it, tail - F
+plus poison
+
+Giant Dri-ant
+Body: 80
+Armor: 2
+Init: +2
+ActP: 5
+CV: 4-6
+Attack: C
+Special:
+
+Giant Chri-fly
+Body: 30
+Armor: 0
+Init: +4
+ActP: 8
+CV: 4-6
+Attack: B
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

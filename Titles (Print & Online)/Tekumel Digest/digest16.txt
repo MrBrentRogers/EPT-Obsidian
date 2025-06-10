@@ -1,0 +1,109 @@
+ 
+                           Tekumel Digest, Number 16
+ 
+                          Wednesday, October 9th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Today's Topics:
+ 
+                                Re: Tekumel Magic
+----------------------------------------------------------------------
+ 
+Date: Tue, 8 Oct 91 16:01:47 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re: Tekumel Magic
+
+In a message from parham@masig5.ocean.fsu.edu (Fred Parham) "Tekumel Magic":
+> 1) I have seen several references to a distinction between
+> sorcerers and shamans in the Digest postings. Is this related to
+> the distinction between psychic and ritual spells, or is it something
+> else entirely?
+
+This is more related to the difference between "civilized" magic and
+"tribal" magic.  Both sorcerers and shaman cast psychic and ritual spells.
+Sorcerers learn spells from the temples or lay-priests. Shamans learn their
+spells from their master shaman. Some of the spells overlap, and like the
+Temple spells (that only a particular temple will teach), shaman have
+spells that only they can teach.  A shaman could go to one of the Five Empires
+and learn spells in a temple, as long as they properly approached the
+temple and joined it.  The method of spellcasting is the same.
+
+> 2) What sorts of spells are restricted to particular temples? Which
+> ones are generally known?
+
+Those spells related to the inner most doctrines of the temples are "temple-only"
+spells. The Grey Hand (from EPT) is actually known only to the temple of
+Wuru. They won't even teach followers of Hru'u. There are a few Temple spells
+that all temples know a different version of: Demonology, Revivification,
+Inscription (Scroll usable only by fellow sect members), and Muniments of
+Excellence (an impervious shell, no magic in or out, no physical blows in or
+out).  The temple spells for Avanthe deal with air, weather, poison, fertility,
+earthquakes, water, and plants. They also teach the most powerful form of
+the Hands of Kra. Belkhanu's temple spells deal with removing and replacing 
+souls, Astral Projection, communication with the dead, permanently putting
+undead beings to rest, and preventing someone from being made into an undead.
+They also teach the strongest forms of the Silver Halo of Soul Stealing, flight,
+and creating nexus points. Dlamelish: ecstasy, summon succubus, disguise,
+seduction, magical protection, endurance (and the opposite), sexual potence 
+(and impotence), youth and aging. Hnalla: light blast, vision, a magical
+barrier, destroying illusions, sleep, dispel Change demons, and creating sacred
+ground. They also teach the most powerful Teleportation spell. Hru'u: dispel
+Stability demons, confusion, freezing, incorporeal body, nightmares, creating
+sacred (to Change) ground, stone to mud. And they teacht the most powerful
+form of illusion. Karakan: morale (and demoralization), waepon mastery, 
+duplication of a warrior, tremors, a death bolt. Ksarul: a horrible plague,
+a magical fatigue battery, the knowledge of ancient devices, creating the
+Food of the Ssu, a magical barrier, duplication of a mage, and the highest
+forms of Domination for androids, illusions, and the creations of this temple:
+biridlu, hli'ir, huru'u, kayi, nshe, qol, thunru'u, tsu'uru, and Ru'un.
+Sarku: magical protection, steel to copper, the strongest Domination, enfeeblement,
+the highest forms of reanimating undead, undead summoning. Thumis: highest
+form of neutralizing poison and disease, friendliness, the highest form of
+detect magic, another magical barrier, healing, preservation of books and scrolls,
+instant skill learning. Vimuhla: sealing openings, a lightning bolt, a wall
+of lava, reduce strength, berserker, magical blades, a barrier of flame, 
+armored skin. 
+
+You get the idea. One of my favorites from the Temple of Dra is Risibility.
+It causes the target to percieve the ridiculousness of life and begins
+laughing uncontrollably, at the most powerful levels, until they literally
+die laughing.
+
+The kinds of things everyone knows are simple forms of just about everything:
+healing, telepathy, domination, disenchantment, invisibility, detect magic,
+illusions, sleep, spell shields, terror, telekinesis, teleportation, and
+animal control.
+
+Then inbetween are the "Generic" spells that are known by a small set of
+temples. This is where such venerable favorites such as Doomkill (Hnalla,
+Karakan and Vimuhla only), Hands of Kra (Avanthe, Belkhanu, Dlamelish, Sarku),
+Silver Halo of Soul Stealing (Belkhanu and Hru'u), Vallation (Walls, all
+temples), and Vapour of Death (Hru'u, Ksarul, Sarku, and Vimuhla only) fall.
+(n.b. the Cohorts of the above listed Gods can also know these spells).
+
+> 3) Is there any particular pattern to the division of spells into psychic
+> and ritual?
+
+In general, spells associated with "psychic" types of tasks, such as telepathy,
+clairvoyance, domination, psychometry, dowsing, aura reading, telekinesis,
+fear, language comprehension, Hands of Kra, etc. are psychic spells (surprise,
+surprise). Just about everything else is ritual.
+
+-- 
+Brett Slocum <slocum@ssdc.honeywell.com>
+    or <uunet!ssdc.honeywell.com!slocum>
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

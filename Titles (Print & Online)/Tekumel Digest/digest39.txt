@@ -1,0 +1,98 @@
+ 
+                           Tekumel Digest, Number 39
+ 
+                            Thursday, March 5th 1992
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Today's Topics:
+ 
+                             village clan structure
+                             Re: Tekumel Digest, #38
+                              Ahoggya engineering.
+----------------------------------------------------------------------
+ 
+Date: Tue, 3 Mar 1992 11:23:11 -0600
+From: martin@cs.uchicago.edu
+Subject: village clan structure
+
+According to the sourcebook, trades are pretty much under the control of
+specific clans; for example, it is difficult to set yourself up as an
+enterprising new Chlen-hauling entrepreneur (or even to gain experience in
+the requisite skills): either you're a member of one of the carter clans or
+you're not.
+
+What does this imply for small villages, which have been characterized as
+being composed of only one or two clans?  (I forget where---maybe an old
+Seal of the Imperium from The Dragon?)  Perhaps the clan restrictions are
+really only operative in larger cities, and village clans evolve their own
+competences in essential areas (i.e., smithing).
+
+This question is for clarification of the relationship between clans and
+occupations on "real" Tekumel.  Any insights?  Thanks.
+
+Charles
+
+------------------------------
+ 
+Date: Tue, 3 Mar 1992 11:39 CST
+From: COSC143U@Jetson.UH.EDU
+Subject: Re: Tekumel Digest, #38
+
+Maybe I'm going over something that has been gone over before but I've tried
+to spend a couple months with my mouth shut so...
+On the Ahogga (sp?) swimming issue I was thinking about the butterfly stroke
+for Humans.  We swim face down and time our breathing in to match when our
+head is pulled out of water.  Perhaps the Ahogga could do something similar.
+I could even see them doing some kind of spinning form of swimming to bring
+each face into the air while they swam on their side.
+---
+Respectfully,
+Stephen McLeod
+
+------------------------------
+ 
+Date:    Wed, 4 Mar 1992 16:28:05 -0500 (EST)
+From: EJK5@JAGUAR.UCS.UOFS.EDU
+Subject: Ahoggya engineering.
+
+Hmmm, ok, they have houses on stilts (nobody likes being flooded out I guess).
+A box like ladder would be clumsy, agreed.. But how about 2 ladders set parallel? Then
+both sets of arms/legs could grasp and climb.
+I still think Ahoggya don't go out of sight of land, reguardless of how big 
+the ship is.
+The Chinese/Japanese had fairly large ships, but they never really went far
+from shore and Dutch cargo ships were shallow draft vessels to make it 
+into rivers where the Spanish trader ships would bottom out.
+I still can't see Ahoggya climbing about in sail rigging wearing eyepatches and
+swinging cutlasses, yelling 'Avast there, ya miserable Shen, heave to and 
+prepare to be boarded!', but I suppose there could be raiding ships.
+I agree that they could climb, but not too well. They just look to me like they
+would tip over if put on too steep a grade, and they don't look like they can
+deal too well with the usual rope and piton method. Maybe they could use some
+kind of basket arrangement or be hauled up by comrads?
+As for density I still say they'd sink like rocks.. with that carapace and all.
+Besides, Ahoggya are one of the strongest of races (meaning more muscle mass)
+and muscle weighs more, combined with carapace (bone?) that is rather thick
+and heavy, they would get an express ride right to sea bed.
+Ahoggya with flotation bladders is an amusing thought.. I can see an 
+amphibious assault of hordes of Ahoggya wearing Mae Wests (with BIG trench
+helmets).  Besides Ahoggya aren't well know for finesse or co-ordination, they
+use the 'I'll bash it into submission' method on just about everything.
+Oh, the opposite of sushi is fish food...
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

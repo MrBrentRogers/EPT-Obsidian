@@ -1,0 +1,216 @@
+
+          Development & Procurement     From:     ftpmail@doc.ic.ac.uk@R11F@MRGATE@WEBCS
+                 WEB Mail               Tel No:    
+                                        Date:     11-Aug-1993 00:47am
+
+TO:  PEARSE W R
+
+
+Subject: wings.micro.umn.edu:/pub/tekumel/Digests/050 (get 050)
+
+      Tekumel Digest, Number 50
+ 
+      Thursday, Oct. 22nd, 1992
+ 
+Requests or comments: tekumel-request@boombox.micro.umn.edu
+Submissions: tekumel-submit@boombox.micro.umn.edu
+FTP sites: rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+    potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+    quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Administrivia:
+
+     As our capable and well-loved previous administrator has not been able 
+to return, I have assumed these duties on an interim basis.   I will hand 
+the reigns back should he return and desire them.
+
+    Additionally, I shall endeavor to make the Tekumel Digest and other 
+relevant materials available via the Internet Gopher in the near future.  
+For those of you not familiar with the utility, the Internet Gopher is a 
+user-friendly means of accessing data on the Internet, incorporating not 
+only its own data protocol, but encompassing other popular formats, such as 
+FTP and WAIS.  For more information, check out the newsgroup
+   
+    comp.infosystems.gopher
+
+or write to 
+
+    gopher@boombox.micro.umn.edu
+
+for more information.  Gopher programs for IBM, Macintosh, NeXT and Unix 
+platforms are available in the appropriate subdirectories for anonymous ftp 
+from 
+
+    boombox.micro.umn.edu
+
+in the 
+
+    /pub/gopher
+
+directory tree.
+
+--------------------------------------------------------------------------
+Today's Topics:
+  
+                            It's back!
+                            New products from TOME, Inc.
+                            Prof. Barker retires
+                            News from the Empire
+--------------------------------------------------------------------------
+It's Back!
+
+Greetings!  After long absence, the list is back.  I'll try to do as 
+thorough a job as our previous administrator.  If I'm not, let me know.
+
+Bob Alberti (alberti@boombox.micro.umn.edu)
+     
+--------------------------------------------------------------------------
+New Products from TOME, Inc.
+
+Tekumel fans will be excited to learn that several new Tekumel game books 
+have been or will soon be published by Theatre of the Mind Games.
+
+As reported in Tekumel Digest 44, TOME released "Adventures in Tekumel,
+Volume 1" in early April of this year.  It has consistently sold out as 
+quickly as it arrived on store shelves.
+
+Since that time, "Adventures in Tekumel, Volume 2" has been released in a 
+blue cover during August (just prior to GenCon).  Check the cover page!
+
+"Volume 3" is nearing publication.
+
+"Volume 4", the final volume of "Adventures in Tekumel" is underway.
+
+The "Tekumel Bestiary" by Victor Raymond, and illustrated extensively by 
+Giovanna Fregni, is due out briefly from TOME.  I've seen it, and it is to 
+die for.  All the creatures of Tekumel sorted by classes (such as land 
+animals, insects, etc), and beautifully illustrated.  It makes me drool.
+The cover art by Giovanna Fregni features the dreaded Zrne!
+
+A book on the Temples of Tekumel is under way.  The cover art is 
+particularly nice.
+
+The actual game rules are being rewritten.  The original rules, some of 
+the earliest out, lack the refinements brought to gaming by subsequent 
+years of RPG publications.  They are considered cryptic and confusing
+by everyone (including their author). 
+
+The third Tekumel novel, "The Lords of Tsamra", has been put on hold by 
+Professor Barker, as he has been quite involved in projects revolving 
+around the game books.
+
+If you wish to contact Theatre of the Mind Games, Inc., you may write to
+
+  TOME, Inc.
+  PO Box 60668
+  King of Prussia, Penn  19406
+
+--------------------------------------------------------------------------
+Professor Barker retires from teaching
+
+     Professor M. A. R. Barker, Professor of South and Southeast Asian 
+studies at the University of Minnesota, has retired from teaching at the 
+age of 63.  Professor Barker is the author of the Empire of the Petal 
+Throne (EPT) series of books and role-playing games.  He hopes to devote 
+more time to EPT products in the future.
+
+--------------------------------------------------------------------------
+News from the Empire
+
+    Aremala surfaces in Tumissa
+
+Princess Aremala Tlakotani has been discovered under the protection of the 
+temple of Avanthe and safe within the walls of Tumissa.  She had previously 
+been under the care of Prince Rereshqala in his estate outside Jakalla, 
+having been rescued from the land of the Urunen on the Southern Continent 
+by a stalwart band of adventurers.  She and her Imperial Sister Ma'in 
+Kruthai are now both present in Tumissa.
+
+    Ma'in Kruthai departs Governor's palace in Tumissa
+
+Long a guest of the Governor of Tumissa, Princess Ma'in Kruthai was 
+escorted from the Governor's Palace (some say under the objections of the 
+Governor) to the Temple of Dlamelish in that city, where she now resides.  
+Her departure was precipitated by the unexpected arrival in that city of 
+several cohorts of the Army of the Translucent Emerald, long thought lost 
+far to the east of the Empire.  How these troops arrived in western Tumissa 
+is unknown.
+
+     Emperor Dhich'une turns on Baron Ald
+
+In an unexpected turn of events, Emperor Dhich'une has sought the 
+assassination of the Baron Ald of Yan Kor, whose alliance was crucial to 
+Dhich'une's assuming power over Tsolyanu and Yan Kor.  Ald escaped 
+assassination by the Emperor of Tsolyanu, the second time for the General, 
+who was betrayed decades ago and went on to unite the warring northern 
+tribes into the nation of Yan Kor as a means to achieve revenge.  Ald's 
+betrayal led to massive battles between his loyal Yan Koriani forces and 
+Imperial forces in the city of Bey Su.  Ald was victorious.  The Temple of 
+Sarku in that city was sacked, and the Governor and his sister impaled.
+
+    New Prince Revealed
+
+Following Ald's betrayal during the summer of the year 2,365, a new Prince 
+of the Empire was revealed in the city of Bey Su.  Prince Taksuru 
+Tlakotani, previously Taksuru hi Viridame, of the prestigious Cloak of 
+Azure Gems clan, Worshipper of Ksarul, and accomplished statesman, 
+ambassador and traveller, accepted the Gold and immediately declared 
+Emperor Dhich'une Tlakotani, Eternal Splendour, a traitor to the throne and 
+patricide, and called for his immediate overthrow.   Ald has vowed 
+allegiance with the new Prince against Dhich'une, and brings with him to 
+the alliance the infamous Lord Fu Shi'i and the valiant Lady Deq Dimani.
+
+     Mridobu surfaces in Bey Su
+
+Prince Mridobu Tlakotani, missing for eighteen months and long thought 
+dead, has surfaced alive and unharmed in Bey Su.  Both worshippers of 
+Ksarul, Prince Mridobu presented his Imperial Brother Taksuru Tlakotani to 
+the Empire along with the Lady Kalusu hi Viridame in a ceremony in Bey Su.  
+Mridobu's appearance and support of his brother has supplied Taksuru with 
+an unexpectedly broad base of support, including the temples of Hnalla and 
+Thumis in Bey Su.
+
+     Dhich'une marches on Bey Su
+
+Not unexpectedly, Taksuru's appearance and declarations brought about a 
+quick response from Avanthar, and massive troop movements presaged a major 
+battle north of Bey Su.  While the precise results of this battle are not 
+known, Prince Taksuru has returned to Bey Su to quell uprisings by the 
+commoners of that city, who engaged in general lawlessness when the city 
+forces were called north to battle.
+
+     Mirusiya still under siege in Fasiltum
+
+Prince Mirusiya is still effectivly contained within the city of Fasiltum, 
+where he resides with Lady Elara hi Vriddi.
+
+     Eselne escapes assassination, remains in Paya Gupa
+
+An assassination attempt against Prince Eselne, presumably by supporters 
+of Emperor Dhich'une, was only narrowly averted.  Lord Gamulu hi Beshene, 
+one of the mightiest healers in the Empire, was dispatched by magical means 
+from Jakalla to Paya Gupa to treat the Prince's remains, which had been 
+placed in magical stasis using a Magnificent Ruby Eye.  The action of the 
+dessicating poison used against the Prince was so swift that only moments 
+separated the first contact of the poison and the complete dessication of 
+the Prince's body into unrevivifiable component molecules.  Lord Gamulu was 
+barely able to restore the Prince to life, and both the Prince and Lord 
+Gamulu were left seriously depleted.
+
+     Where things stand
+
+It is now late autumn of the year 2,365.  Many cities have been emboldened 
+by Prince Taksuru's actions and his broad support to rise against the 
+Emperor.  Eselne's supporters have been active in the Northwest around 
+Meku.  The city of Tsuru is closed to all but Eselne's supporters.  Most 
+cities are under Imperial Martial law, and travel is greatly restricted.  
+The empire is nearly completely embroiled in civil war.
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

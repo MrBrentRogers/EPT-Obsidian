@@ -1,0 +1,1069 @@
+ 
+                           Tekumel Digest, Number 41
+ 
+                            Tuesday, March 10th 1992
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Today's Topics:
+ 
+                          Digest Index of Issues 31-40
+                                 Ahoggya at sea 
+                               Hordes of the Things
+                               Tekumel Miniatures
+                             GURPS Tekumel Bestiary
+----------------------------------------------------------------------
+ 
+Date: Mon, 9 Mar 92 11:28:41 CST
+From: "Brett Slocum" <slocum>
+Subject: Digest Index of Issues 31-40
+
+TEKUMEL DIGEST INDEX
+Volumes 31-40 Inclusive
+09 Mar 92
+
+Issue
+31      Digest Index of Issues 21-30
+        More campaign notes
+        Re: Tekumel Digest, #29
+
+32      FOR SALE: Tekumel item
+        Query
+
+33      Campaign news
+        WANTED: Petal Throne
+        Miscellanea
+
+34      Re: Tekumel Digest, #33
+        Hirkane's death
+
+35      Hirkane's assassination
+
+36      Man of Gold
+        Aquatic Ahoggya
+
+37      Tusmi dom masun, tlatsolyani, ne?
+
+38      Ahoggya makes a comeback
+        Miniatures Rules/Question
+
+39      village clan structure
+        Re: Tekumel Digest, #38
+        Ahoggya engineering.
+
+40      Ahoggya at sea
+        Re: Tekumel Digest, #39
+
+------------------------------
+ 
+Subject: Ahoggya at sea 
+Date: Mon, 09 Mar 92 12:24:24 EST
+From: Curtis M  Scott <cms@mse.cmu.edu>
+
+In my Tekumel campaign (which means this is NOT official canon), Ahoggya
+cannot swim. They float like a rock, in fact. However, they are bottom
+walkers, and can hold their breath for several minutes. In the ocean, this
+wouldn't do them much good, as they can't hold their breath for days, but in
+the swamps of Haida Pakala they are well known for 10-15 minute jaunts along
+the bottoms of the bayous. (A funny campaign bit is to have the Ahoggya
+agree to take some human PCs somewhere, then get mad at them when they won't
+walk with the Ahoggya along the bottom.) The swimming bladders feel wrong;
+they seem like more equipment than most Ahoggya would bother with. Again,
+this is just personal feel.
+
+I agree with Brett about the rudeness and "humor" of Ahoggya. I don't
+think their inability to swim would prevent them from sailing; it probably
+wouldn't occur to them that dying was all that big a deal.
+
+An issue raised by Bob Royer has to do with the availability of instruments.
+Basically, since there are no "fixed stars" in Tekumel's sky, getting any
+kind of celestial navigation going requires highly accurate timepieces --
+which are also not available on Tekumel. Thus, the reason I have always used
+for Tekumelani coastal sailing was the lack of Rennaisance-level navigation.
+(Of course, as Bob points out, the Akho and other icky sea-monsters don't
+help.)
+
+As far as Ahoggya climbing, I've always maintained they couldn't. Their
+central bodies are very massive when compared to their limbs, and even
+though they're strong that's a lot of leverage (try climbing a ladder while
+leaning backward -- then again, don't try it, you'll probably break your
+neck). In the Ahoggya huts in Haida Pakala (again, local campaign), the
+central holes have two ladders extending down. The Ahoggya stands between
+them to climb up or down, providing support on two opposite sides. With
+that much support, climbing seems possible.
+
+Re the miniatures rules: There are three sets for Tekumel; of these, only
+Qadardalikoi was credited to Professor Barker. (David Sutherland wrote
+Legions of the Petal Throne, and Mike Mornard (I think) wrote Missum!).
+
+However, one should note that there is a Phil Barker in England who is part of
+the WRG group. According to Professor Barker, they're distant cousins of
+one another, but so far as I know they've never met. They do correspond,
+however, and I wouldn't put it past the British Phil Barker to put Tekumel
+stuff in his less serious work.
+
+Curtis
+
+------------------------------
+ 
+Date:     Mon, 9 Mar 92 14:11:59 EST
+From: Robert S. Dean  <rsdean@crdec8.apgea.army.mil>
+Subject:  Hordes of the Things
+
+Bob <ROYER%NYSPI.bitnet@CUNYVM.CUNY.EDU> writes:
+> 
+>    Mr. Dean's miniatures rules sound interesting.  I'd like to hear more
+> about them, including where they can be obtained and at what price.  I
+> strongly suspect the author is the same Phil Barker, otherwise why
+> include Tekumel at all?  It's not a well-known universe, as far as I've
+> been able to tell.
+
+Allow me to state authoritatively that Phil Barker, a resident of England, and
+a big name at Wargames Research Group, and M.A.R. Barker, a resident of 
+Minneapolis and a Professor of Linguistics (?), are _not_ the same person,
+although they may be related.  I've seen pictures of Professor Barker, and I've
+met WRG Barker at a wargaming convention last year which imported him.  Since
+the Hordes of the Things rules include a phone number (_in England_) to call
+him if you have questions, I'm confident that they are not the same person.
+
+As to the notoriety of the Tekumel universe:  Well, I've been active in the
+wargaming and role-playing gaming hobbies since about 1972 and 1976 respect-
+ively.  It's been my experience that most old timer RPG players (say pre-1980)
+have heard of Tekumel, and a large proportion of miniature wargamers were
+involved in the early rpgs.  So, I think that it's not as uncommon as Bob
+seems to think.  I'd agree that it's more unusual to meet a recent convert 
+to rpgs who's familiar with Tekumel.  Miniature gamers' interest in Tekumel
+has been kept up by the publication of three different sets of purely Tekumel
+minaitures rules, as well as a manufacturing run of figures by some company
+called "Old Guard" (or Old Glory, or something like that) around 1977.  Their
+molds were later bought by Ral Partha, which released as expanded line 
+including the armies of Mu'ugalavya around 1980, but these were only in 
+production for a short time.  These were some of the best fantasy infantry ever
+produced (IMHO), and I know other people who are looking hard for them.  The
+former Ral Partha molds were sold again, and surfaced (with some additional
+expansions) as a product of the Tekumel Games Company, from whom I bought a
+number of Mu'ugalvyani troops by mail, as well as at Origins in Baltimore in
+1985.  (I just ran across their catalog again yesterday.)  Tekumel Games was
+responsible for the publication of a number of new products, like the two
+adventure modules "A Jakallan Intrigue" and "The Tomb Complex of Nereshanbo".
+
+     Anyway, back to the review of Hordes of the Things (Hott).  Hott is a set
+of general purpose fantasy minaitures rules based on the popular Wargames 
+Research Group (WRG) fast-play ancient and medieval rules De Bellis 
+Antiquitatis (DBA), which have been sweeping through the miniatures gaming 
+community during the last year and a half.  DBA is based on the premise that
+ancient commanders had only minimal control over their troops, and that they
+were not usually aware of the details of a unit's state of morale, casualties,
+or level of exhaustion.  To a lesser extent, they did not worry about the 
+formation of individual units either.  So, a DBA game is played with 12 stands
+of troops (with 2-4 figures per stand) representing a unit.  Units in DBA are
+of eight or nine types, and combat is resolved by the thorw of one die per unit,
+with a plus for each side depending on the type of troops that they are 
+fighting.  High roller wins, and the loser is destroyed if its opponent is one
+of the types of troops that it is particularly vulnerable to (for example,
+cavalry is vulnerable to archers), and pushed back a bit otherwise.  If one
+side's roll+modifier is double the other side's roll+modifier, the low roller
+is destroyed regardless of unit types.  One side loses in DBA when it has lost
+the commander's stand, or four stands total, whichever comes first.
+
+Hott takes this basic set of rules and modifies it for use in fantasy.  The
+distinctions between historical troop types are reduced a bit (spears and
+pikes become the same), and a group of fantasy troop types, such as gods,
+dragons, wizards, heroes, paladins, clerics and flyers is added.  The resulting
+rules are still quite short (about 6 pages, plus another 6 pages on how to
+set up the armies and the battles, a 4 page set of miniature campaign rules,
+and 16 pages of various fantasy army lists.)  We've only had them for a 
+couple of weeks, but have played them quite a few times, since an individual
+battle only takes an hour or less.  An EPT army is quite simple, since they
+have no cavalry, and includes various units of spears, blades, shooters, and
+barbarian warbands.  Brief suggestions on the methods of fitting in the various
+non-human troops into their system are given.  The rules are a bit pricey in
+the U.S. ($13.95 for a 40 page booklet), but quite a few people at Cold Wars,
+the winter convention of the Historical Miniatures Gaming Society, held this
+past weekend (6-8 March), alreayd had bought them, and people were selling
+fantasy armies configured to Hott standards at the flea market tables.  This
+would indicate a certain amount of general acceptance among that community,
+especially given that the rules ahve been available for less than six weeks.
+In the U.S., the rules are being imported by Wargames Inc, of Triadelphia
+West Virginia.  If your local hobby dealer deals in miniatures at all, they
+can probalby order it through the distribution system.  I think the Armory
+is planning on carrying these rules, too.
+
+I should also mention that fantasy armies are not automatically made of of 12
+stands like the historical armies.  Fantasy armies are formed from 24 points,
+with a stand of 'normal' troops being worth 2 points, a horde of useless
+things (undead, goblins) worth 1 point, and most of the heroes, wizards and
+the like worth 4 points.  My basic Mu'ugalvyani army might include 5 units
+of blades (including the general), a wizard, 3 units of archers and 2 units
+of N'lyss barbarian warbands.
+
+Rob Dean
+rsdean@crdec8.apgea.army.mil
+
+------------------------------
+ 
+Date: Mon, 9 Mar 92 15:49:13 CST
+From: "Brett Slocum" <slocum>
+Subject: Tekumel Miniatures
+
+Missum! was written by Gary Rudolph. Interestingly, both Missum! and
+Qadardilokoi use the same unit strength designations, those given in
+the Armies of Tekumel series. Missum! is a slim volume of rules,
+whereas Qadardilokoi is much larger. Not being a miniatures gamer (and
+never having played Qadardilokoi), I can't critique the pluses and 
+minuses of each set of rules. Anybody out there wish to do so?
+I'd like to see people submit reviews of Tekumel material, if anyone
+thinks it would be at all helpful.
+
+Was Qadardilokoi ever published in a format that wasn't printed on a
+dot-matrix printer and photocopied? Or is my copy just pre-production?
+Same question for the later Armies of Tekumel volumes. At least Missum! 
+and the first two Armies are actually printed professionally.
+
+------------------------------
+ 
+Date: Mon, 9 Mar 92 17:19:42 CST
+From: "Brett Slocum" <slocum>
+Subject: GURPS Tekumel Bestiary
+
+[Well, here it is, at long last. I've sat on this for long enough.
+I also have a troff document of this that has the accent marks and
+umlauts in place. These will be put on the ftp archive servers RSN.
+If you have any comments or suggestions, please share them with me.
+Enjoy. --- Brett]
+
+                      Tekumel Bestiary for GURPS
+
+Copyright 1991 by Brett Slocum. All rights reserved.
+Original creature concepts Copyright 1975 by M.A.R. Barker. All
+rights reserved.
+
+[n.b. The beasts in parentheses are those from the GURPS Bestiary
+or Fantasy Bestiary that were looked at for similar game mechanics. My
+thanks to Steffan O'Sullivan for doing such a good job on those two
+supplements. These designs mostly include only game mechanics and not
+general description. Use Empire of the Petal Throne for more details.
+No, the Swords and Glory's Referee's Manual, which was to contain the
+bestiary, was never published.]
+
+Akho *                    (kraken)                   Embracer of Ships
+
+ST: 7-20                Move/Dodge: 10/6#           Size: 50-500
+DX: 13                  PD/DR: 4/6                  Weight: incredible
+IQ: 3                   Damage: *
+HT: 15/20-200           Reach: C-70                 Habitats: SW
+
+Giant water beast with 20 tentacles and a single red eye. Acid saliva
+does 1 HT per 2 seconds. Will attack the hull or the crew. They
+sometimes swallow bright objects.  Can grapple with two tentacles per
+turn and still defend. Each tentacle takes 1/5 of the hit points, but
+does not affect total HP. Only cutting damage will sever a tentacle.
+Against crew, tentacles will grapple, pull towards water, drown in
+water.  ST is for each tentacle. Entire animal is ST 140-400.
+Impaling attacks on tentacles are not doubled.  Grappling with all
+tentacles can pull 10 times its weight at 2 yards per second.  To
+attack head or vitals requires  getting into the water. Tentacles do
+ST crushing damage, and pull victim towards water and mouth at 1 yd
+per turn. Once in the water, victim will start drowning (see Holding
+Your Breath, p B91). Tentacle can pull STx20. If not enough, then more
+tentacles.
+
+Aqaa *                    (afanc)                Worm of the Catacombs
+
+ST: 50-90               Move/Dodge: 6/5             Size: 14-40
+DX: 9                   PD/DR: 3/4                  Weight: 20-50 tons
+IQ: 3                   Damage: *
+HT: 14/25-90            Reach: C,2*                 Habitats: Sub
+
+Very large worm 7 to 20 yards longs, covered with brown bristles. The
+mouth is 2 yds wide.  Those swallowed can cut from the inside, or
+those outside can cut into worm. Danger of striking victim. Tail whip
+can do 3d cr damage. Those swallowed are at -3 DX because of cramped
+quarters.  Digestive acid does 1d-1 damage per turn. Leather and Cloth
+provide normal DR, but lose 1 DR per 5 seconds. Metal protects fully
+for DR turns, and then provdes normal DR thereafter.
+
+Biridlu *          (manta ray/rumtifusel)                       Mantle
+
+ST: 18-24              Move/Dodge: 13/7            Size: 1-2
+DX: 14                 PD/DR: 2/2                  Weight: 50-300 lbs.
+IQ: 5                  Damage: 1d cr
+HT: 14/18-24           Reach: C                    Habitats: Sub
+
+Used as tomb guardians. Manta ray-like bodies, suffocate with muscular
+folds of body. They fight without checking morale; they fight to the
+death.  They drop on a victim and envelop them. Treat as grapple -
+Quick Contest of DX. If successful, begins suffocating victim (p.
+B112). Impaling attacks are not doubled, and any attack of greater
+than 4 hits, goes through to possibly hurt the victim (on 9- half of
+the remaining damage hits the victim). Move 3 on ground.  Regenerate 1
+HT per 10 seconds unless burned. Totally invulnerable, except to
+steel, magic and fire damage.
+
+Chashkeri                                                 Water-maiden
+
+ST: 6-8                Move/Dodge: 6/6                Size: 1
+DX: 13                 PD/DR: 1/1                     Weight: 100 lbs.
+IQ: 5                  Damage: #
+HT: 6-8                Reach: C                       Habitats: SW
+
+Looks like a beautiful dark-haired woman. It stores mana in its eyes,
+allowing it to cast Charm at skill level 15. It can store up to 30
+points of mana.  The spell is cast instantaneously, the Chashkeri only
+has to look at the target.  It can recover 1 mana point per 10
+minutes.  It takes charmed victims to underwater lair (see Swimming,
+p. B91).  Ahoggya, Shen, and Tinaliya are immune. Spell ends when
+chashkeri is killed. 2 days to recover from Charm, and at -2 DX and
+IQ.
+
+Chlen *                 (Elephant,triceratops)            Armour-Beast
+
+ST: 200-300              Move/Dodge: 2/0              Size: 10-15
+DX: 10                   PD/DR: 5/5                   Weight: 4-8 tons
+IQ: 5                    Damage: #
+HT: 15/40-50             Reach: C                     Habitats: P
+
+Six legged, horned beast with flattened head with horns and beak.
+Domesticatible, if subdued. Fights only when attacked.  Horny hide is
+used for armour/weapons. Secret armorer's clan processes allow it to
+be molded and then hardened. Like bronze. Skin is stripped from living
+animals.  It then regrows in a few weeks. Used to pull enormous carts,
+but they are very slow.  Head butt does 2d-1 imp., trample does 3d
+cr., bite does 2d cr.
+
+Chnelh        (chimpanzee,gorilla,hsing-hsing,hamadryas)    Ape-Mutant
+
+ST: 14-18             Move/Dodge: 8/7             Size: 1
+DX: 14                PD/DR: 0/1                  Weight: 150-450 lbs
+IQ: 6                 Damage: 1d cut
+HT: 12-14             Reach: C,1                  Habitats: F,J,M*,Sub
+
+Constructed by the priests of Ksarul, these anthropoids have long jaws
+and sharp teeth, a crude nose, large faceted eyes. They will attack if
+they outnumber the party. They can use clubs and spears and other
+simple tools.  Can attack with clubs and spears, or bite for 1d cut,
+or punch for 1d-1 cr. They are smart enough to cooperate, and usually
+grapple and bite, unless they are carrying weapons.
+
+Cholokh                       (octofly)       Flying Octopoid Creature
+
+ST: 8-10                Move/Dodge: 15/7            Size: 2 ?
+DX: 13                  PD/DR: 4/5                  Weight: 60-80 lbs.
+IQ: 4                   Damage: *
+HT: 12/16-20            Reach: C#                   Habitats: M, M*
+
+Six legged, greyish brown flying creatures with thick armored
+carapace, large shimmering wings, powerful jaws. Eight tentacles are
+used to throw rocks (1d-1 cr). Attacks from 3-20 yds with missiles. If
+they hit, then they close.  Never checks morale. Move 2 on ground.
+Bite does 1d+1 cut. Tentacles grapple or wield rocks (1d cr.)
+
+Dlakolel *                  (giant beetle)      Flying Beetle Creature
+                                                        Steed of Sarku
+
+ST: 20-25                  Move/Dodge: 13/7#               Size: 3-5
+DX: 14                     PD/DR: 4/6                      Weight:
+IQ: 6                      Damage: 2d-1 cut
+HT: 12/25-35               Reach: C                        Habitats: J
+
+Large, semi-intelligent flying insect. Check reaction when
+encountered, friendly or neutral reactions possible. Will fight to the
+death, if attacked.  Jaws and claws. Black chitinous shell. Six legged
+with shiny black wings.  Move 7/7 on the ground. Bite does 2d-1
+cutting.
+
+Dlaqo *                     (giant beetle)              Carrion Beetle
+
+ST: 13-25              Move/Dodge: 8/5            Size: 2-6
+DX: 11                 PD/DR: 5/5                 Weight: 200-500 lbs.
+IQ: 2                  Damage: 1d+2 cut
+HT: 12/14-40           Reach: C                   Habitats: Sub
+
+Six legged crawling insect with a glossy green shell, large pincer
+jaws. These creatures only attack individuals or pairs, or if they can
+surprise the party.  Otherwise they flee. They eat carrion, so there
+is a high chance of finding them in areas of dead creatures. Bite is
+very dirty; anyone bitten must roll against HT for possible infection
+(p. B116). Bite does 1d+2 cut.
+
+Dnelu                          (waira)                Concealed Leaper
+
+ST: 18-22               Move/Dodge: 9/8               Size: 2
+DX: 13                  PD/DR: 2/2                    Weight: 200 lbs.
+IQ: 4                   Damage: 1d-1 imp.
+HT: 14/15-21            Reach: C,1                    Habitats: P, M*
+
+These furry, six legged creatures live in underground dens covered
+with sod. They jump out to grapple small parties to carry back to the
+den, usually gaining Surprise or Total Surprise. They don't check
+morale, but they rarely attack parties of 6 or more. They like to
+collect bright objects. They have a sharp barbed tongue.
+
+Dzor                    (cyclops,giant,atdlit)           Forest Giant
+
+ST: 25-35                Move/Dodge: 8/6               Size: 1
+DX: 12                   PD/DR: 2/2                    Weight: 400-800
+IQ: 6                    Damage: 6d-1 cr.
+HT: 16/22-40             Reach: C-2                    Habitats: F, J
+
+10-12 ft. tall giants, three eyes, beak, nictating membranes, Night
+Vision, but poor day vision (-2 DX in daylight). Fight only if
+attacked, using clubs, maces (6d-1 cr), but no edged weapons. Semi-
+intelligent, but untrainable and no speech. Bite 1d+1 cut. Punch 2d+2
+cr.
+
+Feshenga *               (wolverine,crocotta)      Many-Legged Serpent
+
+ST: 13-18              Move/Dodge: 8/6            Size: 1
+DX: 12                 PD/DR: 3/4                 Weight: 150-200 lbs.
+IQ: 5                  Damage: 1d-1 cut
+HT: 13/20-25           Reach: C                   Habitats: F, J
+
+60 small legs, mouthful of sharp teeth, will attack anything that
+moves.  On a roll of 8-, the bite is poisoned; Type H, 3d.
+
+Gerednya                      (jaculus)                    Flying Worm
+
+ST: 10-15             Move/Dodge: 15/7              Size:
+DX: 13                PD/DR: 2/2                    Weight:
+IQ: 3                 Damage: 1d-1 cut
+HT: 12-15             Reach: C                      Habitats: S, M, M*
+
+Thin, greyish-green worm with filmy wings. Tail sting does 1d-1 cut
+and has poison; Type B, 1d+2. Sharp beak does 1d-1 cut. Afraid of
+fire.  Wing cases worth 100K to Chlen hide armorers. Move 2 on ground.
+
+Ghar *                 (giant snapping turtle)  Armoured River Monster
+
+ST: 30-45             Move/Dodge: 7/5            Size: 4-5
+DX: 12                PD/DR: 4/6#                Weight: 1/2 to 2 tons
+IQ: 3                 Damage: 2d-1 cut*
+HT: 16/32-40          Reach: C, 1-3              Habitats: FW, S
+
+Thick shelled freshwater creatures with a spiked tail. Utterly
+fearless, always hungry, attack on sight. Solitary.  Special: 3 heads
+extend up to 3 yds. 3 attacks (-4 on 2nd and 3rd). Never checks
+morale.  Shell worth 80-1600K.  Heads dodge at 6. 1d+2 impaling tail.
+limbs PD1/DR1, heads PD 2/DR 2, undershell PD 3, DR4. Move 2 on land.
+
+Giriku                     (quetzalcoatlus)             Flying Reptile
+
+ST: 16-20            Move/Dodge: 20/10#             Size: 4
+DX: 14               PD/DR: 2/2                     Weight: 100-200
+IQ: 4                Damage: 1d cut.
+HT: 12-15            Reach: C                       Habitats: F, M, M*
+
+Blue-green flying retile. Night creature with long beak (1d cut),
+three rows of teeth, six eyes, night vision, repellent musty odor.
+Move 3 on the ground.
+
+Haqel *                   (giant crocodile)      Toothed Dweller-Below
+
+ST: 20-60             Move/Dodge: 8/7#           Size: 5-17
+DX: 14#               PD/DR: 3/4#                Weight: 1/2 to 2 tons
+IQ: 3                 Damage: 2d cut
+HT: 14/24-50          Reach: C#                  Habitats: FW, SW
+
+Waits in calm water with mouth open to grab swimmmer or boat, drag
+under water. Tail whip, reach 1, 1d cr. if small, reach 3, 2d cr. if
+size 12+.  Speed 2 (sprint 4) on land. PD 1 DR 2 on belly. Surprise
+bonus?
+
+Hli'ir *                 (qiqirn)      Beast with the Unendurable Face
+
+ST: 25-30                Move/Dodge: 6/6              Size: 1
+DX: 12                   PD/DR: 3/4                   Weight: 200 lbs.
+IQ: 5                    Damage: 1d+2 cut
+HT: 13/32-40             Reach: C,R                   Habitats: Sub
+
+These insane creatures are so hideous that those who see it may go
+mad.  Make a Will roll or take the effects of the Madness spell.
+Berserkers will often attack their own party. Invulnerable to Chlen
+weapons.  Crushing weapons can subdue it for 1 minute, but not kill
+it.  Only steel weapons can kill it.  Bite 1d+2 cut, claw 2d-1 cut.
+
+Hra *                         (vampire?)                   Bloodsucker
+
+ST: 18-25                Move/Dodge: 6/6              Size: 1
+DX: 14                   PD/DR: 3/4                   Weight: 200 lbs.
+IQ: 7                    Damage: *
+HT: 14/25-50             Reach: C                     Habitats: Sub
+
+These reanimated undead are creations of the priests of Ksarul.  Drain
+victims of all blood, fight with sword and lance, vulnerable to light.
+Any Priest of Ksarul (Rank 2 +) has IQ-5 roll to control.  Control not
+usable if priest is surprised or control not successful within 5
+seconds. Regenerates 1 HT per 3 seconds if killed, unless touched by
+Amulet of the Good God; will pursue a fleeing party on a roll of 14-.
+Take 1 HT per minute in sunlight. Drain 1 HT per 3 seconds. Each 3 HT
+drained, adds 1 HT to beast. Bite does 1d-1 cut, punch does 1d+2 cr.
+
+Huru'u *                                                        Howler
+
+ST: 10-15                Move/Dodge: 5/5                 Size:
+DX: 10                   PD/DR: 1/2                      Weight:
+IQ: 4                    Damage: 1d cut
+HT: 11-13                Reach: C                        Habitats: Sub
+
+These spectral undead wander the underworld, howling loudly. Can be
+heard for 70 yards. Protection from evil useful.  When creature howls,
+those within 3 yards are deafened until the battle is over. After the
+battle, make a HT roll as if hearing has been crippled (see p. B129).
+Fear of fire. Anyone slain by a Huru'u and later resurrected must make
+a HT roll or lose 1 HT. Claw 1d cut, bite 1d-1 cut.
+
+Hyahyu'u                                                       Whooper
+
+ST: 10-15             Move/Dodge: 8/7             Size: 2
+DX: 14                PD/DR: 2/2                  Weight: 150-350 lbs.
+IQ: 5                 Damage: 1d cut
+HT: 12-15             Reach: C,1                  Habitats: P, F, M*
+
+Six legged, shaggy black creature with three eyes, spiny crest, and a
+long oval head. They fight only if they outnumber the party by six or
+more.  They always flee from Pachi Lei. Claws 1d cut, bite 1d-1 cut.
+Packs.  Hyaa-hyuu- sound.
+
+Kayi *                       (Jellyfish?)                      The Eye
+
+ST: 13-17            Move/Dodge: 13/6          Size: 1-3
+DX: 12               PD/DR: 1/1                Weight: 20-80 lbs.
+IQ: 2                Damage: 1d+1*
+HT: 13/16-20         Reach: C, 1-3             Habitats: Sub, F, M, M*
+
+Airborne floating jellyfish with a single large eye. They tend to hang
+in dark corners waiting to drop their tentacles to trap a victim.
+Tentacles sting for 1d+1 cr. plus they drain ST fpr 1d-1. If tentacles
+grapple (quick Contest of DX), target is entangled and must win a
+Contest of ST to break free. The Kayi does not need to roll to hit an
+entangled target. Very vulnerable to fire, especially flaming arrows.
+Pole-arms or arrows may be necessary to reach.
+
+Kheshchal *                   (peacock?)                   Plumed Bird
+
+ST: 1-3                Move/Dodge: 25/10#             Size: <1
+DX: 13                 PD/DR: 0/0                     Weight: 6-8 lbs.
+IQ: 5                  Damage: 1d-4 cut
+HT: 12/3-5             Reach: C                       Habitats: F, J
+
+Semi-intelligent bird with beautiful plumage, valued for decorating
+costumes and armor. Usually flee from humans.  Worth 100-1000K for
+plumage, 200-2000K alive. Move 3 on ground.
+
+Krua *                       (giant crab)         Slasher of the Deeps
+
+ST: 18-24              Move/Dodge: 5/5           Size: 375
+DX: 11                 PD/DR: 5/5                Weight: 1/2 - 20 tons
+IQ: 3                  Damage: 2d cr.*
+HT: 12/14-80           Reach: C, 1-3#            Habitats: FW, SW
+
+Six legged crustacean with two large fighting claws. Thick shell.
+Repelled by blood. Attack one person at a time.  If more attack, it
+will scurry away with victim to a secluded place to feed. Attack with
+one claw, if successful, grappled til free, then attack with other
+claw until the victim is dead. One claw has the rated ST and does
+crushing damage (2d), while the other has 1/3 less ST and does cutting
+damage (1d).  Move 9 in water. Solitary, thankfully. The thick shell
+is Invulnerable to arrows.
+
+Kurgha                (hyena/crocotta/chemosit)      Eaters of Carrion
+
+ST: 8-12               Move/Dodge: 6/6             Size: 2
+DX: 12                 PD/DR: 1/2                  Weight: 50-150 lbs.
+IQ: 4                  Damage: 1d-2 cut
+HT: 14/8-12            Reach: C                    Habitats: Sub
+
+Six-legged, shaggy, carrion-eaters have three eyes and sharp beaks.
+Attack only if they outnumber party. Areas with dead creatures often
+have Kurgha nearby. Bite is very dirty; anyone bitten must roll
+against HT for possible infection (p. B116). These creatures have a
+very bad stench, smellable up to 16 yds, even through doors. All
+within 5 yds. are at -2 DX.  Bite 1d-2 cut.
+
+Kuruku                        (monkey?)                  Small Giggler
+
+ST: 3-7                Move/Dodge: 9/7              Size: 1-2 hexes
+DX: 14                 PD/DR: 0/1                   Weight: 20-60 lbs.
+IQ: 5                  Damage: 1d-3 cut
+HT: 12/4-8             Reach: C                     Habitats: F, J, S
+
+These six-legged animals have a pair of arms with hands below their
+short faced heads. They are curious beasts who collect bright objects.
+If they see something interesting amoung a group of passersby, they
+will attempt to steal it. If they succeed, they run away, giggling
+very humanly as they go.  On a roll of 8-, they will drop the item if
+pursued.  They will never attack, running away if approached.
+[size/speed mods]
+
+Kuni *                         (falcon)                     The Falcon
+
+ST: 1-3            Move/Dodge: 25/10          Size: <1
+DX: 15             PD/DR: 0/0                 Weight: 2-8 lbs.
+IQ: 6              Damage: 1d-2 cut
+HT: 12/3-5         Reach: C                   Habitats: F, J, M, M*, P
+
+Semi-intelligent hunting birds are highly valued for they can be
+trained to speak, making them invaluable military scouts, able to
+report back.  They are attracted by Tsural buds, if fresh. They
+usually try to fly away. Move 3 on ground.
+
+Lri *                     (scorpion/Girtab)   Flying Stinging Creature
+
+ST: 20-25             Move/Dodge: 20/10           Size: 2
+DX: 14                PD/DR: 3/4                  Weight: 100-150 lbs.
+IQ: 2                 Damage: 1d imp*
+HT: 15/18-22          Reach: C,1                  Habitats: F, M, M*
+
+These flying insectoids are related to the Hluss. Their tail sting can
+paralyze, whereupon the Lri will grapple the victim and fly away to
+feed its young. Victim will be eaten in 30 minutes, unless the lair is
+found. Paralysis is curable by Major Healing spell or Eye of Healing.
+It takes two days to recover from paralysis. Move 3 on ground.  The
+tail venom is Type D venom, except a HT-3 roll avoids paralysis, but
+is at -2 DX for 3 days. Claws do 1d+1 cr. on a successful grapple
+(quick Contest of DX). Bite does 1d-1 cut. Contest of ST to break free
+of claws. Treat as ST/2 if a claw is crippled.
+
+Marashyalu *                                                 Whimperer
+
+ST: 18-24                  Move/Dodge: 6/6               Size:
+DX: 12                     PD/DR: 3/4                    Weight:
+IQ: 6                      Damage: 1d imp.
+HT: 13/16-20               Reach: C,1,R                  Habitats: Sub
+
+These tomb guardians are masters of illusionary disguise. They often
+appear a helpless women or children, or wounded comrades, weeping and
+begging for help. They charm victims making them fight their comrades.
+If a victim is taken away, they suck bodily juices by inserting their
+proboscis into a body opening for 1d impaling. Protection from
+Evil/Good is effective at repelling them.  Small groups of three or
+less. Eyes store 30 points of mana for Charm at skill 15. Eyes recover
+1 point per 10 minutes. Skin stores mana for Illusion Disguise at
+skill 16. Recovers 1 point per hour.
+
+Mnor                                            Shaggy Insect Creature
+
+ST: 12-16            Move/Dodge: 8/7               Size: 2
+DX: 14               PD/DR: 5/7#                   Weight: 60-125 lbs.
+IQ: 2                Damage: 1d-1 cut*
+HT: 10-16            Reach: C,1                    Habitats: D,M,M*
+
+These semi-intelligent furry insects have twenty legs and large
+compound eyes.  They usually run away, but if cornered will fight to
+the death.  They bite for 1d-1 cutting and can also use clubs (2d
+cr.). They collect bright objects. If an eye is shattered (2 damage
+aimed at eye), they will flee.  Treat any impaling hit that penetrates
+armor as a hit to the vitals.
+
+Mrur *                         (zombie)                         Undead
+
+ST: 9-19               Move/Dodge: 5/5            Size: 1
+DX: 11                 PD/DR: 2/2#                Weight: 100-250 lbs.
+IQ: 6                  Damage: *
+HT: 13/10-18           Reach: C,1                 Habitats: Sub
+
+Always attack, never check morale. Weapons, claws (1d cut) or bite
+(1d-1 cut).  Regenerate 1 HT per 10 seconds unless burned. Can wear
+armor.
+
+Mu'agh                          (reek)                       Jellyfish
+
+ST: -                   Move/Dodge: 1/0            Size: 1-7
+DX: -                   PD/DR: 0/0                 Weight: 50-400 lbs.
+IQ: 1                   Damage: *
+HT: 12/12-80            Reach: C                   Habitats: Sub, S
+
+Lives in dark, damp places. This creature exudes an acid that eats
+though metal in 5 seconds. damage caused is permanent. Chlen hide is
+immune to this acid. These creatures are vulnerable to fire and cold.
+Acid does 1 damage per turn. Metal armor loses 1 PD and DR per 3
+seconds. At PD 0/DR 0, armor falls apart. Only one piece of armor at a
+time, if piecemeal.  Metal weapons drop one quality level (Very Fine
+to Fine to Average to Cheap to broken) in 3 seconds. Three hits on a
+Mu'agh with a metal weapon will also reduce quality one level.
+Impaling and cutting weapons are not multiplied. Ignore impaling
+weapons.
+
+Nenyelu                         (eel)                         Eel Fish
+
+ST: 6-12             Move/Dodge: 7/6               Size: 2-3
+DX: 12               PD/DR: 1/2                    Weight: 75-150 lbs.
+IQ: 3                Damage: 1d-2 cut
+HT: 8-14             Reach: C                      Habitats: FW, SW
+
+Black eel with sharp fins, small arms with hands, snake-like head.
+They can wield (1d-2 cr) or throw stones (1d-3 cr). Their bite does
+1d-2 cutting and is poisonous (Type C: 2d).
+
+Ngayu *                  (shamir, rust reek)           Eater of Swords
+
+ST: 15-22             Move/Dodge: 6/6             Size: 2-3
+DX: 12                PD/DR: 3/4                  Weight: 300-500 lbs.
+IQ: 4                 Damage: 2d-1 cut*
+HT: 13/16-20          Reach:                      Habitats: Sub
+
+These six-legged creatures have two strong claws that do 2d-1 cut, and
+secrete an acid that eats metal, shoot up to 7 yds.
+
+Ngoro *                         (hide)                       The Whelk
+
+ST: 18-35              Move/Dodge: 3/5            Size: 20-100?
+DX: 10                 PD/DR: 1/2                 Weight: 150-500 lbs.
+IQ: 8                  Damage: 1d+2 cr.
+HT: 16/40-80           Reach: C                   Habitats: Sub
+
+This intelligent flat creature lies on the floor waiting for someone
+to walk on top of it, whereby they enfold upon them and crush them.
+They are slightly springy to walk on, so a successful IQ-2 roll will
+give them away. They have multitudes of tiny cilia-like legs on their
+underside, which they can use to grasp small objects, such as Eyes or
+tiny edged weapons. If subdued, they will offer a magic item for its
+life.  Treat attack as a grapple. If successful, it engulfs the victim
+next run. Break free on Contest of ST. The Ngoro is at -3 in Contest
+for first turn only. Each turn after - 1d crushing damage. Impaling
+weapons not very effective. No doubling of damage. All hits over 4
+points wasted. Any impaling hit that penetrates may hit victim; treat
+as Wild Swing at half damage that penetrates. Cannot be stunned
+because of distributed nervous system. Surprise bonus?
+
+Ngrutha *          (crab,strix,assassin bug,hirudo)              Leech
+
+ST: 18-24                Move/Dodge: 6/5                 Size: 7
+DX: 11                   PD/DR: 4/5                      Weight: 1 ton
+IQ: 3                    Damage: *
+HT: 14-17                Reach: C, 1                     Habitats: S
+
+These creatures have eight legs with suckers on the tips and a sharp
+thin proboscis.  They will grapple a victim with their legs and insert
+their proboscis to suck body fluids. They usually leap out of the
+water, getting Surprise or Total Surprise(p. B122). They are never
+surprised. Attacks on sight.  Treat attack as slam with grapple. Next
+it tries to insert proboscis.  1d imp. If it doesn't penetrate, it
+searches for an opening in the armor. 10- each turn. Does 1d impailing
+going in. 1d-1 cut coming out - contest of ST to remove.  Once
+inserted, drains 1 HT each 3 seconds.
+
+Nshe *                                                     Flowing One
+
+ST: 20-24                  Move/Dodge: 7/6               Size:
+DX: 13                     PD/DR: 3/4#                   Weight:
+IQ: 5                      Damage: 2d cr.*
+HT: 14/35-50               Reach:                        Habitats: Sub
+
+These ancient magical creatures are a viscous liquid, able to take any
+shape (see Body of Water). While they are in a shape, they are
+vulnerable to edged and blunt weapons, but when in liquid form, they
+cannot be injured by them.  While in human form, they punch for 2d-1
+crushing.  When they are fluid, they can flow around the feet of
+victims and crush them, to later consume the helpless victims. Treat
+as a grapple, quick Contest of DX, doing 2d crushing damage. If feet
+are crippled, check for crippling recovery (see p. B129).  They can be
+driven away with fire or an Amulet of Calm. Solitary.
+
+Qaqtla                   (snake/cerestes/Al)               Swamp Snake
+
+ST: 12-24              Move/Dodge: 6/6             Size: 1-3
+DX: 14                 PD/DR: 3/4                  Weight: 50-250 lbs.
+IQ: 3                  Damage: 1d+2 cut*
+HT: 15/15-30           Reach: C                    Habitats: S
+
+Scaly armored snake, always attacks with no morale check. Often have
+lairs. Tail whip does 1d+2 cut and injects Type B venom: 2d+1.
+Solitary or in pairs. Very aggressive. Bite does 1d cutting damage.
+
+Qol *                      (human mutants)         Serpent-headed Ones
+
+ST: 12               Move/Dodge: 5/5              Size: 1
+DX: 11               PD/DR: 3/4                   Weight: 150-250 lbs.
+IQ: 8                Damage: *
+HT: 9-12             Reach: C,1*                  Habitats: Sub
+
+Humanoids with the flattened, diamond-shaped heads of snakes.
+Poisonous bite does 1d-1 cutting damage and injects venom Type C: 2d.
+Night Vision. Fear of light. Weapons and arrows are poisoned with the
+same venom. Only attack if they outnumber by five or more. Acute
+taste/Smell, double jointed, peripheral vision, hard of hearing.
+
+Qumqum                     (dread stalker)                   Thunderer
+
+ST: 25-35              Move/Dodge: 6/7                   Size:
+DX: 14                 PD/DR: 2/2                        Weight:
+IQ: 5                  Damage: 5d+1 cut or cr.
+HT: 13/40-60           Reach: 2-3                        Habitats: Sub
+
+This creatures are invisible to most beings, though not to Pe Choi
+(see Invisibility in Combat, p. MXX). The thunderous noise they make
+when they move can be heard for 100-200 yards. They attack with a
+heavy poleaxe, originally forged by the Brethren of the Scarlet Nail,
+a sect of Sarku. They can be forced away with fire, or an Eye of
+Detestation or Command. They have +3 Strong Will.
+
+Renyu *                  (dogs/hui/calchona)            Loyal Follower
+
+ST: 8-12             Move/Dodge: 7/7             Size: 1
+DX: 12               PD/DR: 1/2                  Weight: 100-200 lbs.
+IQ: 7                Damage: 1d-2 cut
+HT: 10-12            Reach: C,1                  Habitats: F, J, S, M*
+
+Humanoids have a long muzzle with pointed, dog-like ears and black to
+brown fur.  They are intelligent, can understand and can make simple
+speech and can use weapons. If captured, they are very trainable,
+being very loyal to their masters. They have Night Vision and
+Alertness +2. 1d-2 cut = claw. Bite does 1d-2 cut.
+
+Ru'un *                        (golem)                 Demon of Bronze
+
+ST: 25                   Move/Dodge: 8/7              Size: 1
+DX: 14                   PD/DR: 4/6                   Weight: 500 lbs.
+IQ: 12                   Damage: 4d cut
+HT: 16/40-60             Reach: C,1                   Habitats: Sub
+
+These seven foot tall automatons were created as treasure and nexus
+guardians. They are highly intelligent. Their metal bodies are covered
+with a mesh of wires that can deliver a hefty electric shock. Make a
+HT roll or take 3 hits (armor doesn't protect) and be stunned for 1d x
+5 seconds.  If the HT roll is made, the target is stunned for 1d
+seconds. They usually carry a magic steel sword (Accuracy and/or
+Puissance) and a high-tech bolt caster, though more powerful weaponry
+has been rumored. They See Invisible, cannot be surprised, and have
+Acute Hearing +5. Bolt caster does 2d+2 imp. RoF = 1.  (for crossbow
+mechanism, or 2d-1 cr., RoF = 3~ for pistol mechanism)
+
+Sagun *                    (mushroom ogre)                      Fungus
+
+ST: 18-25                Move/Dodge: 5/6              Size: 1
+DX: 12                   PD/DR: 3/4                   Weight: 300 lbs.
+IQ: 2                    Damage: 2d cut
+HT: 17/25-50             Reach: C,1                   Habitats: Sub
+
+This animate fungus was created as a guardian of of the underworld.
+They are eight feet tall, pale and leafy, with wooden claws. They can
+emit deadly spores in a radius of 2 yards which germinate inside the
+lungs: treat as Venom type X: successful HT roll and either a Cure
+Disease spell or the Eye of Healing applied within 2 minutes or death.
+Small groups of three or fewer.  Can emit spores twice in a day.
+
+Serudla *         (dragon/taniwha/dinosaur/sirrush)      Pale Murderer
+
+ST: 15-50         Move/Dodge: 8/6              Size: 5-12
+DX: 15            PD/DR: 5/5                   Weight: 1 - 10 tons
+IQ: 6             Damage: 2d-1 cut + acid
+HT: 14/25-80      Reach: C,1-2                 Habitats: F, M, M*, Sub
+
+These scaled lizards have six legs, a pair of arms with hands at the
+base of their long necks, a large head full of sharp teeth. They are
+intelligent enough to use weapons, and they are not always hostile;
+roll reaction normally. Only the Ghatoni can train them, though.
+
+    They can spit acid up to 36 yards, being able to cover a 2 yard
+radius with the corrosive saliva. Anyone in the center hex must make a
+HT roll or take 4d damage; those in the surrounding hexes take 2d on a
+failed HT roll.  Those who make there HT roll take 2 points of damage
+(armor does not protect). They can do this  3 times in a day, taking 4
+hours to recover each. This attack cannot be blocked or parried, only
+dodged. They can bite for 2d-1 cut, and victim also takes 2d from acid
+saliva. Claws do 3d+2 cut.
+
+Shanu'u                (bird-bear/flying puma)        Flying Carnivore
+
+ST: 20-30              Move/Dodge: 20/10#           Size: 7-10
+DX: 13                 PD/DR: 2/2                   Weight: 800 lbs.
+IQ: 5                  Damage: 1d+2 cut
+HT: 15/15-25           Reach: C,1                   Habitats: F, M, M*
+
+These furry, warm-blooded carnivores are related to the Hlaka.  Very
+long tail. Controllable by Hlaka (1-6 controlled for 3 minutes on IQ-2
+roll).  Speed 8/6 on the ground.
+
+Shedra *                      (ghouls?)              Eater of the Dead
+
+ST: 15-20                 Move/Dodge: 5/5                Size:
+DX: 10                    PD/DR: 2/2                     Weight:
+IQ: 4                     Damage: 1d+2 cut
+HT: 13/10-16              Reach: C,1                     Habitats: Sub
+
+These creatures are flesh-eating undead, grey and shrivelled, who
+wander searching for food. They often have steel weapons.  Anyone
+killed becomes Shedra in 2 minutes unless Remove Curse is cast. Once
+they are Shedra, only a Wish or Divine Intervention can return them to
+life. Claws do 1d+2 cut, bite does 1d cut. Their bite is very dirty;
+HT roll to avoid infection.
+
+Sro *                          (dragon)                         Dragon
+
+ST: 40-70               Move/Dodge: 18/6#            Size: 10-25
+DX: 14                  PD/DR: 4/6                   Weight: 400-3000+
+IQ: 6                   damage : 3d-1 imp.
+HT: 15/25-90+           Reach:                       Habitats: M, Sub
+
+These creatures, similar to European Dragons, can walk, swim and fly.
+They have six legs, small arms, toothy beaks, and are semi-
+intelligent. They can use weapons, often two huge swords. They like to
+collect treasure. Move 5 on ground. Bite 3d-1 imp, claws 3d cut, tail
+strike 3d cr., or tail sweep (quick Contest of ST or fall down).
+
+Teqeqmu             (giant bombadier beetle)   Flying Fungoid Creature
+
+ST: 13-20             Move/Dodge: 15/7           Size: 1-7
+DX: 12                PD/DR: 3/4                 Weight: 50-350 lbs.
+IQ: 2                 Damage: *
+HT: 15/25-50          Reach: C,1                 Habitats: F, J, S, M*
+
+These creatures are brownish-green spongy bags of gas. They attack by
+dropping into a group and emitting poison gas - 2 yd. radius. They
+have a central whip-like tentacle (1d+1 cr.). They regenerate 1 HT per
+10 seconds whe killed, unless burned. Move 2 on ground. Treat gas as
+Type F respiratory poison doing 1d+1 damage per turn. 7 hex area.
+Anyone breathing the gas must make a roll at HT-6 or take damage.
+Teqeqmu is immune to its own poison. Outdoors, the cloud dissipates in
+3 turns. In smaller areas, such as caves, 10 turns. Smaller ones have
+2 charges of gas and larger ones have 6.  It takes two hours to
+regenerate one charge of gas.
+
+Thunru'u *                                               Eater of Eyes
+
+ST: 16-20                Move/Dodge: 6/6              Size: 1
+DX: 14                   PD/DR: 3/4                   Weight: 200 lbs.
+IQ: 5                    Damage: 1d+1 cut
+HT: 13/20-30             Reach: C,1                   Habitats: Sub
+
+These rubbery humanoids have 2 large eyes, a sharp beak, and rolls of
+pale skin that appears from a distance as robes. They eat eyes,
+preferring the Kayi, but they will settle for human eyes as well. They
+always attack, unless repelled by Tsural buds. They may be servants of
+mages, Change priests, or warriors, as they can be controlled by a
+variety of spells and eyes. Beak does 1d cut, punch does 1d cr.
+
+Tletlakha                                              Mouth with Eyes
+
+ST: 25                 Move/Dodge: 6/6             Size: 1
+DX: 11                 PD/DR: 3/4                  Weight: 50-150 lbs.
+IQ: 3                  Damage: 1d+2 cut
+HT: 13/16-20           Reach: C                    Habitats: FW, SW
+
+Fanged mouth surrounded by six eyes, a stomach and a small tail.  A
+thick ridge of spines protects the eyes. These creatures glom on to a
+victim, attaching themselves with their sharp teeth; treat as a
+grapple. They automatically hit once they have attached. Once killed
+or removed, a Surgery roll is required to remove the teeth, or take an
+additional 1d+2 damage.
+
+Tsi'il                       (Stegosaur?)              Giant Herbivore
+
+ST: 40-60                Move/Dodge: 3/5              Size: 6-10
+DX: 10                   PD/DR: 4/5                   Weight: 1-2 tons
+IQ: 3                    Damage: 2d imp
+HT: 15/25-35             Reach: C-2                   Habitats: P,F,J
+
+These gentle, passive herbivores will walk away unless attacked. They
+have a horny carapace, spiked crest and jagged spiked growths on their
+backs, and a spiked mace-like tail. They are hunted for a gland which
+secretes a repellent for many marine creatures, including Haqel,
+Tletlakha (3 min. effect, repels on a 13-). Normal attack is to turn
+back and swing tail in any rear hex or adjacent hex for 2d imp. Gland
+is worth 200K to 4000K.
+
+Tsoggu                        (big owl)                    Drowned One
+
+ST: 12-15                Move/Dodge: 5/6              Size: 1
+DX: 12                   PD/DR: 2/2                   Weight: 150 lbs.
+IQ: 3                    Damage: 1d cut
+HT: 12/15-18             Reach: C,1                   Habitats: FW, SW
+
+These humanoid creatures look like a drowned corpse and smell like it
+too.  Their white eyes have no pupils and they can paralyze anyone who
+looks them in the eye. Major Heal or Eye of Healing needed. Make a
+Will roll to avoid looking at them. If using a mirror to see them,
+attacks are at -5. Attacks are at -10 if eyes are closed. The Tsoggu
+is not paralysed by its own sight. Appear singly or in pairs. Tsoggu
+store mana in their eyes and can cast the Total Paralysis spell at
+skill level 16 only when looked in the face.  Bite does 1d-1 cut, claw
+does 1d cut.
+
+Tsu'uru                                                Illusion Master
+
+ST: 18-22                Move/Dodge: 6/7              Size: 1
+DX: 13                   PD/DR: 3/4                   Weight: 200 lbs.
+IQ: 9                    Damage: 1d+2 cr.
+HT: 14/25-30             Reach: C,1                   Habitats: Sub
+
+These treasure guards of the ancients are related to the Marashyalu.
+They can use Mind-Reading to create an Illusion Disguise that the
+party will most likely believe - waiting until an opportune moment to
+attack. They will maintain the illusion until slain. Their natural
+appearance is that of a bundle of ropey tentacles and a central brain
+stem. They are immune to spells, ESP, or telepathy that would reveal
+their true nature. Tentacles 1d+2 cr.
+
+Vorodla *                     (zombies?)                 Flying Undead
+
+ST: 10-20             Move/Dodge: 20/10#          Size: 1
+DX: 12                PD/DR: 2/3                  Weight: 100-250 lbs.
+IQ: 6                 Damage: 1d+1 cut
+HT: 13/16-20          Reach: C,1                  Habitats: Sub
+
+These dusty black undead which stay near tombs were created by the
+Temple of Ksarul as tomb sentries.  They are Zombies reconstructed
+into a new form.  They have large leathery wings and fight without
+checking morale until chopped up. Night Vision. Move 3 on ground. Bite
+does 1d-1 cut, claw does 1d+1 cut regenerate 1 HT per 6 seconds; -2 DX
+in daylight. Any hit has 8- chance of reducing ST by 1d, recovered at
+1 per day.
+
+Vringalu *                    (jaculus)                   Flying Snake
+
+ST: 12-18             Move/Dodge: 20/10#           Size: 2-6
+DX: 13                PD/DR: 2/3                   Weight: 50-300 lbs.
+IQ: 3                 Damage: 1d-1 cut
+HT: 13/17-21          Reach: C                     Habitats: J, S
+
+This ferocious indigo feathered snake-like flying creature never
+checks morale.  Their wings are used to make fine leather armor.  Bite
+does 1d-1 cutting damage plus contact poison that causes a rotting
+gangrene: Type B: 2d+1. Cure Disease spell or Tsural buds applied
+within 3 minutes will neutralize. No morale checks. 100K per wing from
+the leather armorers clans. Move 2 on ground.
+
+Yeleth                                                   Angel of Doom
+
+ST: 7-9                 Move/Dodge: 5/6               Size: 1
+DX: 13                  PD/DR: 2/2                    Weight: 120 lbs.
+IQ: 6                   Damage:
+HT: 15-20               Reach: C                      Habitats: Sub
+
+These white-skinned, dark-haired androids are very beautiful. They
+come in both male and female types. They can Charm up to six
+individuals of the opposite sex, and make them fight their compatriots
+or paralyze them permanently. Their eyes store 30 points of mana for
+casting Charm at level 16. The Eye of Healing or a Remove Curse spell
+is effective at eliminating the paralysis. Punch 1d-3 cr. Bite 1d-3
+cut.
+
+Zrne *                 (honey-badger/feshenga)              Barbed One
+
+ST: 16-20             Move/Dodge: 9/7             Size: 3
+DX: 15                PD/DR: 2/2                  Weight: 120-200 lbs.
+IQ: 4                 Damage: 1d+2 cut*
+HT: 15/24-30          Reach: C                    Habitats: F, J
+
+These six-legged creatures have a hideous head with sharp barbed
+teeth.  Their tough hide is usually Invulnerable to arrows. Their
+teeth break off in the wound and will poison the victim in 2 minutes
+(Type B: 3d) unless removed (additional 1d damage, unless successful
+First Aid or Surgery roll).
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

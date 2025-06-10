@@ -1,0 +1,552 @@
+
+          Development & Procurement     From:     ftpmail@doc.ic.ac.uk@R11F@MRGATE@WEBCS
+                 WEB Mail               Tel No:    
+                                        Date:     11-Aug-1993 00:48am
+
+TO:  PEARSE W R
+
+
+Subject: wings.micro.umn.edu:/pub/tekumel/Digests/057 (get 057)
+
+
+
+                           Tekumel Digest, Number 57
+
+     Monday May 31st, 1993
+
+Requests or comments: tekumel-request@boombox.micro.umn.edu
+Submissions: tekumel-submit@boombox.micro.umn.edu
+FTP sites: rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel
+           quayle.mu.wvnet.edu (120.71.32.151) in /pub/rpg/uploads
+           wings.micro.umn.edu (134.84.130.22) in /pub/tekumel/Digests
+
+Gopher:   Fun & Games/
+            Games/
+              Fantasy Role-Playing Games/
+                Empire of the Petal Throne RPG/
+                  Digests/
+
+Administrative junk:
+---------------------------------------
+Hi!  Hope you like this edition of the digest.  This issue will again be a
+questions and answer edition.  Got a ton of mail on the last issue.
+---------------------------------------
+
+Topics for this issue:
+                           Questions and Answers!
+---------------------------------------
+From: SIMONDSR@acfcluster.nyu.edu
+
+   I regret that I'll be graduating from school and I will no longer
+have e-mail access.  Please remove me from the mailing list.
+   I have to say that I"m incredibly disappointed that Volume 3 of Swords
+& Glory will not be coming out.  I've been waiting for it ofr years.
+   THanks for keeping the Journal going.  It didn't help our campaign
+much, but it was nice to know that there were others out there.
+Rick Simonds
+
+   Thanks for the encouraging words, Rick.  I am sorry to see you will be
+leaving.  But look for volume three in the stores probably within the
+next 2 or three years.
+
+
+
+
+From: Henk.Langeveld@holland.sun.com (Henk Langeveld - Sun Nederland)
+
+Hi, I'm Henk Langeveld, editor of the RuneQuest Digest/Daily.
+May I recommend the scheme I've been using for the RQ Digest?
+Since end of Jan. I've split the Digest into a formal Digest
+and a Daily discussion list.  The discussion list is an automated
+digest that gets sent out daily in chunks of around 22k.  
+I now get 3 part issues regularly.
+
+I chose this alternative, because a lot of people would drop out on 
+a regular mail exploder, while a formal digest takes too much time
+to produce, increasing turn-around time.  It has been a great method
+for stimulating discussion and has boosted new ideas...
+
+I just thought that I should share the ideas...
+
+  I am looking into how to do this now.  Send me mail on how you like the
+idea.  I don't know how to do it yet, but will check on it.
+
+
+
+From: jjm@zycor.lgc.com (johnjmedway)
+>>Gopher     Fun & Games/
+>>              Games/
+>>                Fantasy Role-Playing Games/
+>>                  Empire of the Petal Throne RPG/
+>>                    Digests/
+
+Huh? What is this, and how (and where) do i use it?
+
+
+     Gopher is a program "invented" at the University of Minnesota.  It is
+a program that more easily alows you to use the internet.  It should be
+available for FTP from somewhere.
+
+>>  ---------------------------------------
+>>  Hi!  Hope you like this edition of the digest.
+>>  This is going to seem weird, but yes, there will be a minor
+>>  change in the way the digest comes out.   One reader suggested that it
+>>  come out a little more often and maybe be a bit smaller, rather than waiting
+>>  a whole month and sending out a big digest.  SO, I will now try to send one
+>>  out about twice a month.  I will do this for a couple months and see what
+>>  the reaction is.
+
+
+
+Once a month is way too seldom to remind people that this is active. Traffic
+would fall (I guess to negative numbers ? ) below what it is now. Please up 
+frequency.
+
+
+     Already doing it!
+
+
+>>  Swords and Glory
+>>  Volumes 1&2                  These were published by Gamescience.
+>>                               Volume 1 was a sourcebook, volume 2
+>>                               was the rules set.  The missing Vol. 3
+>>                               was to be a DMs guide of sorts.  There
+>>                               are a few photocopied sets out there
+>>                               VERY RARE!!!!!
+
+Which was the blue and which the brown?
+
+     The blue one was the sourcebook.  The brown one is the rules.
+
+>>  Journal of Tekumel Affairs,
+>>  The Imperial Military Journal
+>>  The Imperial Courier         These were all publications put out
+>>                               by Tekumel Games.  They were pretty
+>>                               nice publications with a lot of material
+>>                               in them.  Lots of problems with staff.
+
+Are there any sources for reprints?
+
+     To my knowledge there is no company producing reprints.
+
+>>  Declaration of war           A copy of the document sent from Yan Kor
+>>                               to the Seal Emperor to start the war.
+>>                               seven colors on parchment
+
+
+Can these still be had?
+
+
+     No.  Again there is no company doing reprints.
+
+
+>>  Personalized Deluxe          This was a document stating your character
+>>  citizenship papers           was a citizen.
+
+
+Same question.
+
+     Same answer.
+
+
+>>  The Gold of Glory            A copy of the  Tsolyani award.
+
+What is this? I don't understand.
+
+     The Gold of Glory is a medal and a document given by the Tsolyani
+imperium fo doing something that is greatly appreciated by the Imperium.
+Sort of like the Medal of Freedom given by the US government.
+
+
+>>  Missum, Quadardaliqoi,
+>>  Legions of the Petal Throne  Miniatures rules. I think they came out in
+>>                               the order given.
+
+I have the first two, but not Legions of the Petal Throne. Is this available
+anywhere?
+
+     Again, there is no company reprinting.  Try used game stores and
+auctions at conventions.
+
+
+
+From: P A Snow <P.A.Snow@gdr.bath.ac.uk>
+
+Hi Keith,
+   Thanks for getting an interesting answer to my question into the digest.
+One aspect of my first and lost letter that I did not repeat in the second was
+an appeal for examples of religious acts and ceremonies from the campaigns of
+all the other readers of the Digest. I agree with the discussion in, I think,
+digest 54 that we need more input from all the Tekumel campaigns out there. 
+They are all real Tekumels and I'd love a jolt of inspiration from everyone out
+there to generate ideas for my own campaign. How many subscribers are there now
+by the way?
+
+   I'm happy to kick off with two examples of acts of worship/trivia from
+my Tekumel.
+   Firstly, worshippers of Thumis should always pray for the inspiration
+of Thumis to enter them before starting to read a new book. Secondly, 
+followers of Ketengku, especially engineers and physicians, always mark places
+in their scholarly reference books with bookmarks inscribed by the Eye  of 
+Ketengku so that the feel the presence of their god as they go about their work.
+This adds to your example of Vimuhla worshippers burning symbols into their 
+chests before battle. Anyone care to add any more?
+
+   One extra question. As a fair number of clans are arranged around a 
+central business or profession, does this mean that most large mercantile
+operations are run by single clans or are there large independent companies
+owned by various clans? I have always assumed the former but the latter gives
+scope for some interesting politics.
+
+   Finally, as there are no immediate plans to republish the  linguistic
+material on Tsolyani (as far as I know), is there any chances of a few informal
+Tsolyani lessons being put into the Digest?  Just a few typical guidebook style
+words and phrases would be great.
+
+   I hope your getting lots of submissions. Look forward to hearing from
+you.
+Paul Snow
+
+      Thanks for dropping a line.  The examples of rituals that you give
+would probably be used by priests and the most devout people.  There are
+a lot of people on Tekumel that are time servers. You know the kind of
+person who goes to church only on high holy days.
+
+      As for the clans question.  There are a few large businesses that
+are owned by a single person who then gives part of his profits to his
+clan.  As far as I know there are no inter clan businesses.
+
+      I will check with the owner of the copyrights on the books, and see if
+I can republish some of the stuff.
+
+      Thanks again Paul.
+
+
+
+From: GARBETT@UTKVX.UTCC.UTK.EDU
+
+I keep seeing S&G Source Book Vol. 3 on price lists, but have never
+seen a copy, even the latest flyer from PHD games has it listed. No game
+store I deal with can seem to get a copy. Does anybody know what the deal
+is on this?
+
+A previous post mentioned a NW frontier Gazeteer, and wondered if it 
+existed, well it does. I have a xerox copy of it. It is great. All kinds
+of lead-ins to an infinite number of adventures. When running a scenerio
+the gazeteer is one of my best sources for inspiration. If the rest of
+Tsolyanu was mapped in such detail, it would be incredible.
+
+Shawn Garbett
+
+     The deal is that it is typeset and awaiting art.  It is in the hands
+of Lou Zocchi and I don't know how long before it comes out.  It will more
+than likely be put out by TOME when it does come out.
+
+     The northwest frontier does exist and was published.  The northeast
+frontier is the one that wasn't published.
+
+
+From: martin@cs.uchicago.edu
+
+You left out the various EPT-related articles which appeared in the
+Strategic Review and the Dragon.  Some of these were reprinted in the
+Tekumel-fan press.  Off the top of my head (I'm not at home right now), I
+can remember:
+
+SR #4 -- Tsolyani Names Without Tears (a name generator; I've found it's
+better just to use a trigram correllation program).  Reprinted in Tekumel
+Journal.
+
+SR #6 -- War of Wizards Update (alternative rules for WoW).
+SR #7 -- Seal of the Imperium (Tekumel Q&A and scurrilous goings-on).
+TD #4 -- Special Tekumel Issue; much of this was reprinted in Tekumel
+Journals, or the Best of the Journals (a short-lived publication).
+TD #9? -- Seal of the Imperium.
+TD #11? -- Seal of the Imperium.
+
+Also various xeroxed sheets available sometimes at conferences, miniatures
+battles, and the like.  The best is the xeroxed plans to the Temple of
+Vimuhla at Katalal (?), the model constructed by some of Barker's players
+circa 1976. (And still in existence somewhere?)
+
+There was a special Tekumel issue of the Space Gamer that came out with the
+release of Swords and Glory Volume II; it contains an interview with Barker
+and various other stuff of interest.
+
+The Man of Gold and Flamesong, both published by DAW Books and out of print
+but easily available in the SF section of used bookstores.  How about an
+update on the status of the Lords of Tsamra?!
+
+Question for the readership at large: does anyone have a Metafont spec for
+Tsolyani or any other alphabet?  How about a Macintosh font?
+
+Charles Martin // martin@cs.uchicago.edu
+
+     Thanks for the update, Charles.   I forgot about the xeroxed sheets.
+I will be looking for the other items.
+
+     There is a Tsolyani font out there for macintosh.  Prof. Barker has a
+copy.  I will see if I can get ahold of it and mail it to people who request
+it or find someplace to put it for gopher.
+
+
+From:  Robert Smith <resmith@ccwf.cc.utexas.edu>
+
+Congratulations on getting the Tekumel Digest up and going again. Just
+when I got my modem working and got on line, the Digest ceased. So
+I'm very glad to see it back up again.
+
+
+I am in favor of a bi monthly Digest. I think a month is too long and 
+people lose the thread of debates and conversations.
+
+In the last issue David mentioned that the new rules are currently being
+created. He said that the magic system was done. The main thrust seems to
+be streamlining the S&G system.
+
+
+I guess I would like more info on how the S&G system is being altered. Back
+in '84 I purchased Vol II with great glee. I could hardly wait to get home
+and delve in. Imagine my disapointment to find a totally unplayable system.
+S&G has the worst case of *chartitis* that I've ever seen. For example,
+there are over 20 charts associated with combat (and that's counting the
+12 different damage tables as a single chart). Considering that the
+group I play with are not die hard gamers, there was no way I would consider
+trying to play S&G. I know of no one who uses S&G outside of Barker's
+group. (I am sure there are some out there using S&G and I would
+encourage you to post your experiences.)
+
+What is this all leading up to? A comment on what I (Rob Smith) personnally
+think a good system would have and not have. I am doing this not only to
+get my own two cents in, but to get others to contribute as well. After
+all, we're the ones who will have to use the material once it's published.
+
+OK, let's get started:
+1) CHARTS
+Too damn many as I stated above. One should not have to consult charts for 
+every action. I realize that Prof. Barker wants to use only d10, d20, and
+d100, but this is nearly as restrictive as SJG's insistance on using only
+d6s. I have to ask, what is the rationale for this? It does not save the 
+players any money, since we all have all kinds of dice already. It requires
+a multitude of charts that inherently slows the game. 
+
+Charts should be used, IMO, to convey information briefly and concisely.
+They should not obfuscate, but should clarify (as does that sentence). Most
+games provide a weapons chart that indicates the damage, quickness, etc. of
+a particular weapon. This info can be recorded on a character's sheet in a few
+few seconds.
+All of the info that players need to participate should ideally fit on a 
+single double-sided sheet of paper at most (except magic). They should
+not generally have to refer to anything beyond this sheet in most instances.
+not have to refer constantly to the book to carry out common, everyday
+actions.
+
+
+2)STANDARDIZATION
+I generally believe that functions in the game should be as standardized as
+possible. For example, the roll for skill success in RQ is basically the same
+no matter whether the skill is combat, agility, knowledge, perception, etc.
+Granted, one gives up a bit in 'realism' but the players and GM can quickly
+learn the system and there is no "Wait while I look up how to make an 
+endurance roll" because it is different than all other rolls.
+
+
+
+3)CHARACTER GENERATION
+Adventures on Tekumel are interesting but I don't really think they are
+practical for group gaming. Not all of my players will have all the books, and
+in any case, most of use view all aspects of the role play game a group activity
+including character creation. I hope that the new system will have a more
+concise character generation system. I also hope that the system will 
+accomodate various types of characters from differing levels of society.
+There is also the debate about the random vs. deliberate method. I think that
+this should be addressed as well.
+
+4)COMBAT
+This is the core of the system in many ways. An rpg with a bad combat system
+is a cripple. Combat is not everything, of course (we have played for months
+on end without a combat), but it is the flaw that will show up the most.
+The S&G system was very odd, in my opinion. It was extremely detailed with
+regard to attack modifiers, criticals, and fighting styles. On the other
+hand, wounding and damage got short shrift. No hit locations at all, even
+as an option. In addition, time was accounted for in the most minute detail
+(different action points for different actions), which sounds good in the 
+abstract, but bogs down very quickly as players or the ref must constantly
+refer to the book to see how long it takes to do something.
+
+This is my opinion on combat: it should be fast and deadly. Players should
+have to think twice before jumping into a melee. A single blow from a dagger
+should be able to kill any human (and not just a critical hit either).
+I think some of the detail on attacks modifiers and time allocation should
+be given up and optional hit locations should be included. I feel that
+hit locations add flavor to the game. After all "...and then Chutek took
+a blow to the leg and went down, but then I smashed the dirty Ssu's arm
+with my mace..." sounds better than "...and then Chutek took 20 points of
+damage and lost an action, but then I did 50 points to the Ssu with my 
+mace..."
+
+
+
+5)MAGIC
+This is probably the point on which most people will disagree with me. The
+spell list in S&G was pretty neat, but it too, IMO, was overly complex. I 
+feel that players should generally be able to remember what their spells
+are capable of without constant reference to the magic book. All of the 
+spells should be boiled down to their essence. A single spell should do one
+basic thing. This basic thing may be altered with level of proficiency,
+but it should still be the same basic thing. A good example is the 
+Clairvoyance/Clairaudience spell. It allows the cast to a) see through
+walls, b) hear through walls, and c) make wall more difficult to see and
+hear through. To me this is three spells, albeit related spells. The way
+spells work in S&G, each magic user must have his own copy of the book.
+They are just too complex for most people, who have real lives, to  memorize.
+
+6)CONCLUSION
+Well, those are my thoughts on what the new system should be like. I hope
+that it is not just a paring down of S&G. I would really like to be able 
+to use the system that is created specifically for Tekumel. But if the 
+designers only hack off some of the extranious material from S&G, but 
+don't really, REALLY improve the system, I'm afraid Tekumel will again be
+consigned to the back of the gaming shelves.
+
+Let's have some comment out there about this issue. Write David and tell him
+what kind of system you want. Most of us are using other systems already
+(RuneQuest, GURPS, AD&D, Rolemaster, and others), and I'm sure we would all
+like to be able to speak the same language as far as game system goes. But
+I think the designers should realize that if we, the consumers, are
+dissatisfied with the game system, we will either drop Tekumel or
+ignore the new system, taking what we can use, and continue with our own
+modified systems.
+
+I have high hopes for a renaissance of Tekumel, but I am worried about the 
+game system. I write this not to attack Tekumel, the game designers, or
+Prof. Barker, but to simply state the opinion of one who has been a follower
+of Tekumel and avid Tekumel gamer since 1975. Even if the new game is
+a flop, I'll continue to game in the world and derive enjoyment from it.
+However, I would much prefer to see it become a great success and get the
+recognition that it deserves.
+End of Discourse.
+(I can't say flame, that would place me as an adherent of Vimuhla)
+Rob Smith
+
+
+From: Robert Smith <resmith@ccwf.cc.utexas.edu>
+
+Keith,
+My apologies. I repeatedly refered to you as David for some incomprehensible
+reason. No offense intended.
+Regards, 
+Rob Smith
+
+
+     No offense taken.  Your letter is going to be given directly to the
+design team working on the new rules system.  One point I would like to make
+is that you have to look at the time that the original system came out.
+At that time in the begining of roleplaying designers thought you had to
+have a table for every action so that people would be forced to game.
+Unfortunately it worked exactly the opposite way.  By the way, just so you
+know, even we at professor Barker's games don't use the rules.  We use
+the sourcebook, and the spell lists, but that is about where it ends.  We
+prefer role playing.  There have been many nights where not a single die was
+rolled.  Thanks for the comments.  I will try to let you know how your
+letter is received.
+
+
+
+From: David Cheng <drcheng@sales.stern.nyu.edu>
+A question for all you Tekumelphiles:
+
+  How "close" are the gods to the world, and to their worshippers in 
+particular?  I have seen contradictory evidence, and would like to 
+hear your opinions.
+
+The Gods are Distant and Uncaring
+   Some veteran EPTers have told me they feel the gods are distant. 
+They delight in the way the temples plot and scheme against each other,
+but their role is very passive.  Perhaps the conflict between the 
+temples should be viewed like the situation in Northern Ireland:
+a _political_ conflict under the guise of a religious one.
+
+The Gods take an Active Interest
+   My first bit of hard (rules) evidence would be the relatively high
+chance of Divine Intervention / Retribution, when the gods are invoked.
+I don't have the table in front of me, but I remember the 
+percentages as being very high.  Does this mean the gods are watching
+closely, and care enough about their worshippers to intervene in the
+affairs of the world often?
+   My softer evidence would be cultural.  Obviously (to me at least,
+perhaps you disagree with this point) religion is one of _the_ major
+pillars of Tekumel societies.  When a culture feels it gets good 
+benefits from a religion, it worships even more.  A culture that
+looks to other areas of society to fulfill the same needs worships
+less.  Using this logic, since the peoples of Tekumel worship so much,
+they must be getting lots of benefits from their religions!
+Comments please!
+-David Cheng
+
+
+      Thanks David.   A couple thoughts.  First, You have to remember that
+the Gods are sort of at war with each other.  They are looking for any kind
+of foothold they can get.  They pay a lot of attention to the temples and
+less to the individual.  That is not to say that they don't look at
+individuals, but that they hold them in a less esteem.  By the way, the high
+percentage of divine intervention is more likely because it gives a DM
+a chance to help out players who get in a real jam.  The original rules had
+a lot of escape valves like this.
+
+
+
+ drcheng@sales.stern.nyu.edu
+Subject: "The Eye of All-seeing Wonder"
+... is a British Tekumel fanzine.  I just picked up Issue #1 (Autumn 92)
+at The Compleat Strategist here in NYC.
+It looks good; like these guys really know what they're talking about.
+
+Contents:
+Welcome to Jakalla
+    An intro scenario
+The Epic of Hrugga
+   The deeds of the favourite Tsolyani folk-hero
+The Relative Status of Legions
+   A prestige ranking, based on reputation, military victories, etc
+The Profession of Arms
+   How your social status affects how high you'll rise in the military
+The Clan of the Iron Plume
+   A scribe's clan-house
+Tusmikang Khawenlitusmi
+   Different fighting styles for GURPS-Tekumel
+Best Savoured Cold
+   Stats for Hluss and Ssu for RuneQuest
+The Excellent Travelling Volume
+   A brief piece on the land of Jannu
+*Tirikelu*
+   A custom-set of rules for Tekumel
+   (Opinion: influenced a tiny bit by Chaosium's _Pendragon_,
+      from what we can see so far.  This is only a small part of
+     the rules)
+I wholeheartedly reccommend it!
+Contact:
+Dave Morris - Editor
+1 Rusham Road
+London
+SW12 8TJ
+England
+
+2.50 Pounds Sterling in the UK, 3 pounds outside
+   (Is that about $5 these days ???)
+-David Cheng
+
+
+     Thanks for the info!  I will be sending out a letter this afternoon.
+That also does it for this issue of the Digest.  I keep saying I am going
+to get an article in the next issue, but the questions are so much fun that
+I don't get around to it.  Keep those letters coming!!!!  Untill next time
+'May you always live upwind of the chlen pens.'
+
+
+
+q
+
+:
+

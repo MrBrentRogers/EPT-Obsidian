@@ -1,0 +1,179 @@
+ 
+                           Tekumel Digest, Number 29
+ 
+                          Wednesday, January 22nd 1992
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Today's Topics:
+ 
+                               Word from Tsolyanu
+                                  Magical books
+                              magic items and books
+----------------------------------------------------------------------
+ 
+Date: Wed, 22 Jan 92 10:38:54 -0600
+From: "Albatross" <alberti@cs.umn.edu>
+Subject: Word from Tsolyanu
+
+     Since it has been a while, here is the latest news from the M.A.R. Barker
+Thursday night campaign:
+
+     When last we left our stalwart band of adventurers they were facing a
+combined force of Yan Koriani, Saa Alaaqi and Tsolyani troops who were backed
+by Lord Fu Shi'i's Weapon without answer.
+
+     The ensuing battle was bloody and for the army of Prince Mirusiya, a
+limited victory.  Most notable was the disabling of the Weapon Without Answer
+by magical means, preventing the utter defeat of Mirusiya's troops.  Forces
+dispatched by the beseiged Governor of Sunraya managed to arrive in time to
+flank and break the legions sent by Emperor Dhich'une to destroy his half-
+brother.
+
+     The Prince continued south and battled a similar mixture of troops
+in the foothills of the mountains to the northwest of Kayal Peak.  This
+time no "cavalry" arrived, and the Prince's troops were routed.  However,
+a band of soldiers, warriors and magic users broke through the lines and
+managed to attain the moutains, leaving behind Dhich'une's troops.  The
+Prince was with this force.
+
+     This small force made its way southwest through the mountains, managing
+to either avoid detection, surprise the small garrisons it encountered, or
+pass itself off as a loyal Imperialist squad, all the while covertly escorting
+Prince Mirusiya through the mountains.  Eventually this force reached the
+Desert of Eyagi, and the Prince was delivered safely to Fasiltum.
+
+     There he was met by Elara hiVriddi, late a prisoner of the Lower Catacomb
+of Silent Waiting beneath Avanthar where she had been imprisoned since the
+Vriddi Rebellion of 2340-1, held in a Ruby Eye.  This powerful figure of
+Vriddi Independence (a veritable "Nelson Mandela" of her people) was now of
+an age with Mirusiya, and they announced that she would become his First Wife
+when he wins the Kolumejalim -- which will be held after Dhich'une the Usurper
+is dethroned.  Fasiltum then declared itself independent of Tsolyanu until
+such time as Mirusiya takes the throne.
+
+     Our party then continued south towards Jakalla, delivering word of the
+Prince's return to Tsolyanu and calling for support.  We found Dhich'une's
+consolidation of the Empire well underway, with rebellion being ruthlessly
+surpressed.
+
+     In the summer of 2,364, the Mu'ugalavyani struck deep into the two 
+Chakan Protectorates.  The Pe Choi region of Do Chaka was overrun, and Pan 
+Chaka fell.  The nonhuman Pachi Lei, who hate the Red-Hats, were slaughtered
+or forced to flee.  Tumssa, Chene Ho, and Paya Gupa proved tougher nuts to
+crack, however, and Prince Eselne returned in time to lower Mu'ugalavyani
+morale and compel them to withdraw.  The Salarvyani took the outpost cities
+of Ru and Fenul in the southeast, and invade the Gilraya forests, but their
+city-states are so disunited and embroiled in internecine rivalries, that
+there is little chance of them taking Thraya or Jaikalor.
+
+     The real danger is internal.  When the "Disposer of Meku" (as the Governor 
+of that city is called) destroyed the local temples of Lords Sarku and Hru'u, 
+the threat of civil war became urgent.  We heard of more riots in Jakalla, 
+Bey Su, and Urmish.  Emperor Dhich'une ordered his armies both to Fasltum 
+and to Meku.  Chaos is imminent.
+
+     We managed to reach the palace of Prince Rereshqala, and from there were
+dispatched to the Southern Continent, whence Princess Aremala had fled from
+Avanthar when her half-brother seized power.  We were successful, but did not
+return with Lord Muresh, formerly the leader of the Intelligence Arm of the
+Omnipotent Azure Legion, who was away seeking support for the humans being
+hosted by the Urunen.  We returned her to Rereshqala via Jaikalor, where we
+were nearly detained by Vridekka hiTlelsu, Dhich'une's replacement as leader of
+his new Omnipotent Azure Legion Intelligence force.  Unfortunately for Vridekka
+the troops dispatched to seize the Princess were fooled into taking the wrong
+woman, and the Princess escaped.  Having never met Aremala, Vridekka proceeded
+to take the impostor before the Emperor himself and offer her for marriage.
+Dhich'une and others in Avanthar determined that this was NOT Aremala, and
+Vridekka lost some serious face.  The fate of the young woman, a K'Sarul
+priestess named Sogai, is not something that should be described here.
+
+     It is now the beginning of the year 2,365.  Mirusiya is in Fasiltum,
+Princes Ma'in Kruthai is in Tumissa, Eselne is in Paya Gupa and both Aremala
+and Rereshqala are ensconced on Rereshqala's estate east of Jakalla.
+Discontent is brewing in many places, including the region between Jakalla and
+Sokatis, where a Thumis Priest known as "The Young Master", one Sanjesh
+hiKirusaya, has travelled extensively, speaking out openly against the
+Emperor.  The phrase "this never would have happened under Hirkane" is enough
+to get one impaled in this region.
+
+     Thus passed the year of 2,364, the Year of the Worm Ascendant.
+
+------------------------------
+ 
+Date: Wed, 22 Jan 92 12:02:07 CST
+From: "Brett Slocum" <slocum>
+Subject: Magical books
+
+I was just looking over the list of Magical Books for the first time in
+quite a while. I noticed Kizhaga Dlittlumri "The Book of Five Fingers".
+I couldn't help but notice the resemblance of this title to Musashi
+Miyamoto's "The Book of Five Rings". Also, the powers granted by this
+book are rather elementally oriented. Flight, Paralysis, regeneration from
+Mu'agh acid, and fireballs (Air, Earth, Water, Fire). The fifth power
+is to select any spell from Group II or III. The Five Rings of Minamoto
+are Air, Fire, Water, Earth and Void. 
+
+I wonder if this was intentional.
+
+------------------------------
+ 
+Date: Wed, 22 Jan 92 12:58:02 CST
+From: "Brett Slocum" <slocum>
+Subject: magic items and books
+
+It is sometimes difficult to play S&G since the Referee's Manual
+was never published. No descriptions of animals and creatures,
+no magic items, no eyes, etc.
+
+One question I've had is how do people handle the miscellaneous
+magic items and the magical books from EPT in their S&G campaigns?
+Are the effects merely translated to the new system, or have you
+expanded on them? Perhaps Bob can tell us about the use of
+Misc. magic items and books in Barker's S&G game.
+
+Also, any items or books that you've created
+on your own? New eyes? Has any players come up with, shall we say,
+"unique" uses for the various magic items, eyes, amulets, etc.?
+
+In a humorous campaign we played in many (MANY) years ago, a rather
+funny eye appeared. We called it the Terrible Eye of Raging Juice.
+It shot a stream of sticky, irritating liquid that we discovered
+was orange juice. Apparently, the original purpose was similar to
+the original purpose of the Eye of the Creeping Fog of Doom, which was
+to produce any gas desired. This one was originally meant to produce
+any liquid desired, but the method of selecting liquids had been lost.
+It was great for temporarily blinding the oncoming hordes.
+
+One character had found the Magical Chest of the Topaz God. He was
+experimenting with it and its ability to swallow anything that could
+be put into the opening. Well, he put the tip of the prow of a bireme
+into it, and the chest sucked it in. Sometime later, we were being
+chased by a bunch of unnamed (mostly unremembered) horrors, and
+we didn't know what to do. Well, we reached the top of a hill and
+the fellow opened the top of the Chest, aiming it down the hill.
+The horrors were horrified to see a complete bireme sliding down
+on top of them. That was the most offensive use of the chest I've
+seen. Another time I recall someone else accidentally dropping a
+Chest into Jakalla Harbor. It dropped the level of the bay by two
+feet until the tide came in. We never did recover that one.
+
+Disclaimer: I would like to comment that these things did not happen 
+in Craig Smith's campaign. He was usually quite sensible, and I'm he
+would not have let these situations occur. Then again, maybe he would.
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

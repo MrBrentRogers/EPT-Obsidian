@@ -1,0 +1,427 @@
+ 
+                            Tekumel Digest, Number 9
+ 
+                           Wednesday, July 31st 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Today's Topics:
+ 
+                              Creature conversions
+----------------------------------------------------------------------
+ 
+Date:    Wed, 31 Jul 1991 16:36:43 -0400 (EDT)
+From: EJK5@JAGUAR.UCS.UOFS.EDU
+Subject: Creature conversions
+
+Following is a list of creatures that I have converted from the "old" EPT
+style to the "new" S&G format.  Its not perfect, in many cases I had to 
+guesstimate how to rate the critter's combat/magic and/or armor rating,
+but I think its definately a step up from "I'll just make it up as I go 
+along" format.
+
+Cholokh "Flying octopoid creature"
+Hits  15
+MR 0
+Combat missile 4-6; Table B/B/A
+       bite 4-6; Table B
+Armor 0
+
+Dlakolel "flying beetle-like creature, Steed of Sarku"
+Hits  60
+MR 1
+Combat bite 7-9; Table C +2
+Armor 3
+
+Gerednya "the flying worm"
+Hits 30
+MR 0
+Combat bite 4-6; Table B
+       Sting 10-12; Table A + resistance roll at VD or lose stamina off
+                    Table C.
+Armor 0
+
+Giriku "the flying reptile"
+Hits 30 
+MR 1
+Combat bite 7-9; Table B
+Armor 0
+
+Kayi "the eye"
+Hits 40
+MR 4-6
+Combat tentacles-grapple 7-9; Table B+resistance at VD or lose stamina off
+                              Table D
+Armor 0 -- Vulnerable to fire
+
+Kheschal "the plumed bird"
+Hits 10 
+MR -2
+Combat talon/beak  1-3; Table A
+Armor -2
+
+Kyni "the falcon"
+Hits 15
+MR -2
+Combat talons/beak 4-6; Table A
+Armor -1
+
+Lri "the flying stinging creature"
+Hits  40
+MR 4-6
+Combat sting 4-6; Table B + resistance at VD or lose stamina off Table E
+Armor 0
+
+Shanu'u "the flying carnivore"
+Hits 35
+MR 1-3
+Combat bite 10-12; Table C
+Armor 0
+
+Teqeqmu "the flying fungoid creature"
+Hits 60/80/100
+MR 1-3/4-6/4-6
+Combat tentale 4-6; Table A
+       gas -- resistance at D or lose stamina off Table C
+Armor -1
+
+Vringalu "the flying snake"
+Hits 45
+MR 1-3
+Combat bite 7-9; Table B + resistance at VD or take damage off Table D
+Armor 1
+
+Chlen "the armor-beast"
+Hits 30
+MR 0
+Combat kick -2-0; Table G
+Armor 4
+
+Chnelh "the ape-mutant"
+Hits 10
+MR 0
+Combat weapon 4-6; damage by weapon usually B or C
+Armor 0, occasionaly 1
+
+Dnelu "the concealed leaper"
+Hits 45
+MR 0
+Combat bite 1-3; Table A + grapple
+Armor 0
+
+Dzor "the forest giant"
+Hits 65
+MR 1-3
+Combat club 7-9& up; Table F +4
+Armor 2
+
+Feshenga "the many-legged serpent"
+Hits 50
+MR 1-3
+Combat bite 7-9; Table B +resistance at VD or take damage off 
+                 Table E
+Armor 1
+
+Hyahyu'u "the whooper"
+Hits 35
+MR 0
+Combat bite 1-3; Table B
+Armor 1
+
+Kuruku "the small giggler"
+Hits 5
+MR -3
+Combat bite -3; Table A -1
+Armor -1
+
+Mnor "the shaggy insect creature"
+Hits 35
+MR 0
+Combat club 7-9; Table B +1
+Armor 3
+
+Renyu "the loyal follower"
+Hits 20
+MR 0
+Combat bite 1-3; Table A, or by weapon if trained
+Armor 0, more if trained
+
+Serudla "the pale murderer"
+Hits 50/80/120
+MR 1-3/4-6/7-9
+Combat halderd 13-15; Table E +2/+4/+6
+       acid spit 7-9; Table G for 1-5 rounds
+Armor 2/3/4
+
+Tsi'il "the giant herbivore"
+Hits 60
+MR -1
+Combat tail 1-3; Table E +2
+Armor 5
+
+Zrne "the barbed one"
+Hits 60
+MR 1-3
+Combat bite 10-12; Table C + resistance at H or take damage off
+                   Table D
+Armor 2
+
+Akho "the embracer of ships"
+Hits 60/100/160
+MR 4-6/7-9/10-13
+Combat tentacles 13-15; Table D + grapple
+       acid; Table E for 1-5 rounds
+       bite --instant death
+Armor 4/6/8
+
+Chashkeri "the water maiden"
+Hits 10
+MR 7-9
+Combat hypnosis; resistance at RC
+Armor 0
+
+Ghar "the armored river monster"
+Hits 80
+MR 1-3
+Combat bite 7-9; Table D +2
+       tail 4-6; Table C
+Armor 5 -- gets 3 bite attacks per round
+
+Haqel "the tooted dweller below"
+Hits 50/100/150
+MR 0/1-3/4-6
+Combat 1-3 + surprise bonuses; Table D
+Armor 2
+
+Krua "the slasher of the deeps"
+Hits 30/80/160
+MR 0/0/1-3
+Combat pincers x2 7-9; Table D
+Armor 4 -- can be driven off by blood, immune to missiles
+
+Mu'ugh "the jellyfish"
+Hits 30/60/150
+MR 0/0/1-3
+Combat grapple 1-3; no damage
+       acid; Table F until free
+Armor -2
+
+Nenyelu "the eel fish"
+Hits 20
+MR 0
+Combat bite 1-3; Table A + resistance at H or take damage off Table C
+                 if resistance is made take Table A damage
+Armor -1
+
+Ngrutha "the leech"
+Hits 30
+MR 1-3
+Combat grapple 10-12; no damage
+       beak 7-9; Table C, continues to automatically do damage after the
+                 first hit
+       claws 1-3; Table A +1
+Armor 3
+
+Qaqtla "the swamp snake"
+Hits 50
+MR 0
+Combat tentacles 7-9; Table C +resistance at VD or take damage off
+                      Table C
+Armor 3
+
+Sro "the dragon"
+Hits 50/90/130
+MR 7-9/10-12/13-15
+Combat weapon x2 16-18; damage by weapon +6
+       bite 19-21; Table E +4
+Armor 4
+
+Tletlakha "the mouth with eyes"
+Hits 35
+MR -3 
+Combat spines -2-0; Table A
+       bite 1-3; Table B
+Armor 1
+
+Tsoggu *"the drowned one"
+Hits 30
+MR 7-9
+Combat claws 7-9; Table B +1
+       paralysis gaze; resistance at VD or stand helpless
+
+Aqaa "the worm of the catacombs"
+Hits 60/120/180
+MR 4-6/7-9/10-12
+Combat bite 10-12 -- can swallow target whole
+       tail 7-9; Table D +3
+Armor 3
+
+Biridlu "the mantle"
+Hits 45
+MR 1-3
+Combat grapple 10-12; Table B every round till free
+Armor 3 -- need steel or better to hit
+
+Dlaqo "the carrion-beetle"
+Hits 30/60/90
+MR 0/0/1-3
+Combat bite 4-6; Table C +2
+Armor 3
+
+Hli'ir "the beast with the unendurable face"
+Hits 80
+MR 4-6
+Combat fists 7-9;Table C
+Armor 0
+
+Hra *"the bloodsucker"
+Hits 70
+MR 10-12
+Combat weapon 10-12; damage by weapon +2
+       bite 7-9; Table C
+Armor 2
+
+Huru'u *"the howler"
+Hits 25
+MR 4-6
+Combat howl -- Table B if MR made Table D if MR is missed
+Armor 0
+
+Kurgha "eaters of carrion"
+Hits 10
+MR -3
+Combat bite 1-3; Table A
+Armor 0
+
+Marashyalu "the whimperer"
+Hits 40
+MR 7-9
+Combat special -- uses illusion and hypnosis; resistance at VD
+Armor 1
+
+Mrur *"the undead"
+Hits 15
+MR 4-6+
+Combat weapon 4-6; damage by weapon
+Armor 0 to full heavy suit
+
+Ngayu "the eater of swords"
+Hits 40
+MR 1-3
+Combat claws 4-6; Table B + steel dissolving spit
+Armor 2
+
+Ngoro "the whelk"
+Hits 160
+MR 10-12
+Combat weapons 10-12; damage by weapon
+       crush -- grapple 10-12 + surprise, Table D every round till free
+Armor 1
+
+Nshe "the flowing one"
+Hits 100
+MR 7-9
+Combat grapple 10-12 -- causes broken bones
+       golem form, bashing 7-9; Table C
+Armor 0 -- can't be killed just disrupted
+
+Qol "the serpent-headed ones"
+Hits 15
+MR 0
+Combat bite 7-9; Table A + resistance at VD or lose stamina off 
+                 Table C
+       weapon 4-6; damage by weapon
+Armor 1 + can wear armor
+
+Qumqum "the thunderer"
+Hits 90
+MR 7-9
+Combat halberd 13-15; Table E +3
+Armor 1 -- all attacks are at -6 columns due to invisibility except for
+           Pei Choi
+
+Ru'un "the demon of bronze"
+Hits 110
+MR 10-12 + special
+Combat missile 10-12 all ranges count as short; Table F no losses
+       for aiming to increase damage
+       weapon 10-12; Table D +4
+       shock defense -- resistance at VD, if made take Table B if 
+                        missed take Table D
+Armor 5 -- can see invisible, immune to mind altering and illusion
+           spells
+
+Sagun "the fungus"
+Hits 100
+MR 7-9
+Combat claws 7-9; Table B +4
+       spores -- special
+Armor 2
+
+Shedra *"the eater of the dead"
+Hits 20+
+MR 10-12+
+Combat steel sword 7-9 and up; Table D +1
+Armor 0 to full heavy suit and possible enchanted or specials
+
+Thunru'u "the eater of eyes"
+Hits 50
+MR 4-6
+Combat claws 10-12; Table B +2
+Armor 2
+
+Tsu'uru "the illusion-master"
+Hits 55
+MR 13-15+
+Combat tentacles 7-9; Table C
+Armor 2 -- immune to many spells
+
+Vroodla *"the flying undead"
+Hits 20
+MR 7-9
+Combat bite 4-6; Table B
+       weapon 4-6; Damage by weapon
+       make resistance at H when hit or lose stamina off Table C
+Armor -1
+
+Yeleth "the angel of doom"
+Hits 30
+MR 7-9
+Combat fists 4-6; Table B
+       gaze -- resistance at RC or stand helpless
+Armor 1
+
+MR=magic resistance level
+combat #-# = the level of warrior skill the creature has in that weapon
+Table (letter) = the damage table to use if the creature hits, if followe
+                 by a +# add the number to the final damage NOT to the
+                 d20 roll.
+Armor = the ammount subtracted from weapon hits, a negative value ADDS
+        to the damage sustained
+Monsters marked with an * are undead types
+
+These are my own conversions and seem to work well, many of the monsters
+may seem really nasty, and they are.  Players should not expect to stand
+up to a Ru'un and walk away unscathed unless they have some items that
+can affect it or a sorcerer of Ksarul with the proper level of the spell
+"The Web of Refulgent Command"!  Tekumel monsters are tough and PCs should
+learn to head for the horizon when something really nasty presents itself
+if they don't have a way to deal with it.
+I've left out the Ssu, Shunned Ones, Hluss and Hlutrgu because their stats
+are in the S&G book.
+I hope people can get some use out of this and that it solves more 
+problems than it creates.
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

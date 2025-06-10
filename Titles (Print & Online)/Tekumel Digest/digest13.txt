@@ -1,0 +1,906 @@
+ 
+                           Tekumel Digest, Number 13
+ 
+                          Monday, September 16th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Today's Topics:
+ 
+                              novels, game systems 
+                            Re: novels, game systems
+                              GURPS character rules
+----------------------------------------------------------------------
+ 
+From: fox_d@apollo.com
+Date: Fri, 13 Sep 91 12:46:18 EDT 
+Subject: novels, game systems 
+
+Hello all,
+
+First, thanks to everyone who replied to my question about the Tekumel
+novels. I've discovered they're both out of print. I would greatly 
+appreciate any help in aquiring these books by mail, or if any one 
+knows of a store somewhere near New Hampshire that might still have
+copies. Perhaps they'll be reprinted when the newest novel is 
+published?
+
+I recently bought a pile of Tekumel items from Different Worlds. My 
+request for a catalog took a while, but my order was shipped promptly.
+The address was in the digest a few issues ago.
+
+As long as I'm talking about obtaining the unobtainable, has anyone got 
+a line on how to get the Swords & Glory player's handbook? Failing that,
+how about more of Brett's GURPS rules? The main reason I dropped out of
+Tekumel back in the 70's was that clunky and now absurdly antique game 
+system.
+
+Don Fox, aka fox_d@apollo.com
+
+------------------------------
+ 
+Date: Fri, 13 Sep 91 14:43:06 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re: novels, game systems
+
+In message "novels, game systems" on Sep 13, 12:46pm, by fox_d@apollo.com:
+> 
+> First, thanks to everyone who replied to my question about the Tekumel
+> novels. I've discovered they're both out of print. I would greatly 
+> appreciate any help in aquiring these books by mail, or if any one 
+> knows of a store somewhere near New Hampshire that might still have
+> copies. Perhaps they'll be reprinted when the newest novel is 
+> published?
+
+I can scout the local used bookstores. I seem to recall seeing Man of Gold
+recently.  I will let you know if I see it next time I'm there, and
+we can arrange to mail it.  I also hope they get reprinted.
+
+> I recently bought a pile of Tekumel items from Different Worlds. My 
+> request for a catalog took a while, but my order was shipped promptly.
+> The address was in the digest a few issues ago.
+
+Oh, good. I had hoped they were still in business. I'm glad things
+worked out for you.
+
+> As long as I'm talking about obtaining the unobtainable, has anyone got 
+> a line on how to get the Swords & Glory player's handbook? Failing that,
+> how about more of Brett's GURPS rules? The main reason I dropped out of
+> Tekumel back in the 70's was that clunky and now absurdly antique game 
+> system.
+
+I have never seen the player's book in any of the used game sections
+around town. I have seen the Different Worlds books, namely parts 1 & 2
+of the sourcebook and the reprint of the original EPT rules. But,
+even if you find other rules, such as mine, keep trying to get that
+player's book. I continue to find it to be one of the most useful 
+resources for my GURPS system. The magic system alone is worth the
+price of admission.
+
+One of the beauties of Tekumel is that it really doesn't matter what system
+you use. I've played with Chivalry and Sorcery rules, homebrew rules,
+even Traveller rules. So, in the interim, play with your favorite fantasy
+rules.
+
+I'm in the process of cleaning up my GURPS rules. I'll post them with
+appropriate fanfare RSN (meaning not until after I move to my new house
+at the end of September). These will be in pieces, probably the character
+rules first, then the magic. I could do the races pretty soon.
+
+-- 
+Brett Slocum <slocum@ssdc.honeywell.com>
+    or <uunet!ssdc.honeywell.com!slocum>
+
+------------------------------
+ 
+Date: Fri, 13 Sep 91 15:58:03 CDT
+From: "Brett Slocum" <slocum>
+Subject: GURPS character rules
+
+Well, after thinking about it, I decided to send what I've got to
+give y'all a start.  After all, this digest has been kind of dead
+lately. Periodically, I'll send more stuff, including non-human
+races. (BTW, the format is from SJGames' format for submissions.
+Don't let it phase you. AA, BB, CC, DD are headings of decreasing
+importance. Just about anything in angle brackets (<>) is a command
+to the desktop publishing system. <BI> is to change to bold-italic,
+<M> returns to Roman, etc. You can ignore just about everything like
+that.)
+
+These rules are incomplete, but should give you a good start in
+creating GURPS characters for Tekumel.  More refinements will
+be available as I write them.  If you have comments, corrections or questions,
+please feel free to let me know.  These rules have been playtested
+somewhat in my Tekumel PBeM campaign, which has since passed on to a new
+GM. If you use these rules, the Sourcebook should be used as the final 
+arbiter of what is reasonable for Tekumel.
+
+Enjoy them.
+
+AA Tekumel Characters
+(Copyright 1991 by Brett Slocum. All rights reserved.)
+
+Create characters for Tekumel using the <BI>Basic Set<M> and <BI>GURPS 
+Magic<M>. 100-point characters are suggested for the average campaign with a 
+general limit of 40 points of disadvantages and 5 quirks.
+Tekumel can be a very dangerous place, so some GMs may desire a Cinematic 
+campaign with 150 or even 200 point characters. 
+
+CC Height and Weight Tables
+Since there are many races on Tekumel, some of which do not easily fit into the 
+human height and weight tables, two additional height and weight tables are 
+provided below: Hlaka and Pe Choi. Also, treat humans as pre-19th century 
+humans, and subtract 3" from average height. Weight is always determined 
+<MI>after<M> height. Some races base their height and weight from the human 
+table. Below is a table that summarizes the height and weight modifiers for all these 
+races.
+
+DD Racial Modifiers for Human Height and Weight Tables (B15)
+Race  Height      Weight
+      modifier    modifier
+Male  -3''  +0 lbs.
+Female      -5''  -10 lbs.
+N'lyss      +9''  +10 lbs.
+Black Ssu   +16'' +30 lbs.
+Hlutrgu     -1'   -10 lbs.
+Hlyss -1'   +0 lbs.
+Mihalli     -3''  -10 lbs.
+Pachi Lei   +1''  +15 lbs.
+Pygmy Folk  -3'   -5 lbs.
+Shen  +1'   +30 lbs.
+Shunned Ones      +1'   -10 lbs.
+Swamp Folk  +1''  +30 lbs.
+Urunen      -2''  -5 lbs.
+
+DD Hlaka Height and Weight Table
+ST    Height      Weight
+-     4'7'' 70 lbs.
+-     4'8'' 75 lbs.
+< 5   4'8'' 75 lbs.
+6     4'9'' 85 lbs.
+7     4'9'' 85 lbs.
+8     4'10''      90 lbs.
+9     4'10''      90 lbs.
+10    4'11''      95 lbs.
+11    4'11''      95 lbs.
+12    5'    100 lbs.
+13    5'    100 lbs.
+14    5'1'' 105 lbs.
+15    5'1'' 105 lbs.
+16    5'2'' 110 lbs.
+
+For each inch of height under 4'7'', subtract 2 lbs. from average weight. For 
+each inch of height over 5'2'', add 5 lbs. to average weight.
+
+DD Racial Height and Weight Modifiers
+
+Race  Height      Weight
+Ahoggya     +0''  +100 lbs.
+Grey Ssu    +12'' +10 lbs.
+Tinaliya    -32'' -5 lbs.wwww
+
+DD Pe Choi Height and Weight Table
+ST    Height      Weight
+-     5'4'' 120 lbs.
+-     5'6'' 125 lbs.
+< 5   5'8'' 135 lbs.
+6     5'10''      145 lbs.
+7     5'11''      150 lbs.
+8     6'    155 lbs.
+9     6'1'' 160 lbs.
+10    6'2'' 170 lbs.
+11    6'3'' 180 lbs.
+12    6'4'' 190 lbs.
+13    6'5'' 200 lbs.
+14    6'6'' 210 lbs.
+15    6'8'' 235 lbs.
+>16   6'10''      250 lbs.
+
+For each inch of height under 5'4'', subtract 5 lbs. from average weight. For 
+each 2 inches of height over 6'10'', add 20 lbs. to average weight.
+
+CC Advantages
+
+DD Magic Aptitude       see p. B21
+
+Magic requires Magical Aptitude and an IQ of at least 10. Those with IQ 6+ can 
+use magico-technological devices, such as Eyes, but cannot cast spells.
+
+DD Military Rank        5 points/level
+The Five Empires keep highly organized standing armies, so legion members 
+need Military Rank
+Rank  Title
+0     Changadesha (Soldier)
+1     Tirrikamu (Sergeant)
+2     Hereksa (Subaltern)
+3     Kasi (Captain)
+4     Molkar (Major)
+5     Dritlan (Colonel)
+6     Kerdu (General)
+7     Kerdudali (Senior General)
+
+DD Social Status
+
+Social Status = Clan Status + Lineage Status
+
+Clan Status (5 points / level)
+
+Level
+-1    Very Low Clan
+0     Low Clan
+1     Medium Clan
+2     High Clan
+3     Very High Clan
+4     Imperial Clan (Tlakotani)
+
+Lineage Status (5 points / level)
+
+Level
+
+-1    Very Low Lineage
+0     Low Lineage
+1     Medium Lineage
+2     High Lineage
+3     Very High Lineage
+4     Clan Elder (or Emperor if Imperial Clan)
+
+Also:
+Social Status
+-3    Clanless individuals
+-4    Slaves (or Expendable Property)
+
+CC New Advantages
+[intro text]
+
+DD Mana Damper                varies
+
+The person with this advantage affects their own use of magic, as well those 
+nearby. The base level of this advantage effectively lowers the mana level in hex 
+they occupy by one level and costs 10 points. Limitation: Touch Only - 1/2 cost. 
+Enhancements: Extended Range - cost x radius (maximum 3 hex radius); Additional 
+Mana Reduction - cost x number of Mana levels reduced. Example: a Mana 
+Suppressor who reduces the Mana Level by 2 levels (Normal Mana to No Mana) at 
+a radius of 2 hexes would cost 40 points (10 points x 2 hexes x 2 levels). Magic 
+that originates outside of this range acts normally on those within the dampening 
+effect.
+
+DD Religious Rank             5 points/level
+The character is a priest or priestess in the hierarchy of one of the temples, or a 
+shaman of one of the various primitive tribes. The priesthood has a number of 
+advantages that the laity lack, including +1 reaction for Reputation among their co-
+religionists and others who respect their faith. He or she will be addressed by a title 
+-- [examples go here] -- and can perform certain rituals and ceremonies as 
+[examples go here]. Also, priests are at an advantage when calling on their deity for 
+divine intervention.
+
+Ritual Priests
+Level Rank  Circle
+1     Acolyte     1st
+1     Junior Priest     2nd
+2           
+3     Chief Ritual Priest     8th
+4     High Priest 10th
+5     Grand High Priest 12th
+6     Ritual Preceptor  15th
+7           
+
+Administrative Priests
+Level Rank  Circle
+1     Acolyte     1st
+1     Junior Priest     2nd
+2           
+3     Temple Commandant 8th
+4     District Commandant     10th
+5     Senior Commandant 12th
+6     Administrative Preceptor      15th
+6     Patriarch   16-17th
+6     Lord Adept  18-20th
+7     Grand Adept 20th +
+
+Scholar Priests
+Level Rank  Circle
+1     Acolyte     1st
+1     Scholar     2nd
+2     Senior Scholar    5th
+3     Ranking Scholar   7th
+4     Licentiate  9th
+5     Proctor     11th
+6     Great Proctor     16th
+7           
+
+DD Administrative Rank  5 points/level
+
+Rank  Typical Posts     Circles
+
+0     clerks, scribes, petty functionaries      1-4
+1     Supervisors, overseers, middle-level clerks     5-8
+2
+3     Local department heads, rural fief administrators, District Prefects, other 
+aides and attaches      9-12
+4     District Palace Chiefs, mayors of larger cities, members of Governor's 
+suite 13-15
+5     Provincial Palace heads, legates and ambassadors, senior advisors at 
+provincial headquarters 16-18
+ 6    Governors, high functionaries at Avanthar, and Court of Purple Robes
+      19-21
+
+CC Disadvantages
+[intro]
+
+DD Intolerance
+Intolerance is rampant in the societies of Tekumel.
+Religious, social, racial, national, class intolerance are possible.
+
+DD Primitive
+This disadvantage is appropriate for tribal regions, such as Tsolei, M'morcha 
+and Nmartusha, Nmarchta, Nyemesel Isles, etc.
+
+CC New Disadvantages
+
+DD Anti-Charisma              -5 per -1 
+Acts in much the same way as Charisma, except with the opposite effect. Anti-
+charisma is kind of like an odious personal habit without any particular reason for 
+people not liking you. Something about the character's very essence repeals people. 
+People with this disadvantage tend to be social outcasts, hermits, etc. This effect 
+crosses racial and species boundaries.
+
+BB Skills
+Most skills appropriate to TL3 may be chosen, though there are some 
+exceptions, which will be noted in the skills section.
+DD Disallowed TL3 Skills
+Heraldry
+Hypnosis
+Lasso
+
+Since there are no riding animals equivalent to horses, both Lance and Riding 
+skills cannot be learned.
+
+DD Survival (Arctic)
+Only characters from the very far north, such as Lorun, can take this skill.
+
+DD Beam Weapons
+Some beam weapons are available as ancient artifacts on Tekumel, but due to 
+limited numbers of charges and limited opportunities to practice, Beam Weapons 
+can only be taken at default.
+
+CC Languages, Modern
+
+DD Livyani* (M/A)
+Livyanu, elaborate curlicue script close to that used for Engsvanyali
+
+DD Mu'ugalavyani* (M/A)
+Mu'ugalavya, descended from Engsvanyali, but considerably changed.
+
+DD Salarvyani*(M/A)
+Salarvya, several major dialects, Engsvanyali-derived, Bednalljan-influenced 
+script
+
+DD Tsolyani*(M/A)
+Tsolyanu, several script variants: classical, cursive, manuscript, monumental
+
+DD Yan Koryani*(M/A)
+Yan Kor, two major (east and west) dialects, each dialect has own Engsvanyali-
+based (a little Llyani) script
+
+DD Aomorh (M/A)
+small northeastern states from Chayakku through western Mudallu, ideographic 
+Kazhra VeNgakome script
+
+DD Ghatoni*(M/H)
+Ghaton (difficult), no written form
+
+DD Hijajai(M/A)
+Haida Pakala and several other nations across southern ocean, several scripts, 
+derived from Salarvyani
+
+DD Jannuyani(M/A)
+Jannu, Kilalammu, Chaigari Protectorate, many dialects, ideographic Kazhra 
+VeNgakome script
+
+DD Lo'orunankh(M/A)
+Lorun of northern Yan Kor, blocky Yan Koryani script
+
+DD Milumanayani*(M/A)
+Milumanaya, mutually intelligible dialects, either Tsolyani or Yan Koryani 
+script
+
+DD Nuru'un Si(M/A)
+eastern Mudallu, Nuru'un, and Hrga Lorunje, complex syllabary
+
+DD Pechani*(M/A)
+Pechano, originally dialect of Salarvyani, variant Salarvyani script
+
+DD Pe'e(M/A)
+Nyemesel Isles and regions farther south, rounded flowery alphabet
+
+DD Pijenani(M/A)
+Pijena, modified Yan Koryani script
+
+DD Quo(M/A)
+widespread tribal tongue of M'morcha and Nmartusha, no script
+
+DD Rantike(M/A)
+Rannalu, several dialects, no script
+
+DD Saa Allaqiyani*(M/A)
+Saa Allaqi, variant Yan Koryani script
+
+DD Tka Mihalli(M/A)
+Mihallu, unrelated to non-human Mihalli tongue, variant Engsvanyali script
+
+DD Tsolei'i(M/A)
+Tsolei, several closely-related languages (or widely-differing dialects), five 
+localized Livyani-based scripts
+
+CC Languages, Ancient
+(generally no longer spoken)
+
+DD Ai Che(M/H)
+monoliths, cave walls, and inscriptions in Temple of the Eye of the World, in 
+the northeast: Mudallu and Nuru'un
+
+DD Ancient N'lyssa*(M/A)
+Dragon Warriors language, Llyani-based script
+
+DD Bednalljan Salarvyani*(M/A)
+hieroglyphic script
+
+DD Classical Mu'ugalavyani*(M/A)
+related to Engsvanyali, similar to modern script
+
+DD Classical Tsolyani*(M/A)
+Engsvanyali-based, monumental syllabic script, still spoken by pedants,
+
+DD Duruob*(M/H)
+ancient Livyani, Engsvanyali-based, deliberately obscure hieroglyphic script
+
+DD Engsvanyali*(M/A)
+delicate, elegant script
+
+DD Llyani*(M/A)
+blocky, clumsy-looking script
+
+DD Mihalli*(M/H)
+alphabetical script, only non-human tongue readable (but not spoken) by 
+humans
+
+DD Tsaqw(M/A)
+ancient Yan Koryani, unique alphabetic script
+
+CC Languages, Secret Tongues
+
+DD Sunuz(M/VH)
+artificial secret language of temple of The One Other, officially banned, 
+carefully constructed cipher
+
+DD Thu'usa(M/H)
+argot of Stability Gods, vertical "Ladder-Writing", prereq: Xth Circle priest of 
+Stability temple
+
+DD Tongue of the Lord of Worms(M/H)
+secret language of Sarku and Durritlamish, ideographic symbols, prereq: Yth 
+circle priest of Sarku or Durritlamish
+
+DD Tongue of the Priests of Ksarul(M/H)
+secret argot of temple of Ksarul, three simultaneous symbolic systems: 
+phonemic alphabet, ideographs, and grammatical symbols, prereq: Zth circle priest 
+of Ksarul or Gruganu.
+
+BB Economics, Jobs and Wealth
+Standard starting wealth for a Tekumeli character is $1,000.  This includes all 
+possessions, not just cash. Any character who is not a true wanderer (bandit, 
+outcast, professional duellist, etc.) should spend no more than 20% of his wealth 
+on movable goods(weapons, armor, clothing, etc.). The rest should be tied up in 
+houses, rentals, investments, etc. Yearly cost of living varies with Status, and also 
+according to the number of dependents and employees a character has. An NPC 
+Patron, such as a noble lord or a temple, counts as an employer, and will look after 
+the character's living, as well as giving gifts from time to time for outstanding 
+service. The same applies to a PC who has employees; if they become dissatisfied 
+with his leadership, they may seek another patron.
+
+CC Money
+1 gold Kaitar = 20 silver Hlash     dime-sized  150 / lb.
+1 silver Hlash = 20 copper Qirgal   penny-sized 150 / lb.
+1 Qirgal    nickel-sized
+
+1 Kaitar = $20 GURPS
+1 Hlash = $1 GURPS
+1 Qirgal = $0.05 GURPS
+
+CC Prices
+DD Clothing
+
+Type  Cost  Weight      Notes
+_
+Wool travelling cloak   $40   3 lbs.
+Slave, very low-class clothing      $.50  -     Loincloth.
+Lower-class clothing    $5    .5 lb.      Kilt.
+Middle-class clothing   $40   1 lb. Kilt, vest, tunic.
+Upper-middle-class clothing   $200  4 lbs.      Kilt, tunic, collar, headress.
+Upper-class clothing    $400  4 lbs.      As above, but finer quality.
+Highest upper-class clothing  $2000+      8 lbs.      As above, but finest quality,
+elaborate
+                  decoration, gems.
+
+Priest vestments (1-13 circle)      $400+ 11 lbs.     As upper-middle class, plus tabards,
+                  plaques, stole, and other ritual garb.
+                  Upper-middle or upper class garments
+                  for daily wear.
+Priest vestments, circles 13+ $2000+      20 lbs.     As above, but heavier, finer, more
+                  elaborate.
+                  Upper- or highest upper-class garments
+                  for daily wear.
+
+Soldier's ceremonial uniform  $1000+      15 lbs.     Through lower officer ranks.
+Soldier's ceremonial uniform  $3000+      25 lbs.     General/High General ranks.
+
+DD Weapons and Armor
+Tekumeli Hand Weapons
+
+All prices and weights are for chlen hide weapons, where applicable. For steel weapons,
+except those 
+marked weighted, multiply weight by 3 and add +1 to damage.
+
+Weapon      Type  Amount      Reach Cost  Weight      Min ST      Special Notes
+
+CC Axe/Mace (DX-5)
+Small axe   cut   sw-1  1     $80   .75 lb.     none  Throwable. 1 turn to ready.
+Axe   cut   sw+1  1     $160  2 lbs.      10    1 turn to ready after swing.
+Throwing axe      cut   sw+1  1     $200  2 lbs.      10    Throwable. 1 turn to ready.
+Small mace  crush sw+1  1     $120  2 lbs.      10    Weighted. 1 turn to ready.
+Mace  crush sw+2  1     $160  3 lbs.      11    Weighted. 1 turn to ready.
+Spiked mace cut   same        +$40  +.5 lb.           Either size mace can be spiked.
+Sm. warhammer     crush sw+2  1     $170  3 lbs.      11    Weighted. 1 turn to ready.
+      imp.  sw+1  1                       1 turn to ready.  May get stuck.
+      imp.  th+1  1
+Light club  crush sw+1  1     $10   3 lbs.      11
+
+CC Broadsword (DX-5)
+Broadsword  cut   sw    1     $250  1 lb. 7
+      imp.  th    1                       
+Blade hook                    +$30  +.25 lb.          For trapping and disarming.
+Scimitar    cut   sw    1     $200  1 lb. 7
+      crush th-1  1                       Not meant for thrusting.
+
+CC Flail (DX-5)
+Morningstar crush sw+2  1     $150  3 lbs.      11    Weighted. 1 turn to ready.
+Flail crush sw+3  1,2*  $300  5 lbs.      12    2 handed.  1 turn to ready.
+
+CC Knife (DX-4)
+Large knife cut   sw-3  C,1   $40   .5 lb.      none  Max. damage 1d+2.
+      imp.  th-1  C                       Not throwable.
+Small knife cut   sw-4  C,1   $30   -     none  Max. damage 1d+1.
+      imp.  th-2  C                       Not throwable.
+Dagger      imp.  th-2  C     $20   -     none  Not throwable. Max. damage 1d.
+Throwing Dagger   imp.  th-2  C     $30   -     none  Throwable. Max. damage 1d.
+
+CC Polearm (DX-5)
+Glaive      cut   sw+2  2,3*  $250  6 lbs.      10    2 turns to ready after swing.
+      imp.  th+2  1-3*                    1 turn to ready after thrust.
+Poleaxe     cut   sw+3  2,3*  $300  8 lbs.      11    2 turns to ready after swing.
+Halberd     cut   sw+4  2,3*  $400  10 lbs.     12    2 turns to ready after swing.
+      imp.  sw+4  2,3*                    2 turns to ready. May get stuck.
+      imp.  th+3  1-3*                    1 turn to ready after thrust.
+
+CC Shortsword (DX-5)
+Shortsword  cut   sw-1  1     $140  .75 lb.     none
+      imp.  th-1  1
+Blade hook                    +$30  +.25 lb.          For trapping and disarming.
+Kha   imp.  sw-1  1     $180  .75 lb.     none  Armor-piercing blade
+                                          perpendicular to hilt.
+
+CC Spear (DX-5)
+Javelin     imp.  th+1  1     $30   2 lbs.      none  Primarily for throwing.
+Short Spear imp.  th+2  1*    $40   4 lbs.      9     One-handed.  Usually not thrown.
+      imp.  th+2  1,2*                    Same spear used two-handed.
+Long Spear  imp.  th+2  2,3*  $60   6 lbs.      12    2 handed. For formations.
+Pike  imp.  th+3  3-5*  $200  8 lbs.      12    2 handed. For formations.
+
+CC Staff (DX-5)
+Quarterstaff      crush sw+2  1,2   $10   4 lbs.      6
+      crush th+2  1,2
+
+CC Two-handed Sword (DX-5)
+Greatsword  cut   sw+2  1,2   $400  3 lbs.      9     
+      imp.  th+1  2                       Thrusting not favorred style.
+Blade hook                    +$50  +1 lb.            For trapping and disarming.
+Quarterstaff      crush sw+2  1,2   $10   4 lbs.      9     Using sword technique.
+      crush th+1  2
+
+CC Two-handed Axe/Mace (DX-5)
+Greataxe    cut   sw+2  1,2*  $400  4 lbs.      12    1 turn to ready after swing.
+Mace  crush sw+2  1,2*  $300  4 lbs.      11    Weighted. 1 turn to ready.
+Spiked mace cut   sw+3  1,2*  $360  5 lb. 12    Weighted. 1 turn to ready.
+Warhammer   crush sw+2  1,2*  $350  3 lbs.      11    Weighted. 1 turn to ready.
+      imp.  sw+1  1                       1 turn to ready.  May get stuck.
+      imp.  th+1  1
+Heavy club  crush sw+3  1,2*  $20   5 lbs.      12    1 turn to ready after swing.
+
+Tekumeli Ranged Weapons
+
+Weapon      Type  Amount      SS    Acc   1/2 D Max   Cost  Weight      Min ST
+      Special Notes
+_
+
+CC Axe/Mace Throwing (DX-4)
+Small axe   cut   sw-1  11    1     STx1.5      STx2.5      $80   .75 lb.     none  
+Default 
+only.
+Throwing axe      cut   sw+1  10    2     ST    STx1.5      $200  2 lbs.      10    
+Default 
+only.
+
+CC Blowpipe (DX-5)
+Blowpipe    Special           10    1     -     STx4  $30   1 lb. none
+Blowpipe darts                                        $1    -
+
+CC Bolas (DX-5)
+Bolas Special           12    0     -     STx3  $20   2 lbs.      none
+
+CC Bow (DX-6)
+Shortbow    imp.  th    12    1     STx10 STx15 $50   2 lbs.      7     Max. dam. 1d+3
+Regular bow imp.  th+1  13    2     STx15 STx20 $100  2 lbs.      10    Max. dam. 1d+4
+Longbow     imp.  th+2  15    3     STx15 STx20 $200  3 lbs.      11    Max. dam. 1d+4
+Comp. bow   imp.  th+3  14    3     STx20 STx25 $900  4 lbs.      10    Max. dam. 1d+4
+Quiver                                          $25   1 lb.       Holds 20 arrows
+                                                            or 30 bolts.
+Arrows                                          $2    2 oz.
+
+CC Crossbow (DX-4)
+Lt. crossbow      imp.  th+4  12    4     STx20 STx25 $400  6 lbs.      7     Max. dam.
+3d-1
+Md. crossbow      imp.  th+4  12    4     STx20 STx25 $500  8 lbs.      7     Max. dam. 3d
+Hv. crossbow      imp.  th+4  12    4     STx20 STx25 $600  10 lbs.     7     Max. dam.
+3d+1
+Quarrels                                        $2    1 oz.
+
+CC Knife Throwing(DX-4)
+Throwing dagger   imp.  th-2  12    0     ST-5  ST    $30   -     none
+
+CC Sling (DX-5)
+Sling crush sw    12    0     STx6  STx10 $10   .5 lb.      none  Fires rocks.
+Lead pellets            sw+1                          $1    1 oz.       More aerodynamic,
+                                                            +3 eff. ST for range.
+Staff-sling crush sw+1  14    1     STx10 STx15 $20   2 lb. none  Fires large rocks.
+
+Incend. firepot   fire  p. B113                             $100  1 lb. 
+      Thrown by hand
+                                                            or staff-sling.
+
+CC Spear Throwing (DX-5)
+Javelin     imp.  th+1  10    3     STx1.5      STx2.5      $30   2 lbs.      7
+Short Spear imp.  th+3  11    2     ST    STx1.5      $40   4 lbs.      9
+Dart  imp.  th-1  11    0     ST-5  ST    $10   .5 lb.      none
+
+CC Throwing or DX-3
+Rock  crush th-1  12    0     STx2  STx3.5      none  1 lb. none
+Throwing club     crush sw+1  12    0     STx2  STx3  $10   2 lbs.      10
+Incend. firepot   fire  p. B121     13    0     -     STx3.5      $100  1 lb. none
+
+Tekumeli Armor
+
+Type  PD    DR    Cost  Weight      Notes
+
+Headgear
+
+Upper-class headress    2     2     var.  var.  Clothing.
+Leather helmet    2     2     $20   -     Light infantry helmet.
+Pot-helm    3     3     $100  1.5 lbs.    Medium infantry helmet.
+Visored helm      4     6     $340  3 lbs.      Heavy infantry helmet.
+
+Torso
+
+Upper-class collar      2     2     var.  var.  Clothing.
+Pectoral    3     3     $120  2 lbs.      Light shoulder armor.
+Gorget collar     4     5     $250  4 lbs.      Throat and shoulder armor.
+Leather tunic     1     1     $50   3 lbs.      Light leather.
+Hard leather      2     2     $100  6 lbs.      Heavy "boiled" leather.
+Chainmail shirt*  3*    4*    $200  5 lbs.      Shirt of chlen rings.
+Scalemail shirt   3     4     $400  6 lbs.      Heavy leather with chlen scales.
+Breastplate 4     5     $500  6 lbs.      Custom-made chlen plate-armor.
+Backplate   4     5     $400  5 lbs.
+
+Arms and legs
+
+Leather vambraces 2     2     $25   1 lbs.      Lower arm armor.
+Leather greaves   2     2     $30   2 lbs.      Lower leg armor.
+Vambraces   4     5     $250  2 lbs.      Lower arm chlen plate armor.
+Greaves     4     5     $300  3 lbs.      Lower leg chlen plate armor.
+Leather kilt      2     2     $60   3 lbs.      Upper leg protection.
+Mail kilt*  3*    4*    $300  4 lbs.      Upper leg protection.
+Pteruges    3     4     $300  3 lbs.      Scale mail kilt plaques.
+Tasses      4     5     $400  4 lbs.      Chlen plate kilt plaques.
+
+Feet
+
+Straw Sandals     0     0     $1    -
+Leather Sandals   0     0     $10   1 lb.
+  or Slippers
+Shoes 1     1     $40   2 lbs.
+Boots 2     2     $80   3 lbs.
+Sollerets   3     4     $150  4 lbs.      Chlen plated boots.
+
+Suits of armor
+
+Light armor 1     1     $305  5 lbs.      Leather helmet, leather vambraces,
+                              leather tunic, sandals.
+Medium armor      3*    4*    $1500 15.5 lbs.   Pot-helm, gorget collar, chain
+                              shirt, vambraces, greaves, boots.
+Heavy armor 4     5     $2890 35 lbs.     Visored helm, gorget collar,
+                              breastplate, backplate, greaves,
+                              vambraces, mail kilt, tasses,
+                              sollerets.
+
+Shields
+
+Buckler     1     0     $25   2 lbs.
+Small shield      2     0     $40   6 lbs.
+Med. shield 3     0     $60   12 lbs.
+Large shield      4     0     $90   20 lbs.
+
+DD Food
+Slave meal  $.10  Gruel, bread crust, occasionally
+            vegetables, rarely meat.
+Lower-class meal  $.5   Bread or rice, vegetable stew,
+            some meat.
+Middle-class meal $2    Bread, meat stew, fruit, dessert.
+Upper-middle-class meal $5    Better food.
+Upper-class meal  $60   Bread, pastry, meat and fish
+            dishes, pickles, sweets.
+Nobleman's feast  $600  multi-course meal with lots
+            of variety, imported food, finest cusine.
+
+Spiced buttermilk, cup  $.05  Common drink.
+Tea, pot    $.50
+Beer, ale, mead, bottle $2
+Ngalu wine, bottle      $15   $500 for the best vintages.
+Dronu wine, bottle      $35   $500 for the best vintages.
+A'ash whiskey, bottle   $10
+Datsu brandy, bottle    $20   $500 for the best.
+Mash brandy, bottle     $40   $1000 for the best.
+Tsuhoridu liquor, bottle      $400  $5000 for the best.
+
+DD Lodging
+Poorest lodging   $.15  Roof, straw, and one very poor meal.
+Lower-class lodging     $3    Lg. shared room, better food, fewer vermin.
+Lower-middle class room $15   Very sm. private room, common bath,
+            clean mat, lower-class food.
+Middle-class room $40   Bigger room, semi-private bath, new mat,
+            furniture, middle class food.
+Upper-middle class room $150  Sm. suite, private bath, nice
+            furnishings, servant quarters,
+            upper-middle food.
+Upper class rooms $600  Lg. suite, multiple private baths,
+            upper-class food.
+Noble lodgings    $2500 Very lg. suite, private baths, very fine
+            furnishings, the finest food, bodyguards.
+
+DD Animals
+Hunting dog       $500
+Kuni bird         $4000 Trained to hunt.
+Kuni bird         $10000      Trained to hunt and speak.
+Renyu       $12000      Semi-intelligent biped.
+
+DD Miscellaneous Goods
+
+Adventure Equipment
+
+Item  Cost  Weight      Notes
+
+Cord, 10 yd.      $1    .5 lbs.     Supports 90 lbs.
+Rope, 10 yd.      $5    1.5 lbs.    Supports 300 lbs.
+Heavy Rope, 10 yd.      $25   5 lbs.      Supports 1000 lbs.
+Light hooked grapnel, chlen   $20   1 lb. Supports 300 lbs.
+Pole, 2 yd. $5    3 lbs.      For touching questionable items.
+Spike, chlen      $2    .25 lb.
+Mallet, other tool      $10   2 lbs.
+Personal basics   $5    -     Spoon, fork, and cup, etc.
+Group basics      $50   20 lbs.     Cookpots, utensils, rope, hatchet, etc.
+Flint, steel and tinder $25   -     Expensive because of steel.
+Personal toilet articles      $20   .5 lb.      Incl. razor, soap, chew
+                  sticks, comb, scissors, mirror, etc.
+Torch $3    1 lb. Burns 1 hour.
+Lantern     $20   2 lbs.      
+Oil flask   $2    1 lb. 1 pint burns 24 hours.
+Candle      $5    -     Burns about 2 hours.
+Tsural buds $10   -     Repellent to certain dangerous creatures.
+Belt pouch  $10   -     Holds 3 lbs.
+Sm. sack or lg. pouch   $20   .5 lb.      Holds 10 lbs.
+Large sack  $40   1 lb. Holds 25 lbs.
+Small backpack    $60   3 lbs.      Holds 40 lbs.
+Large backpack    $100  10 lbs.     Holds 100 lbs.
+Blanket     $20   5 lbs.
+Bed-mat     $10   3 lbs.      Woven reeds or cloth.
+Travel rations    $2    .5 lb.
+Better rations    $5    .75 lb.
+Sm. waterbottle   $10   -     Leather. Holds 2 quarts.
+Lg. waterbottle   $30   1 lb. Leather. Holds 2 gallons.
+Physician's bag   $300  10 lbs.
+Sorcerer's bag    $1000 10 lbs.     For ritual magic use.
+Small flute $50   .5 lb.
+Drum  $100  3 lbs.
+Kevuk dice  $10   -
+Tsahlten sticks   $100  .25 lb.     Gambling game.
+Pack of cards     $200  -     For Ao'ab or Narku games.
+
+Drugs $/kg  dosage
+
+Aira grass  $160  2-11 g
+Chumaz      $300  4-13 g
+Drarsha     $2800 10-15 g
+Hnequ weed  $150  50+ g
+Maghz $1400 10-15 g
+Nto   $800  2-3 g
+Osi   $3200 3-5 g
+Shra  $30000      5-6 g
+Vipu  $800  5-6 g
+Zu'ur $44000      1 g
+
+Property    Rental      Purchase    Notes
+
+Hut or tenement   $7    $800
+Small house or shop     $80   $8000
+Med. house or shop      $300  $15000
+Large house or shop     $1500 $100000
+Very large house  $6000 $250000     Or small mansion.
+Large clanhouse   $25000      $750000     Or mansion, small palace.
+Very large clanhouse    $200000     $10000000   Or palace.
+
+DD Transport
+
+Chlen beast $60   $3000 Can travel 10-15 miles/day.
+Chlen calf  -     $750
+One-chlen cart    $150  $800  Carries up to 1.5 ton.
+Two-chlen cart    $350  $1200 Carries up to 4 tons.
+Sm. litter  $60   $750  1 passenger, 2 slaves.
+Lg. litter  $300  $3000 1-2 passengers, 4 slaves.
+Lg. long dist. litter   $500  $5000 1-2 passengers, 8 slaves,
+                  + 8 relief slaves.
+                  Can travel 20-35 miles/day.
+Very lg. long dist. litter    $1500 $9000 2-4 passengers, 16+ slaves,
+                  + 16+ relief slaves.
+                  Can travel 20-35 miles/day.
+Slave porter      $15   $2000 Can carry 75-100 lbs.
+                  and can travel 20-40 miles/day.
+Small boat        $800  4-6 persons plus baggage.
+Fishing boat            $8000 6-15 persons plus baggage.
+Small merchant ship           $100000
+Large merchant ship           $200000
+Small warship           $20000
+Med. warship            $400000
+Large warship           $800000
+Very lg. warship        $1500000
+Largest warship         $5000000
+
+DD Slaves
+Type  Price
+
+Untrained boy/girl      $600
+Untrained adult, ave. cond.   $1200
+Untrained adult, exc. cond.   $2000
+House-servant     $2400
+"Easy" skilled slave    $3500
+"Average" skilled slave $10000
+"Hard" skilled slave    $20000
+"Very Hard" skilled slave     $50000
+Major domo, over-seer   $25000
+Beau. or very beau. slave     $60000
+Entertainer $150000
+Courtesan or dancer     $300000
+Non-human, common $120000
+Non-human, rare   $400000
+Oddities    $500000
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

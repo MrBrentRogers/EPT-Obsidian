@@ -1,0 +1,107 @@
+ 
+                           Tekumel Digest, Number 38
+ 
+                            Tuesday, March 3rd 1992
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Today's Topics:
+ 
+                               Ahoggya makes a comeback
+                            Miniatures Rules/Question
+----------------------------------------------------------------------
+ 
+Date:         Sun, 01 Mar 92 15:16:02 EST
+From: B ob <ROYER%NYSPI.bitnet@CUNYVM.CUNY.EDU>
+Subject:      Ahoggya makes a comeback
+
+I read EJK5@JAGUAR's (Arakesh hiIto) comments with interest,
+and he has a compelling view of the Ahoggya climbing and
+swimming issue.  However, I took a rare opportunity to consult my
+references, and see some points I had dimly remembered at best
+when I first posted my query.
+I discovered, as I thought I had read, that Ahoggya houses are on
+stilts, with a ladder (Different Worlds version, volume 1, p. 53).
+Obviously, Ahoggya can climb ladders.  I agree with EJK that it is
+hard to imagine quite how they do climb ladders, but I guess two
+arms grasp and pull, and the other side hangs limp.  A box with
+rungs on all four sides might make more sense to the Ahoggya, but
+such a device would prove clumsy to pull up into the house, as
+described.  If they can climb human-style ladders (yet to be
+confirmed, as we don't know what Ahoggya ladders look like) then
+they should be able to climb mountains, cliffs, etc.
+
+Regarding Ahoggya at sea, the sourcebook (Different Worlds again,
+volume II, p. 30-31) describes their vessels as about the same length
+as the smaller human merchant vessel class (the Hru), and the larger
+Ahoggya vessels are nearly the size of the smallest Hrus.  They have
+a single mast--hardly a vessel for the sort of tentative shore hugging
+that EJK implies.  (That's more the Hlutrgu style.)  Although they are
+not the mariners that the Shen are, shore hugging on Tekumel is no
+disgrace, as few ships (regardless of race) brave the deeps and tempt
+the creatures therein (what is the opposite of sushi?).
+
+Since the Ahoggya live in swamps and build functional (albeit
+small) vessels, it can be assumed that they do not fear the sea any
+more than humans do.  In fact, when Earth was at an equivalent
+technological level, most European mariners couldn't swim, and a fall
+overboard would mean a likely drowning.  I would assume that
+Ahoggya are medium-quality sailors (below Swamp Folk, humans,
+and Shen, but above the other races) but sail nonetheless.
+As for their ability to swim, if they have sufficient bouyancy to
+keep their mouth or other breathing orifice above water, they could
+swim with their legs while keeping all arms free for combat.
+Perhaps they could wear floation bladders (like water-wings)?  The
+bouyancy of Ahoggya remains to be tested (I am thinking of the
+witch in "Monty Python and the Holy Grail") but their density could
+be calculated from their average size and weight from the SG tables
+in the Player's Handbook, if anybody cares to calculate Ahoggya
+volume?
+
+------------------------------
+ 
+Date:     Tue, 3 Mar 92 11:08:08 EST
+From: Robert S. Dean  <rsdean@crdec8.apgea.army.mil>
+Subject:  Miniatures Rules/Question
+
+Greetings to all!  I don't believe that I've sent a notice to this list before,
+though I recognize many of the names from some of the other FRPG lists.
+
+In any case, I thought I would bring to your attention a new set of miniatures
+rules "Hordes of the Things", by Phil Barker and Wargames Research Group.  I
+don't think that the two Barkers are related...
+
+HotT is a fantasy version of the now popular ancient/medieval quick play
+game De Bellis Antiquitatis, and generally only involves 'armies' represented
+by 30-50 figures.  Among the lists of fictional fantasy armies included with
+the game is a brief discussion of the armies of Tekumel.  For any of you
+with a small number of miniatures and a desire to use them for something, I
+would suggest that you consider taking a look at these rules.  I can type
+a longer description later, if anyone is interested.
+
+Now for the question: I was about ready to sell my meager supply of Tekumelyani
+miniatures around Christmas, but these rules became available while the deal
+was pending.  Now, rather than looking to sell, I would be interested in
+acquiring more.  Does anyone have any 'official' information on recommended
+in-production figures for use as Tsolyani, and does anyone know what happened
+to the molds last used by Tekumel Games a few years ago to do another prod-
+uction run of the original figures from Old Guard (?) and Ral Partha?
+
+Rob Dean
+rsdean@crdec8.apgea.army.mil
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

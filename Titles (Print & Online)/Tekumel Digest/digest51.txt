@@ -1,0 +1,194 @@
+
+          Development & Procurement     From:     ftpmail@doc.ic.ac.uk@R11F@MRGATE@WEBCS
+                 WEB Mail               Tel No:    
+                                        Date:     11-Aug-1993 00:47am
+
+TO:  PEARSE W R
+
+
+Subject: wings.micro.umn.edu:/pub/tekumel/Digests/051 (get 051)
+
+Date: Fri, 30 Oct 92 17:05:32 CST
+From: "Tekumel Digest" <alberti@boombox.micro.umn.edu>
+To: tekumel-digest
+Subject: Tekumel Digest #51
+X-POPMail-Charset: IBM 8-BIT
+
+			   Tekumel Digest, Number 51
+ 
+			   Friday, Oct. 30th, 1992
+ 
+Requests or comments: tekumel-request@boombox.micro.umn.edu
+Submissions: tekumel-submit@boombox.micro.umn.edu
+FTP sites: rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+	   potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+	   quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Administrivia:
+---------------
+
+OOPS!
+
+     Sorry about that, folks.  In setting up the mailing list, I 
+accidentally routed responses back to the newslist itself, meaning that 
+several of you may have received responses to Digest #50 in your private 
+mailboxes.  I apologize for the error, and have (I believe) repaired the 
+difficulty.  From now on you should only receive the actual Digests from 
+this list.
+
+---------------
+
+Today's topics:
+                 Mu'uglavyani, Salarvyani activities,  Lexicons
+                 More on the situation in Tsolyanu
+                 Descriptions of Adventures in Tekumel
+                 Further info on Adventures in Tekumel
+                 Good versus Evil and "Noble Action"
+
+---------------
+On Thu, 22 Oct 92 21:50:35 CDT, Erich R Schneider wrote:
+
+>Bob Alberti updates us on the State of the Empire:
+>>The empire is nearly completely embroiled in civil war.
+>
+>What do the other three Empires think of this? I would think that
+>Mu'ugalavya and Salarvya would want to take advantage of the situation
+>to settle some old scores; as they say, "When birds fight over grains of
+>Dna, both are easy prey to the lurking hunter!"
+
+Professor Barker responds:
+The Mu'uglavyani took Pan Chaka back, but couldn't take Do Chaka, as the  
+Pe Choi rose to fight them off.  Additionally, the Mu'uglavyani didn't want 
+to approach the heavy troops near Tumissa, nor Eselne's hardened army in 
+Paya Gupa.
+
+Salarvyani tried to take the Gilraya forest by moving up through Chaigari.
+Koyluga troops managed to take Fenul and Ru.  A particularly ill-fated 
+mission got stuck in the thick Gilraya forest, then hammered by Hlutrugu 
+when they broke out upon the coast.  Finally, some Salarvyani 
+mercenaries tried to move north from Ru to Hekellu, but were forced to 
+withdraw.
+
+>Also, does TOME plan to do anything with the extant linguistic material?
+
+No plans as yet to republish the linguistic material -- but they could be 
+persuaded by fans.
+
+>Does extensive material (grammars, lexicons) exist on the other languages
+>besides Tsolyani?
+
+No there are no formal lexicons written for anything else.  I've got some 
+notes on Yan Koriani that I wrote around 1946, and collections of notes on 
+Liyani, Engsvanyali, Mu'uglavyani, and Salarvyani.  However, with 214 
+conjugates of the Salarvyani verb, it may be some time before I attempt 
+those!
+
+---------------
+
+On 23 Oct 1992 11:23:17 -0400 (EDT), Bob Dushay wrote:
+>Greets.  It's very good to see the digest back up again.  I am stunned
+>at events in the Imperium, and wonder if Dhich'une can shoot straight.
+
+Bob Alberti responds:
+He's in a tough situation because he is not mobile and has few trusted 
+allies.  When Ald and Fu Shi'i were on his side, both were working for 
+their own ends and not Dhich'une's.  His most powerful allies are probably 
+Vridekka and Jayargo;  big, but not big enough.  He needs a Fu Shi'i-level 
+ally whom he can send out to do his dirty work.  All the other Imperial 
+Heirs are protected by allies at least equal to Vridekka and/or Jayargo, 
+which is why they have been able to survive.
+
+Dhich'une's biggest coup was eliminating Mirusiya in the manner that he 
+did.  If Professor Barker's player-character group had not been comprised 
+largely of Vimuhla worshippers and Vriddi, Mirusiya would probably still be 
+out there in the Planar Wilderness.  Nobody else was interested in rescuing 
+him.
+
+>Have any of his rivals been eliminated?
+
+Well, Hirkane....
+
+---------------
+
+From: craigr@esem.crd.ge.com (craig robertson)
+>The updates on the situation in Tekumel were just what I was looking for.
+>I do have a question. What are the Adventures in Tekumel volumes?
+>Scenarios, rules, or other?
+
+Professor Barker responds:
+The four volumes of "Adventures in Tekumel" are:
+
+Part 1, Volume 1:  Growing up in Tsolyanu -- create basic Tekumel 
+                   characters, guiding them through childhood and young
+                   adulthood.  At about age 13 you're ready to proceed to
+                   the solo adventures in the next books.
+
+These three books contain ten adventures taking your young character to 
+many places in Tsolyanu and around Tekumel.  Set during the exciting days 
+of 2364-2365 following the ascension to the throne of Dhich'une the Usurper,
+politics and intrigue mix with magic and adventure.  As you survive each 
+adventure, you accrue skills, abilities and possibly wealth.  Or maybe 
+you're simply happy to live.
+
+Part 2, Volume 1:  Coming of Age in Tekumel (Already released)
+
+Part 3, Volume 2:  Beyond the Borders of Tsolyanu (December release)
+                   Adventures:
+                   Sea Journey to Livyanu, Hunting in the Kraa Hills,
+                   Commercial journey (caravan), Fun in Penom
+
+Part 4, Volume 3:  Early December release
+---------------
+
+From: Tom Zunder <tzunder@cix.compulink.co.uk>
+>Could someone do a review of Adventures in tekumel 1 and 2.
+>I have been playing with the idea of tekumel for some years but due to 
+>the itty bitty nature of the stuff have never plunged. As a big Glorantha 
+>fan I feel Tekumel could be really up my street.
+
+>I have read the man of gold and the original EPT. Could someone explain
+>what A in T 1 and 2 are, source or rules?
+
+Bob Alberti responds:
+Adventures in Tekumel 1 is a basic rulebook for low-level character 
+development.  Adventures in Tekumel 2 is the first book of solo 
+adventures.  Advanced rules are being rewritten at this time to make the 
+new version of Empire of the Petal Throne somewhat less complicated than 
+its predecessor.
+
+>I am hungry to know whether to plunge..
+
+Give the solo books a try:  They're not just your average solo adventure, 
+but are rich with the color and intrigue unique to Tekumel.  They'll give 
+you a taste of the game.
+---------------
+
+From: Bob Dushay <dushay@NYSPI.BITNET>
+Malcome Heath asks about making Sarku-Worshippers the bad guys.
+I have not played or run a game where PCs are Sarku worshippers,
+but they are not the default bad guys in my thinking.  I believe
+the good/bad dimension we seek is found in the moderate/fanatic
+dichotomy.  A moderate worshipper of Sarku would not be a villain,
+and by the same token, a fanatical worshipper of vimuhla could be,
+especially if he advocated suppression of other faiths and overthrow
+of Imperial customs and order to advance his/her cause.
+   When I first discovered Tekumel, I thought Stability=Good, and
+Change=Evil.  I was shocked to discover fans of Stability like
+myself were in the definite minority.  I have moved to accomodate my
+players, however, and for those who worship Vimuhla, I am providing
+villians in the garb of fanatical activists in the temple of Karakan.
+   I find the rituals and beliefs of Sarku distasteful, but I believe
+I could run a game with Sarku-worshipping PCs--provided they weren't
+too fanatical about their faith.  I suspect I wouldn't like fanatics
+of any faith as players.
+   I believe villians are virtually necessary to provide conflict, and
+as any student of literature knows, a story requires conflict.
+Sarku worshippers are being branded with Prince Dhich'une right now,
+and I believe he IS a villian, regardless of his faith, for
+going beyond the boundaries of "Noble Action" in his quest for
+the Petal Throne.  I also feel Fu-Shi'i is a worse villian than
+Dhich'une.  So there.
+   While we're taking surveys, I'd add two questions of my own:
+what faiths do players choose, and why; and how many female players
+or Digest subscribers are there out there?
+

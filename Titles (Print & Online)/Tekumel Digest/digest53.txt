@@ -1,0 +1,284 @@
+
+          Development & Procurement     From:     ftpmail@doc.ic.ac.uk@R11F@MRGATE@WEBCS
+                 WEB Mail               Tel No:    
+                                        Date:     11-Aug-1993 00:47am
+
+TO:  PEARSE W R
+
+
+Subject: wings.micro.umn.edu:/pub/tekumel/Digests/053 (get 053)
+
+      Tekumel Digest, Number 53
+ 
+      Tuesday, Dec. 22nd, 1992
+ 
+Requests or comments: tekumel-request@boombox.micro.umn.edu
+Submissions: tekumel-submit@boombox.micro.umn.edu
+
+Gopher Archives in:
+  Fun & Games/Games/Fantasy Role-Playing Games/Empire of the Petal Throne/
+
+FTP sites: rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel 
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel 
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads 
+           wings.micro.umn.edu (134.84.130.22) in /pub/tekumel/Digests
+
+Administrivia:
+
+Now that the Tekumel Archives are available via Gopher, please feel
+free to send submissions for the archives to 
+  tekumel-submit@boombox.micro.umn.edu
+Please specify whether your submission is for the Gopher archive, the 
+Digest, or both.
+
+The Gopher program has easy-to-use client programs for all sorts of
+computers, including IBM compatibles, Macintoshes, and more.  For
+more info, write to gopher@boombox.micro.umn.edu.
+
+--------------------------------------------------------------------------
+Today's Topics:
+  
+                            Back Issues of the Digest
+                            Maps of Tekumel
+                            Rules Questions.
+                            Apocalypse Now: What if Ksarul were freed?
+                            EPT in UK
+
+--------------------------------------------------------------------------
+>From: David Lucas <odave@metapro.dialix.oz.au>
+>Anyone have access or knowlage of where I can get my hands
+>on "Tekumel Digest #24" I have a partial version but a
+>complete version (Or a up to date version) would be greatly
+>appreciated.
+
+Let me first request that messages of this type be sent to
+  tekumel-submit@boombox.micro.umn.edu
+and not to the digest itself.
+
+As mentioned in the last newsletter, ALL Tekumel digests are available
+for Gopher retrieval from the Gopher Directory
+  Fun & Games
+    Games
+      Fantasy Role-Playing Games
+ Empire of the Petal Throne
+   Digests
+
+To access a text-based Gopher client, telnet to 
+  consultant.micro.umn.edu
+and log in with the name
+  gopher
+all lower-case, no password, VT-100 emulation.
+
+Otherwise, one may FTP to wings.micro.umn.edu for the same information.
+
+>I am also looking for anything to do with "Swords and Glory",
+>conversion between gameing systems and monsters especially.
+>
+>Thanks for any help that anyone can give.
+
+--------------------------------------------------------------------------
+>From: Klaus Ole Kristiansen <klaus@diku.dk>
+>Is there any way one could get hold of map of Tekumel, or at least of
+>the empire and environs? Will anything basic be pulished soon, or are
+>those new releases only for those lucky few who already have EPT stuff?
+>Klaus O K
+
+TOME is definitely going to re-release the maps, but not anytime soon.  
+Apparently a source for the maps exists, and they can be had for $15, but I 
+have not located the address for these maps yet.  I will try to obtain this 
+information for the next Digest.
+
+--------------------------------------------------------------------------
+>From: SIMONDSR@ACFcluster.NYU.EDU
+>        I've been a tremendous fan of EPT for the past 15 years, and although
+>my rules and campaigns drifted substantially away from those of the original
+>set, I've tried to remain faithful to the spirit of the game!
+>
+>        Question 1:  Was there ever an index made to the map of Jakalla
+>in the basic set?  We have especially wondered about all the buildings in
+>the City of the Dead.
+
+The original game rules apparently had an index of Jakalla on page 95,
+including the names of the tombs of Sirandar III, Bashishamsar II, and 
+various Engsvanyali governors.
+
+>        Question 2:  Have there been any changes or additions to the
+>miniatures rules as set forth in Qadardalikoi?
+
+No, there are no plans to republish Qadardalikoi.  
+
+>Just one comment:  I'm surprised that [in #51] it was commented that most
+>EPT player-characters worship Vimuhla.  Not in my campaigns!  Hnalla rules
+>most of my PCs,
+
+I mentioned that most of the players in Professor Barker's Thursday night
+game are Vimuhla worshippers -- that's not to say that MOST PLAYERS are
+Vimuhla worshippers, that's just the balance in OUR group.
+
+>and Vimuhla is heavily associated with the Ssu, who together
+>overthrew Pechano, leading to most of my world's problems.
+
+AUGH!  What a concept.  I hope your branch of reality is one I 
+never explore.  ;-)
+
+--------------------------------------------------------------------------
+>From: Bob Dushay <DUSHAY@NYSPI.BITNET>
+>Here's a gonzo question for the Digest.  What would happen if the
+>ten keys to the Blue Room were found and Ksarul released?  Would
+>a Domoron Plain rematch be fought?  
+
+According to Barker, no, as Ksarul is fated to someday be set free.
+
+>Would the 9 gods intervene
+>to prevent the release of Ksarul?  I suspect the Heroes of Tekumel
+>at the very least would intervene.  I ask because some potential
+>players have expressed interest in the quest, and I'd hate to
+>discourage them by flat-out refusal, and it might be considered
+>poor sportsmanship to make the task completely impossible.  (Of
+>course, it would be darned near impossible
+
+There are two kinds of bond holding Ksarul in his room:  Wards and Keys.
+Each Key has two or three Wards which prevent it from being used or, once
+used, from being un-used.  Wards are easier to find than Keys, and are not
+necessarily located physically "near" the Keys they serve.
+
+The task of finding and using a Key to further Ksarul's release would be a
+Very Long Adventure -- an entire campaign could be directed towards it,
+occupying the entire lifetime of a player's character, and taking several
+years of our time.
+
+A few keys have already been found and used, and rest upon a table in
+a place of waiting beside Ksarul's tomb (I've been there and touched the
+door, oooh, aaah).  However, not all keys are what you would call "hidden".
+One key which is very well known is the Key in the possession of the Mad
+King of Salarvya.  Deep beneath the palace in Tsatsayagga, the figure of
+a gently smiling young man reposes upon an altar.  Those who meet high
+favor with the Mad King are permitted to make sacrifices to this figure,
+which is one of the Keys.  If one sacrifices objects of blue, such as
+blue gems, blue fabric, even blue flowers, the figure grants boons and
+riches.
+
+>stealing a Key from
+>Bassa, King of the Black Ssu, would take the power of, say, Subadim
+>the Sorcerer.)  In any event, I strongly suspect completion of the
+>quest would mean the end of that version of Tekumel.
+
+Not in the least.  There are three possible endings for Tekumel.
+The first are those planes where the Egg of the World has been reconstructed
+and Tekumel returned to its original plane.  The second are those planes
+which become so unlikely that they can no longer sustain themselves and
+fade or dissolve away (sometimes known as "bubble" planes).  The third
+are those planes which lead to the End of Time, where the sun sets eternally
+over Avanthar.
+
+In this latter place is the College at the End of Time.  Here, all the
+greatest mages and sorcerors of the many planes and races gather to hold
+off the end of time and secure the well-being of the Tekumel multiverse.
+Time works strangely here, and cause-and-effect laws have no meaning.
+While personal subjective time seems to progress normally, it's entirely
+possible to have a conversation with someone you haven't met yet, to
+be given back something one hasn't yet loaned out, and to meet the same
+person twice within a few moments.
+
+However, one does not ever meet oneself at the College, no matter how hard
+one tries.  On VERY rare occasions people have accidentally met themselves
+(usually shortly after a magical arrival), and nothing particularly untoward
+has occurred.
+
+Ksarul is fated to be freed, and the time of his freedom is not clear.
+But there is not necessarily a connection between the freeing of Ksarul
+and the end of Tekumel.  The Egg of Time exerts a more direct influence
+upon the Tekumel multiverse.
+
+--------------------------------------------------------------------------
+From: P A Snow <P.A.Snow@gdr.bath.ac.uk>
+
+Festive Greetings to All.
+
+     I am writing to inform the Digest of some recent Tekumel related
+publications over here in the UK which I feel will be of interest to everyone.
+
+     The first and more minor event was the publication of a 4 page review of
+"The Empire of The Petal Throne" in "The Last Province" which is the new
+"independent British roleplaying"  magazine over here. The article is a factual
+but I would suggest not very atmospheric review of EPT and subsequent Tekumeli
+publications. This was under the column "Revenants" which reviews classic games
+(the last issue looked at Bushido).  The article also comments that "a Tekumel
+e-mail magazine was being run on the Internet System but is currently
+inoperative" and then suggests that interested parties should contact Brett
+Slocum, whose home address is given, for archive material. I will write to the
+magazine to give the correct current information on E-mail addresses for the
+Digest.
+
+     The second and more important item was announced at the end of the first.
+This is the publication of a new Tekumel fanzine "The Eye Of All-Seeing Wonder"
+by
+
+Dave Morris
+1, Rusham Road
+Wandsworth
+London
+SW12 8TJ
+UK
+
+Available for 2.50 pounds in the UK (3.00 pounds from outside the UK)
+I don't know how Dave would want this paid so it might be better sending 
+a letter asking from abroad. It can cost 8.50 pounds to have a $10.00 check 
+changed!!
+
+     I have a copy of the first issue of the "Eye" and it is dedicated "with
+respect and gratitude to Professor M.A.R. Barker, creator of Tekumel". The
+contents are
+
+An Introductory GURPS Scenario: "Welcome to Jakalla"
+
+The Epic of Hrugga: The deeds of the favourite Tsolyani folk-hero
+
+The Relative Status of the Legions
+
+The Profession of Arms: social status and promotion
+
+The Clan of The Iron Plume: life and loves of a scribe
+
+Joyful Sitting Amongst Friends: letters col, Set up by provocative questions in
+this issue
+
+Tusmikang Khawenlitusmi!: Schools of combat style for GURPS
+
+Best Savoured Cold: The enemies of mankind in RQ stats
+
+The Excellent Travelling Volume: Travellers tales from (this time) Jannu
+(where?)
+
+Plus a centre pull out section
+
+TIRIKELU: Part One of a complete role-playing game for games on Tekumel
+
+Total number of pages 36. 24 of mag + 12 of rules for new (and excellent
+looking) game.
+
+
+     The aim of the fanzine is to promote Tekumel based games of any kind so
+articles based on any game system can be submitted. All contributions are of a
+high standard and seem to be written by people who have put a lot of thought
+into getting the Tekumel atmosphere right.
+
+I can highly recommend it and no I'm not involved or an author ... Yet.
+
+Paul Snow
+
+--------------------------------------------------------------------------
+
+That about wraps it up for this issue of the Tekumel Digest.  Please allow
+me to close by extending my best wishes to everyone partaking in the Digest.
+May 1993 bring you happiness, health, and prosperity.
+Happy Holidays!
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

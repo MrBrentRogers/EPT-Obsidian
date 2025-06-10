@@ -1,0 +1,251 @@
+ 
+                            Tekumel Digest, Number 2
+ 
+                             Friday, May 17th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+ 
+Today's Topics:
+ 
+                                  Re:  Hi again
+                      New Tekumel Book coming out this year
+                         Re: New Tekumel book coming out
+                         Re: New Tekumel book coming out
+----------------------------------------------------------------------
+ 
+[The following was sent to me from another Tekumel list. This list
+may merge with this one soon.]
+
+Date: Wed, 15 May 91 10:05:49 -0500
+From: "Albatross" <alberti@cs.umn.edu>
+Subject: Re:  Hi again
+
+>1) Clans: I'd like to know more about the clans - their internal structure,
+>typical and extreme sizes, the number of clans, political and religious
+>allegiances, major characters, allianaces etc.
+
+This is probably more detail than you need to explore initially, but here are
+some thoughts:  Clans are generally collections of families of a similar faith
+and trade.  This varies from clan-to-clan, with the more powerful clans holding
+more strictly to their identities (the Golden Bough clan, for instance, is
+a conservative Stability clan, meaning its members are generally Hnalla, Thumis
+or Avanthe worshippers of high status), while the lower clans are less rigid:
+the Black Mat clan which weaves sleeping mats, for instance.  There are members
+of the Golden Bough clan who have gone on to worship the Change gods Chiteng
+or Hrihiyal, but they are definitely "black sheep" (or "black hma" as the case
+may be).  The Black Mat clan has no time for such nicities:  "Just weave yer
+accursed mat and shut up!"
+
+As for major characters, I could try to obtain a list of names and stations
+from Professor Barker if you would like.  There would be too many to list in
+their entirety, as each city has its own collections of power-players in each
+clan and temple.
+
+>(rdyiu@cuvmb (bob dushay) has the stuff from s&g on this on a reflex
+>database, which he's offered to send me, so anything that's covered by that
+>can be safely ignored.)
+
+I'd be very interested in taking a look at this database if it could be made
+available.
+
+>2) A random thought on transport - does Tekumel have the wheel? Are carts
+>and rickshaw-type conveyances common? What about carried litters? Or do
+>people tend to walk everywhere?
+
+Well, the problem is that Tekumel has the wheel, but they don't have a decent
+draft animal.  Horses don't exist, and Hmelu and Chlen move about as fast as
+a hippo, so although carts are common they are of limited use.  Carried litters
+are very* common, but rickshaws haven't been figured out.  And remember, if
+your players decide to introduce such a thing, that the various litter-bearing,
+litter-building, and transportation clans would strive very hard to prevent
+the success of the venture.  They have their livelihoods to maintain, and no
+they're not interested in any newfangled ideas, thank you.
+
+>3) Did S&G extend the character classes into other professions, and what
+>sort of roles do they occupy in Tsolyani life? What I want here is a feel
+>for how things like theft, assassination, spying, etc are carried on. I can
+>easily, I guess work something out from a mediaeval Japanese basis but I'm
+>not sure how true that would be to the background of the world. Then again,
+>perhaps basic things like human nature transcend culture. 
+
+There are few thieves -- their penalty is death, and not even the honorable
+death of impalement.  Spying is commonplace, and is not practiced by a "spy"
+profession -- the temple of K'Sarul is made up either of spies or time-servers,
+and any high-level party (say a Governor's Ball) will be comprised entirely
+of people trying to get the goods on each other.  These will be bureaucrats,
+politicians, clan elders, etc, all spying like mad.
+
+Assassination is VERY touchy: honor -- the concepts of _lan_ and _bussan_
+(honorable and dishonorable acts) is very important, and assassination
+is a dishonorable way to kill someone.  Therefore, assassins are rare.  Each
+major temple (say a BIG temple in a MAJOR city, like the temple of Hnalla in
+Ousenanu) will have a house assassin, but he will rarely be employed, because
+once he acts he will hunted down and killed by the two assassin clans.  They
+are the Ito clan, located in the Chakan forests on the west border of Tsolyanu,
+and the Black Y clan, which is a secret and pervasive clan.  These are the
+only two clans for whom assassination is an honorable act.  Unfortunately you
+must be born into these clans in order to become a clan assassin, and not even
+Professor Barker knows enough about these clans to say what their internal
+society is like.  Thus an assassin character would be difficult to play.
+And to be found in possession of assassin's weapons -- a Springing Doom or
+a Sender Upon the Way -- is also a death penalty.
+
+>4) Back to clans again - there are hints in the rulebook of clans based on
+>professional ties as well as blood ones. Do clans have a different basis at
+>different social levels? 
+
+As explained above, clans are collections of families, generally with both
+religious and professional identities.  These identities vary greatly:  some
+clans are "religious clans" (my own Cloak of Azure Gems), while others are
+"professional clans" -- various mercantile clans pay only lip-service to a
+religious faith.  And again, the richer you are, the better a show you have
+to put on.  The poorer you are, the less anyone cares.
+
+> 5) Social ranks - are there any distinguishing marks used to differentiate
+> people of different social ranks, like caste marks in India?
+
+Not strictly:  the nation of Livyanu to the southwest uses tattoos or _aomuz_
+to specify caste and rank and religion and shoe size and wine preference,
+in a pattern and code which has never been interpreted by any other nation
+except that the more one has the more important one seems to be.  This is due
+in large part to the fact that the nation is very secretive -- you cannot
+travel in Livyanu outside the Foreigner's Quarters (more like a Foreigner's
+Compound) without an encyclopaedic collection of authorization papers.  If 
+you try, the all-encompassing Vru'uneb (secret police) will definitely catch
+you and kill you.o
+
+Tsolyanu has no such coding.  The only distinctions are subcultural:  the
+Vriddi are proud and arrogant with a distinctive beak-like nose (what would be
+called a "Roman nose").  They are Vimulha worshippers and delight in tracing
+their lineage back 20,000 years to the Empire of Engsvan la Ganga, which gets
+boring after a while but is their basis to claim that THEY ought to be running
+the Empire.  Do NOT point out to them that if they were so clever then why'd
+half of it get sunk in the ocean.  They HATE that.
+
+Other such cultural hallmarks exist, but are not of major import.
+
+>6) Religion - what sort of relationships exist between the different cults?
+>Are there formal allegiances between any of them? Do they have things like
+>monasteries? Any idea what sort of day-to-day rituals exist?
+
+Uhm, please:  "cults"?  You don't call them cults.  Very bad.
+There are no "formal" inter-religious allegiances, save the brief ones which
+lead to short-term mutual advantage and they dissolve as soon as the first
+person blinks.  Yes, Stability and Change temples tend to keep to themselves,
+but there are enough similarities of interest that you will occassionally see
+K'Sarul working with Hnalla or Avanthe with Hru'u.  Not often, though.
+
+There are* monasteries, but they tend to be hard to find.  There is a Hnalla
+monastery in the mountains southeast of Sunraya, a Vimuhla monastery west of
+Tumissa, and a Thumis monastery out there somewhere.  These are not collections
+of chaste sophants moaning litanies to the gods (well, maybe in Thumis' case),
+but are centers of power for the temples, magical research, and respite from
+the political melting pot of the empire proper.  Part of the reason these
+monasteries are hard to find is because they are generally on side-planes
+and are only anchored to these physical locations tenuously.  I've been to the
+Thumis monastery twice and have yet to determine where its physical location
+might be.
+
+>7) "Adani" - how difficult is it for a woman to declare herself "adani", to
+>be accepted as such and to maintain this status? (This might be relevant to
+>a character in the planned campaign.)
+
+That's _aridani_.  To become aridani is not difficult, except that maybe your
+clan might have other plans for you (marry you off to some land-baron or
+something).  Barring unusual circumstances, you simply visit your local 
+office of the Imperium (located near the governor's mansion or an office of
+the Omnipotent Azure Legion [Tsolyani Imperial police]) and declare yourself
+Aridani.  It's recorded in the Imperial records, and you can go home and tell
+your clanmaster that the local land-baron can go take a flying leap.  On the
+other hand if they lock you in your room BEFORE you can declare aridani status,
+you're socially considered 'their property' and certainly the marriage is for
+your own good.
+
+And of course, everything is greased by gold.  Say you declare your status
+with two witnesses and it's recorded on the register.  But you're Golden
+Bough Clan and the reason you're declaring _aridani_ is because then, instead
+of becoming the fourth wife of the Governor of Sokatis, you can marry that
+cute boy of the Rampant Chlen clan who peels the hides off the chlen and
+has such big muscles.  By nightfall your two witnesses have been accidentally
+killed by inadvertant sword-thrusts to the gut, your records of status are
+nowhere to be found, your cute fiance has been trampled by a chlen in the
+compound, and your clan is several thousand Kaitars poorer than the day
+before.  And you're not aridani and are on a litter bound for Sokatis, with
+"bound" having multiple meanings in this case.
+
+---
+
+That's it for now.  Remember these answers are mine, and may not be entirely
+correct.  I will pass a copy to Professor Barker this Thursday, and maybe
+he can answer a few of them better than myself.
+
+Thanks!
+  -Bob
+
+------------------------------
+ 
+Date: Wed, 15 May 91 15:18:40 EDT
+From: *Jonny the Z* <zamick@airplane.rutgers.edu>
+Subject: New Tekumel Book coming out this year
+
+For those of you who don't know.  This year is special for all Tekumel people
+everywhere.  This year (for the first time in a long time) a new
+Tekumel book is being released.  It is the Tekumel Bestiary.  There is
+no specific release month yet.  I will send more info when I find out
+more details.  But soon we will know in even greater detail, just how
+deadly Tekumel is.
+
+                              Jonathan Zamick
+                  Player of : Halachmaya Destined Savior of Ksarul
+                            Lord of Other Realms
+                            Scion of clan Cloak of Azure Gems
+                            Master of the Nexus Powers
+                            Man with overinflated ego
+                            6th level Rolemaster character
+
+------------------------------
+ 
+Date: Wed, 15 May 91 14:44:44 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re: New Tekumel book coming out
+
+This is GOOD news! One thing I am interested in finding out from 
+some more knowledgable persons on this list is what exactly is
+the current state of affairs w.r.t. Tekumel publications. Who
+has the rights to Tekumel? Does Different Worlds still exist?
+Do they still sell Tekumel products? Will we ever see book 3 of the
+Sourcebook? Are any new rules coming out of the group in
+Minneapolis? When can we expect to see ads for "Lords of Tsamra"?
+
+I'm in Minneapolis and I'm still in the dark about this.
+
+Also, Jonny the Z, you mention Rolemaster Tekumel. Care to write
+a Rolemaster translation for the Digest? I'm working on the
+GURPS Tekumel translation for both EPT and Swords and Glory.
+I should be done with the EPT conversion soon.
+
+------------------------------
+ 
+Date: Wed, 15 May 91 18:04:33 EDT
+From: *Jonny the Z* <zamick@airplane.rutgers.edu>
+Subject: Re: New Tekumel book coming out
+
+I am not the one to write a Rolemaster Tekumel translation, but the person
+who GMs the world for us probably would be able to. (Already has for the most
+part).  He has a different summoning class.  Handles domination and summoning
+much differently.  I will check with him, if I can get all the info he has
+typed out for Rolemaster, to type in for all of you.
+
+Jonathan Zamick
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

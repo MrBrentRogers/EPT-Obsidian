@@ -1,0 +1,157 @@
+ 
+                           Tekumel Digest, Number 14
+ 
+                         Thursday, September 19th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Today's Topics:
+ 
+                                Questions for thought
+                                Tekumel products
+                            Re: Questions for thought
+
+----------------------------------------------------------------------
+ 
+Date:         Tue, 17 Sep 91 10:04:22 EDT
+From: Bob Dushay <ROYER%NYSPI.BITNET@CUNYVM.CUNY.EDU>
+Subject:      Questions for thought
+
+Greets.  I have some questions concerning Tekumel for the digest.
+1. Are there mountains in the Chakas?  The Man of Gold says so, and
+I have seen it mentioned in one other place somewhere in the rules, but
+the maps don't show any evidence of a mountain range or even individual
+peaks inside the forest.  Getting real technical, it would appear that
+the Chaka region could be a collision between hypothetical Mu'ugalavyani
+and Tsolyani tectonic plates.  If so, that would explain mountains nicely
+and might be predictive of earthquakes, but I would guess the Chakan
+range to be weathered and more stable--like the Adirondacks.
+
+2. What is the status of non-humans and clans?  I would assume that Pe Choi
+and Pachi Lei would join human clans as a matter of course if they lived
+in the Five Empires.  How common are non-human clan members?  Are there
+real clans in the Five Empires consisting of non-humans?  My players find
+Pe Choi characters irresistable and I would like some guidance as to how
+they fit socially.  Also, I would expect that non-humans, regardless of
+talent, tend not to reach the highest levels of human society.
+
+3. While I'm on the subject of Pe Choi, do they have their own sorcerers,
+living in the forests?  I would guess that under S&G rules, they would
+be shamans rather than sorcerers.
+
+4. How strong are the bad feelings between Ahoggya and Shen?  Do all
+members of these races automatically feel antipathy toward one another,
+or might individuals be capable of overcoming the feud (a la Gimli and
+Legolas)?  specific example--if a PC is playing an Ahoggya, and he is
+faced with a Shen foe, would the PC be able to cooperate with the Shen
+if it were absolutely necessary; or if battling a Shen, would the
+Ahoggya pursue even if it looked suicidal?  PC's should be able to make
+their own decisions, but I know what Ahoggya soldiers are like when
+confronted with Shen.
+
+Sorry I don't have more creative contributions at present, but these
+questions may help to keep the digest ball rolling.
+
+--------------------------------------------------------------------
+These opinions, which are my own, have nothing whatsoever to do
+with my employer.  So there!
+---------------------------------------------------------------------
+
+------------------------------
+ 
+Date: Tue, 17 Sep 91 10:58:22 -0400
+From: beiting@gw.wmich.edu
+Subject: Tekumel products
+
+Umm, I'm a bit ashamed to admit this, but it's been so long since I've
+played EPT that I'm not up to speed with what form the game is in now.
+I had the old TSR EPT rules and the Zocchi sourcebook.  What happened
+after that?  What later editions are there?  Supplements?  Anything still
+in print (besides the new Book of Ebon Bindings, which I've seen recently
+at my local store)?  Let me know.
+                              Christopher Beiting
+
+------------------------------
+ 
+Date: Thu, 19 Sep 91 13:47:37 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re: Questions for thought
+
+These are my answers to your questions, which by no means (except my quote
+of the Sourcebook) should be necessarily construed as "official".
+
+> 1. Are there mountains in the Chakas?
+
+If Man of Gold says so, then my guess would be "yes". Can you find
+where in the rules it says? I don't recall specifically where it might be?
+
+> 2. What is the status of non-humans and clans?  I would assume that Pe Choi
+> and Pachi Lei would join human clans as a matter of course if they lived
+> in the Five Empires.  How common are non-human clan members?  Are there
+> real clans in the Five Empires consisting of non-humans?  My players find
+> Pe Choi characters irresistable and I would like some guidance as to how
+> they fit socially.  Also, I would expect that non-humans, regardless of
+> talent, tend not to reach the highest levels of human society.
+
+The Sourcebook says "Occasionally a nonhuman who lives in one of the Five Empires
+may join a human clan for purely pragmatic reasons (e.g. he wishes to
+practice the clan's profession). These, however, are limited to the
+Pe Choi, the Pachi Lei, the Swamp Folk, and rarely the Pygmy Folk.
+The other races do not seek clan membership. If they wish to work at a craft,
+they restrict their sales to others of their own species, and this is winked at
+by the human clans."
+
+As far as nonhuman clans, there are none, but Shen egg-groups serve a similar
+purpose. 
+
+The Pe Choi, Pachi Lei, and Swamp Folk all enjoy human society and are
+generally accepted by humans. They participate in clans, temples, legions, 
+and administration. 
+
+> 3. While I'm on the subject of Pe Choi, do they have their own sorcerers,
+> living in the forests?  I would guess that under S&G rules, they would
+> be shamans rather than sorcerers.
+
+Since the Pe Choi are very magical, yes, they have their own sorcerers.
+I can't find any reference in the Sourcebook, but I think that since
+the Pe Choi are "civilized" in their native area, that their sorcerers
+are probably of similar ilk to the humans: magic is based around their
+two deities, the Father of Nests and the Black Old One. They probably
+have spells similar to the humans, plus some known only to them, similar
+to Temple spells, or the Tinaliya spells, described in the Imperial
+Courier.
+
+It is certainly possible that they function like shaman, but I don't think
+so.
+
+> 4. How strong are the bad feelings between Ahoggya and Shen?  Do all
+> members of these races automatically feel antipathy toward one another,
+> or might individuals be capable of overcoming the feud (a la Gimli and
+> Legolas)?  specific example--if a PC is playing an Ahoggya, and he is
+> faced with a Shen foe, would the PC be able to cooperate with the Shen
+> if it were absolutely necessary; or if battling a Shen, would the
+> Ahoggya pursue even if it looked suicidal?  PC's should be able to make
+> their own decisions, but I know what Ahoggya soldiers are like when
+> confronted with Shen.
+
+I think the enmity between these races goes beyond the level of dislike
+between elves and dwarves in Tolkien. Gimli and Legolas mistrusted each other
+and elves and dwarves in general have nothing to do with each other,
+but they didn't hate each other to the core of their beings, like Shen and Ahoggya
+do. In your examples, I'd say it would be very difficult, but perhaps not
+impossible, for cooperation if Absolutely Necessary. I can easily see
+an Ahoggya or Shen attacking the other, even if suicidal.
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

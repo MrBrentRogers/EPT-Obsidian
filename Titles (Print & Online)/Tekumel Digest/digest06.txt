@@ -1,0 +1,566 @@
+ 
+                            Tekumel Digest, Number 6
+ 
+                            Saturday, July 13th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rgp/tekumel
+ 
+Today's Topics:
+ 
+                                    EPT items
+                            AD & D rules for Tekumel
+----------------------------------------------------------------------
+ 
+Date:    Tue, 9 Jul 1991 9:32:06 -0400 (EDT)
+From: EJK5@JAGUAR.UCS.UOFS.EDU
+Subject: EPT items
+
+I have returned from ORIGINS and have good news to impart.
+There are some EPT items out there!
+The Book of Ebon Bindings has been released in new format.  It is now in a 
+Black and Silver jacket and it is in standard (8.5 x 11) format, so no more
+head-ache inducing micro-type to read!
+The language guide and Deeds of the Ever Glorious are also available, and I
+think the Monster guide will be out around either August or September.
+
+------------------------------
+ 
+Date: Sat, 13 Jul 91 17:57:12 CDT
+From:ROYER@NYSPI.BITNET (Bob Dushay)
+Subject: AD & D rules for Tekumel
+
+Here are the AD&D rules for Tekumel:
+
+AD&D 2nd Edition
+Tekumel Supplement
+
+Introduction: The Swords and Glory rules represent a considerable step forward
+from the Empire of the Petal Throne (EPT) game. Unfortunately, in addition to
+being incomplete, they proved to be clumsy in play (although I can't figure out
+if this is due to some defect in the rules themselves or my unfamiliarity with
+them). As a GM with little time for gaming, I was forced to find a system that
+was easier to write adventures for and was faster in play.
+
+AD&D represented a good compromise. Although AD&D has many flaws, it remains one
+of the best known role-playing systems, boasts considerable flexibility, and is
+close enough to the original Empire of the Petal Throne (EPT) rules to permit
+simple conversions from EPT to the new format, saving a great deal of time. In
+order to better preserve the flavor of Tekumel, however, the spell system from
+Swords and Glory (S&G) was adopted with minor modifications mostly designed to
+maintain play balance in an AD&D system.
+
+The rules listed below are a simple attempt to provide a fast-moving, playable
+system for our Tekumel adventures. They have been tested in only one game to
+date. As might be expected, the combat system worked smoothly. The magic system
+also seemed workable, although comparatively few spells were cast.
+
+The rules depend heavily on the Swords and Glory game system, as indicated
+above. Since I have no desire to imply that Professor Barker's work is my own, I
+have attempted to remove all information found in the Swords and Glory books
+from this edited version of my private rules booklet. Therefore, users of these
+rules must have access to the following materials, in addition to AD&D, 2nd edi-
+tion: Swords and Glory, Volumes 1 (The World of the Petal Throne) and 2 (Tekumel
+Player's Handbook) and the Empire of the Petal Throne rulebook (for monsters and
+treasures).
+
+Obviously these rules will be far less workable if the user lacks these materi-
+als. It is possible to use them without EPT, but the user will be little better
+off than with the unmodified Swords & Glory (S&G) rules: they will lack the
+handy lists of monsters and treasures. The user must then resort to his or her
+imagination once again. On the other hand, if the user lacks the S&G books this
+rules adaptation is lacking a magic system. See my notes at the end for how I
+think the AD&D magic system might be adapted.
+
+In addition, I must mention these rules are still under development. I have only
+run one game so far (graduate school does put demands on a person!) and the
+rules seemed to do what I wanted them to do, but I'm certain more tuning will be
+needed. I don't consider them perfect, or even polished. I would appreciate
+hearing playtest comments, or even about other rules systems used for Tekumel,
+including anybody that uses the S&G rules.
+
+The Rules:
+
+Ability Scores: Roll for Strength, Intelligence, Wisdom, Dexterity, Constitu-
+tion, Charisma, and Comeliness via whatever AD&D system is considered desire-
+able. I prefer to use Method IV, where players roll 3d6 twelve times, and place
+scores where desired, for the first six characteristics, and Comeliness is
+rolled without a choice. Comeliness is added the 1st edition AD&D Unearthed
+Arcana volume (p. 6), as Tekumel seems to require a physical appearance roll. Be
+sure to incorporate the bonuses and penalties to Comeliness from Charisma.
+
+Additional abilities to roll for: Psychic Ability (PA) and Psychic Reservoir
+(PR) (needed for the S&G spell system) are rolled on d100s. I permit two rolls
+for each characteristic, with the player choosing the higher of each pair for
+the characteristic. The descriptions of Psychic Ability levels can be found in
+the 2nd volume of S&G (Tekumel Player's Handbook, section 2.216, p. 5) with
+minor modifications:
+
+       01   Anti-psychic: Psychic Dampener 3m radius circle.
+    02-49   Non-psychic: No spells can be cast.
+    50-69   Non-psychic: May cast Ritual spells.
+    70-90   Somewhat psychic: May use psychic spells.
+    91-99   Highly psychic
+      100   Abnormally psychic: Less energy needed, other benefits.
+
+The third characteristic for spell casting is the Psychic Power Points total. As
+in S&G, this is the sum of Psychic Ability, Psychic Reservoir, and the d100
+equivalent of Intelligence. The latter is determined from the table below:
+
+    3d6   1-100
+    ___________
+     3    00-01
+     4    02-04
+     5    05-08
+     6    09-15
+     7    16-25
+     8    26-37
+     9    38-49
+    10    50-61
+    11    62-73
+    12    74-83
+    13    84-90
+    14    91-94
+    15    95-97
+    16       98
+    17       99
+    18      100
+
+PC Races:
+
+Friendly Races:
+
+N'luss: +1 Str, -1 Int, -1 Dex, +2 Con, -1 Cha*, -5 PA, base AC 10, 1 HD.
+
+Ahoggya: +2 Str, -1 Int, -2 Dex, +2 Con, -20 PA, base AC 6, 3 HD. Ahoggya have
+no charisma for humans, but have normal charisma for other Ahoggya. Ahoggya have
+two attacks per round (against different targets if they are man-sized, or they
+may be against the same target if larger) at no penalty, and may have four
+attacks per round if surrounded.
+
+Hlaka: +1 Dex, -2 Cha*, base AC 10, 1 HD.
+
+Pachi Lei: -1 Cha*, +10 PR, base AC 10, 1 HD. Pachi Lei can see in the dark, and
+has a 30% chance of detecting ambushes, secret doors, etc. This rises to 50% if
+the character is actively searching for these things.
+
+Pe Choi: +1 Dex, -1 Con, +15 PA, +20 PR, base AC 11, 1 HD. Pe Choi get two
+attacks per round against the same or different foes at a lesser penalty than
+humans (see below), and they have excellent hearing permitting an 80% chance of
+detecting secret doors and ambushes. This rises to 90% if the creature is
+actively searching. They heal wounds at only 75% the human rate, regardless if
+this is due to spell or rest.
+
+Pygmy Folk: -1 Str, +2 Dex, -1 Con, -2 Cha*, base AC 11, 1/2 HD. They can see in
+the dark, and have better hearing than the Pe Choi, although at short range.
+
+Shen: +2 Str, -1 Int, -2 Dex, +2 Con, -2 Cha*, -10 PA, -20 PR, base AC 8, 3 HD.
+Shen get an extra attack per round behind them by using their tail. Notice that
+this is semi- involuntary, and friendly figures behind them may be struck.
+
+Swamp Folk: +1 Con, No PA permitted, maximum PR 30, base AC 10, 1 HD. Swamp folk
+are able to sense "wrongness", such as a change in direction, a slope, dimen-
+sional nexus points, etc.
+
+Tinaliya: -2 Str, +1 Int, +1 Dex, -1 Cha*, +15 PA, +20 PR, base AC 11, 1/2 HD.
+
+Urunen: +1 Int, -1 Con, base AC 10, 1 HD.
+
+Neutral Races:
+
+Mihalli: +1 Str, +1 Int, +2 Dex, +1 Con, +30 PA, +50 PR, base AC 10, 1 HD. Can
+change shape, humans have a 20% chance to recognize a Mihalli by its eyes.
+Mihalli behavior is essentially random.
+
+Nyagga: +2 Str, +1 Int, +2 Dex, -5 PA, -10 PR, base AC 8, 2 HD. Cannot remain
+out of water for more than 3 hours, lose 50% of dexterity and movement ability
+on land.
+
+Inimical Races:
+
+Hluss: +1 Dex, +10 PA, +10 PR, base AC 8, 2 HD. May use middle limbs as tearing
+weapons and may attack with paralyzing sting in tail. They give off a sweet odor
+detectable at 90-120 feet.
+
+Hlutrgu: +1 Dex, +1 Con, -5 PR, base AC 10, 2 HD. Never check morale, disorgan-
+ized fighters.
+
+Shunned Ones: +2 Con, +20 PA, +15 PR, base AC 10, 2 HD. -3 to Con when they are
+outside of their special atmosphere. Their stench is noticeable 180 feet away
+and may cause a morale check in humans. They cannot survive more than a week
+outside of their atmosphere.
+
+Grey Ssu: +1 Str, +30 PA, +20 PR, base AC 10, 2 HD. Can see in the dark, 20% of
+hypnotizing opponents instead of attacking (Save vs. paralysis, magical attack
+adjustment from Wisdom applies) (Note that Ahoggya, Swamp Folk, and Tinaliya are
+immune to this hypnosis). May attack twice per round at only -1 penalty on
+second attack if they use their middle limbs. They are never lost underground.
+If they have no leader, they will become demoralized and retreat.
+
+Black Ssu: +3 Str, +1 Con, -2 Dex, -10 PA, -10 PR, base AC 8, 3 HD. Two attacks
+per round without penalty. 10% chance per round of hypnotizing, +2 on opponents
+saving throw. If they have no leader, they will retreat.
+
+Notes: Races with an * after Charisma means this modification has no effect when
+the character is dealing with others of the same species. Only Pe Choi use their
+comeliness score when dealing with humans. The hit dice score indicates the
+number of hit dice for first level characters. When characters attain a new
+level, they get one full hit die normal to their character class.
+
+Race and character class: There are limitations to the level a character may
+attain, depending on their character class. The table below indicates these lim-
+itations:
+
+    Race         Max. Warrior Level   Max Sorcerer Level
+    ____________________________________________________
+    N'luss              12*                  5***
+    Ahoggya             12*                  4****
+    Hlaka               12                  12***
+    Pachi Lei           12                  12
+    Pe Choi             12                  12**
+    Pygmy Folk           9                  12
+    Shen                12*                  6
+    Swamp Folk          12                    -
+    Tinaliya            12                  12*
+    Urunen              12                  12
+
+*    A high prime requisite allows higher limits:
+
+         Prime_Requisite   Maximum_Level
+         _______________________________
+              14-15             13
+              16-17             14
+                 18             15
+                 19             16
+
+**   Pe Choi sorcerers can add one to their maximum attainable level on the
+     prime requisite increase table.
+
+***  Hlaka sorcerers must be shamans.
+
+**** Shamans may be one level higher than temple sorcerers.
+
+Author's Notes: When possible, I attempted to balance non-human beings so that
+there would be no real advantage to playing them, as per AD&D design philosophy.
+As a GM who values a "realistic" portrayal of the society and the world, I
+wanted to give players a reason to play as a human, even in a "hack and slash"
+environment. I was not successful in this (the first party was entirely non-
+human), although this could be due to the novelty of the races available.
+
+Upper level limits on non-human character advancement is part of this design. In
+addition, Tsolyani society seems to have very few non-humans in positions of
+real power. It seems logical that Pe Choi or Tinaliya sorcerers should be able
+to reach greater power than humans, yet Tsolyani attitudes should limit such
+things.
+
+Character Classes:
+
+There are two character classes available to players: Warriors and Sorcerers.
+There are no clerics to speak of. Since virtually all spell-casters in the Five
+Empires are trained by the temples, and most are associated with the temples,
+there is little reason to distinguish spell casting priests from the spell-
+casting lay-priests.
+
+Warriors: Must have a minimum strength of 9.
+
+Sorcerers: Must fulfill requirements for spells as follows:
+
+    Branch of Magic:      Intelligence   Psychic Ability   Pedhetl
+    ______________________________________________________________
+    Ritual Spells Only         11              50            60
+    Psychic Spells Only        10              70            60
+    Both Branches              12              80            60
+
+Note that Sorcerers can wear armor and use melee weapons with some limitations.
+See the section on Magic, below.
+
+Priests: Players may choose to play a priest, if they combine it with another
+character class. Hence, a priest may be a sorcerer-priest or a warrior-priest
+(if a worshipper of a war deity). Such a character will have a better chance of
+divine intervention, but most differences will be social and not relevant to the
+underworld adventuring. This is a role- playing decision. Such characters are
+constrained by their other class, and have all relevant advantages and limita-
+tions due to that class. OTHER THAN THIS, NO SPLIT, MULTI-, OR DUAL CLASS CHAR-
+ACTERS ARE PERMITTED. Note: If characters are warrior-priests or sorcerer-
+priests, they may be permitted role-playing experience points for role-playing
+in a priestly fashion. Be careful that this is not abused for the gaining of
+undeserved experience points.
+
+Alignment: Stability and Change only.
+
+Proficiencies:
+
+Non-Weapon Proficiencies: If non-weapon proficiencies are used, the S&G list
+(section 2.239) is recommended.
+
+Weapon Proficiencies: Use AD&D weapons proficiency rules, but specialization is
+only permitted after a warrior reaches 6th level. [That is, 4 weapons at start,
+and one every 3 levels thereafter for warriors, 1 weapon at start and one every
+6 levels thereafter for sorcerers]. Warriors may obtain proficiency in any
+weapon they choose. Sorcerers may only obtain proficiency in dagger, dart,
+knife, sling, and staff. [Sorcerer-priests of the temples of Vimuhla, Chiteng,
+Karakan, and Chegarra may be able to learn to use other weapons. It is also pos-
+sible to permit club and mace use by sorcerers.] Sorcerers are permitted to try
+to use any weapon they want, but they will pay the -5 non-proficiency penalty.
+
+Author's Notes: The weapons specialization rule is one I use for standard AD&D
+rules. The original purpose of weapon specialization was to make regular
+fighters attractive to play relative to paladins, rangers, cavaliers, and bar-
+barians. With the removal of these latter two classes from the 2nd edition AD&D
+rules, the need for specialization was eliminated, yet the rule was kept. My
+feeling is that it makes warriors too strong at the lower levels, but at the
+mid-to high level range, keeps them on a par with the wizards.  However, Tekumel
+monsters seem to be much tougher than the AD&D monsters, so perhaps warriors
+should be permitted specialization at lower levels if the GM feels it is war-
+ranted. I recommend against allowing low-level Shen or Ahoggya warriors to
+choose this option, lest nobody play human warriors!
+
+Weapons found on Tekumel are:
+
+    Battle axe                   Javelin
+    Blowgun (dart)               Knife
+    Bow, Composite long          Morning star
+    Bow, Composite short         Polearm (all but Mancatcher)
+    Bow, short, self             Quarterstaff
+    Bow, long, Seresh wood       Sling (bullet or stone)
+    Club                         Spear
+    Crossbow, hand (Shen only)   Staff Sling
+    Crossbow, light              Sword, long
+    Crossbow, heavy              Sword, scimitar
+    Dagger                       Sword, short
+    Dart                         Sword, two-handed
+    "Footman's" Flail (large)    Warhammer
+    "Footman's" Mace (large)
+    "Horseman's" Flail (small)
+    "Horseman's" Mace (small)
+
+Other Tekumel weapons not found in AD&D
+
+                        Weight                         Damage
+    Weapon              (lbs)    Size   Type   Speed    S-M       L
+    _________________________________________________________________
+    Bola                   3      S      B       6      1-3      1-2
+    Crossbow, Medium      10      M      P       8      1d4     1d4+1
+    Flail, Two-handed     15      L      B      10     1d8+2     2d8
+    Mace, Two-handed      15      L      B      10      1d10     1d8
+
+Additional information for missle weapons:
+
+    Weapon             ROF   Range:  S    M    L
+    ____________________________________________
+    Bola                1            2    4    6
+    Crossbow, Medium    1            7   14   22
+
+Bolas will entangle and fell an opponent unless the victim saves vs. breath
+weapon. Entanglement will last for 1 round during which the victim has no dex-
+terity bonuses and counts as "stunned and prone" (+4 to be hit). Bolas generally
+only work on size M or smaller creatures, usually bipeds (unless legs necessary
+for balance are close enough together). (Taken from DRAGON #61).
+
+Steel piercing and slashing weapons are automatically +1 to hit and +1 damage
+even before they are enchanted. Excellent steel piercing and slashing weapons
+are +2 to hit and +2 damage before being enchanted. Any enchantments are added
+on to this base. Bludgeon weapons don't get this bonus. If a steel bludgeon
+weapon is enchanted, only the enchantment bonus is added: there is never any
+bonus added to bludgeon weapons merely for being made of steel.
+
+Armor:
+
+    Armor Type                             AC Rating
+    ________________________________________________
+    None                                      10
+    Shield only                                9
+    Leather or padded armor                    8
+    Leather or padded armor + shield           7
+    Scale mail                                 6
+    Scale mail + shield, chainmail             5
+    Chainmail + shield, banded mail,
+        lamellar armor                         4
+    Banded mail, lamellar armor + shield       3
+
+If the armor is made of steel, its armor class is improved by one; in effect, it
+becomes +1 armor. Armor made of excellent steel is the equivalent of +2. These
+bonuses apply to shields, also. Any enchantments added to the armor are added to
+the +1, so that the weakest of enchanted armors (enchanted to +1 and made of
+ordinary steel) is +2. Notice that Chlen- hide armor cannot be enchanted.
+
+Use the following table to purchase armor using Swords and Glory's tables.
+
+    Article           Price Range (in Kaitars)   Encumbrance
+    ________________________________________________________
+    Shield, Buckler             1-5                  2/4
+    Small shield                5-14                 2/5
+    Medium shield              10-19                 3/8
+    Leather armor              32-104              4.5/13
+    Scale mail                 69-100               11/32
+    Chain mail                 90-122               11/32
+    Banded mail               111-192               15/42
+
+Padded armor is generally found in the extreme north, or it is used by peasants
+who cannot afford any better. Leather armor is the equivalent of S&G light
+infantry armor (light helmet, breastplate/pectoral, vambraces, and a leather
+tunic). Scale and chain mail are common: they are made of scraps of Chlen hide.
+Scale mail is more popular among the N'luss, while chainmail is more common in
+the Five Empires. For simplicity, consider both as medium infantry armor (medium
+helmet, gorget, breast and back plate, vambraces, and greaves). Lamellar armor
+is not usually available for PC's: it will be found in Pechano, Yan Kor, and
+eastern Salarvya. Banded armor is the equivalent of heavy infantry armor (heavy
+helmet, gorget collar, breast and back plates, vambraces, greaves, mail kit,
+tasses, and sabatons).
+
+Obviously finer distinctions could be made as to degrees of protection, but to
+simplify combat and the armor classes, the number of choices were reduced.  Note
+that each armor assumes a helmet is worn. Characters may insist on wearing a
+heavier, lighter, or no helmet. Lighter or heavier helmets make no difference in
+combat, but no helmet means worsening armor class by one and could mean a lucky
+hit to the head for more damage and possible stunning.
+
+Nonhumans and Armor: Each race has its own kinds of armor. To simplify the game,
+consider them as wearing human armor, but if the armor class of the armor they
+wear is less than their own natural armor class, consider their armor class to
+be 1 better than their natural armor class. Armor 2 or more classes below
+natural armor class of the creature cannot be worn, with the exception of
+shields.  Some races will not wear armor. They are: Hlaka, Hlutrgu, Nyagga,
+Shunned Ones, and Grey Ssu. Of these races, the latter two will carry shields.
+
+Combat: Generally AD&D rules. However, if a sorcerer casts an aimed spell, he or
+she uses the "Priest" THAC0 rather than the Wizard THAC0. This is only true for
+aimed spells: in any melee or missile combat, the sorcerer must use the usual
+Wizard THAC0.
+
+Magic:
+
+Design Philosophy: The spell selection and method of casting provides much of
+the flavor of a role-playing game. It was this feature that I was most anxious
+to preserve from the S&G system. Fortunately, in the one sample play session so
+far, the spell-casting rules seem to fit the AD&D combat structure fairly well.
+I made only minor modifications to the S&G magic system to speed play and pro-
+vide a better fit.
+
+1.   S&G casting times were modified to fit the AD&D combat round. S&G turns
+     become AD&D rounds, while S&G rounds become AD&D segments. Notice that S&G
+     spell durations were not modified: an S&G turn stays an AD&D turn, and an
+     S&G round stays an AD&D round.
+
+2.   Sorcerers casting aimed spells must roll-to-hit as in S&G, but they use the
+     Priest THAC0 of their level to give them a chance of actually hitting a
+     target.
+
+3.   Both S&G and AD&D generally allow some chance of spell failure. In AD&D,
+     spells strike almost automatically, but the victim usually gets a saving
+     throw. In S&G, the victim does not get to roll in his/her defense under
+     most circumstances, but the sorcerer has multiple chances to fail in cast-
+     ing the spell: there is a spell-failure roll, the sorcerer must roll to hit
+     with an aimed spell, and the victim can take cover or protect themselves
+     with their shields. AD&D combat is not usually as well-detailed as S&G com-
+     bat to allow such detailed notice of cover, shield defense, and etc.
+
+     I thought the S&G system was undesireable as it stood, because it requires
+     greater attention to detail in combat, and because I felt the victims of
+     the very powerful S&G spells would prefer to have their fates rest in their
+     own saving rolls rather than in the to hit rolls of enemy sorcerers, often
+     NPC's. To this end, I use the system below:
+
+     a)   Sorcerer rolls for spell failure.
+
+     b)   If the spell is an aimed spell, sorcerer rolls to hit, with the THAC0
+          calculated as though the sorcerer were a priest, rather than a wizard.
+          The casting range is divided into thirds to obtain short, medium, and
+          long ranges, and the usual AD&D to hit modifications apply to the to
+          hit roll. If the S&G spell description permits a spell-resistance
+          roll, the victim is permitted a saving throw, otherwise the victim
+          does not.
+
+     c)   If the spell is areal, the victim gets a saving throw under most cir-
+          cumstances, even if the S&G spell does not permit a spell-resistance
+          roll.
+
+4.   In AD&D, low level wizards are far weaker than equivalent level warriors.
+     At some point, the balance of power shifts, and wizards become more power-
+     ful than equivalently experienced warriors. S&G sorcerers are more powerful
+     than AD&D wizards, especially at lower levels, due to their ability to cast
+     more spells, and more variety of spells. I modified the spell-point system
+     to limit lower-level sorcerers so that they would be weaker, to preserve
+     play balance.
+
+As in S&G, sorcerers expend Psychic Power Points to cast spells. Psychic Power
+points are the sum of Psychic Reservoir and Psychic Ability, plus the d100
+equivalent of their intelligence. (See the table under "ability scores".)
+
+The "purchasing" of spells remains the same as in S&G, with a sorcerer character
+having 25 points/level to "purchase" spells. The costs and levels of spells pur-
+chasable are the same as in the Swords and Glory system, found in section 2.921.
+
+Spell Casting: The limitations to spell-casters also remain unchanged from S&G,
+i.e. freedom of movement, ability to see the intended target, carrying of metal,
+and degree of armor worn. See section 2.933 in S&G. The spell-failure tables
+(c.f. section 2.934) are also unchanged.
+
+Spell Casting Costs: For sorcerers of 7th level or higher, the table found in
+S&G, section 2.932, is used without modification. Lower level sorcerers must pay
+higher costs to cast spells, as shown below:
+
+                                       Caster Level
+                     1         2         3         4        5        6
+    Spell Level     P/R       P/R       P/R       P/R      P/R      P/R
+    _____________________________________________________________________
+    U1             90/80     90/80     70/65     50/45    40/35    30/25
+    U2            170/160   110/100    90/80     60/55    50/45    40/35
+    U3                      130/120   110/100    70/65    60/55    50/45
+    U4                                130/120    90/80    70/65    60/55
+    U5                                          110/100   90/80    70/65
+    U6                                                             90/80
+    U7                                                            110/100
+
+    G1                      100/90     80/75     60/55    50/45    40/35
+    G2                                100/90     70/65    60/55    50/45
+    G3                                           80/75    70/65    60/55
+    G4                                                             70/65
+
+    T1                                100/95     80/75    70/65    60/55
+    T2                                           90/85    80/75    70/65
+    T3                                                             80/75
+
+Psychic Power Points regeneration: As in S&G, section 2.935.
+
+Healing Spells: If non-weapon proficiencies are used, then healing spells should
+not be automatically effective, as there will be alternative methods of healing.
+Use the normal chances of healing spell failure, as found in S&G description of
+the spell 10, Healing. If non-weapon proficiencies are not used, healing spells
+always work, as in AD&D.
+
+Closing Notes:
+
+As previously pointed out, if the potential user lacks access to the S&G rules
+system, these rules will be of limited value. If the user wishes to use an AD&D
+system without Swords and Glory, I recommend strongly that the "schools of
+magic" rules be used. The DM should select which temples correspond to which
+schools of magic, and not permit players to freely mix and match temples with
+magical schools. Priest and Wizard spell tables might be combined, to permit the
+full mix of spells to players, since virtually all sorcerers in the Five Empires
+obtain their spells through the temples anyway. As mentioned above, this also
+limits character classes. DMs wishing to have three character classes might make
+some effort to separate ritual spells from psychic spells. Although the Tekumel
+sourcebook makes little distinction between psychic and ritual sorcerers besides
+the limitations on clothing, weapons, and armor, and the S&G rules makes pure
+psychic or pure ritual sorcerers relatively rare compared to a sorcerer able to
+use both psychic and ritual spells, it might be worth exploring a greater dis-
+tinction between the two types. Perhaps the new psionics rules would permit this
+kind of distinction. Care must be taken that a combined ritual/psychic sorcerer
+under such a system not overpower the game, as they would be likely to do.
+
+I hope somebody finds these rules useful, and I said at the beginning, I would
+appreciate hearing any comments.
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

@@ -1,0 +1,102 @@
+
+ 
+                            Tekumel Digest, Number 1
+ 
+                             Friday, May 10th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+ 
+Administrivia:
+Welcome to the first issue of the Tekumel Digest.
+Anybody got a bottle of champagne for this inauguration?
+I hope you will enjoy it as much as I will.
+ 
+Today's Topics:
+                                      Names
+
+-----------------------------------------------------------------
+ 
+Date: Fri, 10 May 91 15:57:02 CDT
+From: "Brett Slocum" <slocum>
+Subject: Names
+
+I've found a name generator that works extremely well at creating
+Tsolyani/Tekumeli names. It uses an input file of suitable example
+words, figures the patterns and generates similar words. My
+input file consists of about 550 words I've gleaned from many
+sources, including the novels, the sourcebook, the language grammer,
+etc.
+
+Much better than Barker's "Tsolyani Without Tears" article method.
+
+Here is a sample run (no editing out of bad names):
+
+aqtla                   ng
+cho                     ngganiriyagu
+choggaruggasha          ngmu
+dan                     ngundanchaidunayilte
+dhib                    nmanna
+dimun                   on
+dna                     pachuru`omu
+ga                      rayu`umesala
+gara                    ru`u
+ge`el                   siya
+gi                      srama
+giritl                  sru`un
+hi`iltene               ss
+hirika                  ssogga
+hlu                     ssu`urukekantlekku
+hlum                    tamal
+hlyan                   thurnelis
+itash                   tlan
+ka                      trunatlekku`a
+ku                      tsupila
+kurtlamu                tuku
+kyn                     tukumne
+la                      ulakhaneng
+le                      ulei
+liyallakchi`is          ushe
+manoruorsurudlu         utel
+mashru`un               vresha
+metlene                 zaku`ochikat
+mish                    zhuke
+ne
+
+This is available via anonymous ftp from the archives of
+comp.sources.misc. 
+
+Index entry : v11i062   names2-2/part01     Names2 bug fix
+
+Posting-number: Volume 11, Issue 62
+Submitted-by: jrk@sys.uea.ac.uk (Richard Kennaway)
+Archive-name: names2-2/part01
+
+I got mine from wuarchive.wustl.edu [128.252.135.4], but
+check the intro message for comp.sources.misc for the
+archive site nearest you. This intro also lists uucp
+archive sites and email servers that will have this.
+Please don't ask me to mail it to people. I don't have the time.
+
+If someone wants my word list after getting the software,
+drop me a line.
+
+--
+Brett Slocum <slocum@ssdc.honeywell.com>
+
+-- 
+Brett Slocum <slocum@ssdc.honeywell.com>
+    or <uunet!ssdc.honeywell.com!slocum>
+WARNING: Do NOT use 'r'eply to contact me until further notice
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+Copyrights are retained by the authors.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

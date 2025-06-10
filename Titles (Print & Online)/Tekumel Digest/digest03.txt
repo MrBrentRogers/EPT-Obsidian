@@ -1,0 +1,338 @@
+ 
+                            Tekumel Digest, Number 3
+ 
+                             Tuesday, May 21st 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rgp/tekumel
+ 
+Administrivia:
+The Tekumel Digest is now archived on eklektik.cs.pitt.edu (130.49.2.135),
+accessible via anonymous FTP. The directory is: /pub/rgp/tekumel.
+ 
+Today's Topics:
+ 
+                             Past and present Q&A's
+                            Recent events on Tekumel
+                          Re: Recent events on Tekumel
+                                      Hello
+                                      Clans
+                              Tekumel bibliography
+----------------------------------------------------------------------
+ 
+Date: Fri, 17 May 91 16:00:33 -0500
+From: "Albatross" <alberti@cs.umn.edu>
+Subject: Past and present Q&A's
+
+Hi.  Let me introduce myself.  I'm Bob Alberti, and I am participant in
+M.A.R. Barker's weekly Tekumel role-playing game.  My character is
+Arjai hi Vaisoner, Priest of K'Sarul and member of the Cloak of Azure Gems
+Clan.  I hope I can answer your questions concerning Tekumel with some
+accuracy.  If not I'll try to pass them to Prof. Barker, or possibly another
+of the group on the net (you out there, Geof?) can correct me when I'm wrong.
+Tekumel is a big place.
+
+>[The following was sent to me from another Tekumel list. This list
+>may merge with this one soon.]
+>
+>Date: Wed, 15 May 91 10:05:49 -0500
+>From: "Albatross" <alberti@cs.umn.edu>
+>Subject: Re:  Hi again
+
+And I'd just like to mention that I inadvertently sent this letter in a
+distributed form.  If some of the language seems a bit confusing, it's likely
+because I intended this as a private response (thus the subject header).
+I don't object to it's being distributed (it was my error that this happened),
+but want to prevent any confusion.
+
+>From: "Brett Slocum" <slocum>
+>Subject: Re: New Tekumel book coming out
+
+> One thing I am interested in finding out from 
+> some more knowledgable persons on this list is what exactly is
+> the current state of affairs w.r.t. Tekumel publications. Who
+> has the rights to Tekumel?
+
+Currently nobody really has the rights to Tekumel.  Prof. Barker has
+been defrauded enough times that this is a very hazy area.  Despite that
+fact, Barker is extremely happy to speak to anyone concering any ventures
+they might undertake on behalf of Tekumel.  The only thing he asks is that
+he be informed of what's going on, consulted for his opinion in the event
+of uncertainty, and credited appropriately.
+
+> Does Different Worlds still exist? Do they still sell Tekumel products?
+> Will we ever see book 3 of the Sourcebook? Are any new rules coming out of
+> the group in Minneapolis?
+
+Don't give up hope, but don't hold your breath.  Work on these continues
+slowly, but it does continue.
+
+> When can we expect to see ads for "Lords of Tsamra"?
+
+This one has a brighter future.  Professor Barker has completed some 25
+chapters, and will possibly* complete the novel this summer.  As for how
+it will be published, however...
+
+> The views expressed in Tekumel Digest
+> are those of the individual authors only.
+
+Damn straight.  Not only do I get confused a lot and give the wrong answers,
+but I run K'Sarul priest for a reason.
+
+------------------------------
+ 
+Date: Fri, 17 May 91 16:02:03 -0500
+From: "Albatross" <alberti@cs.umn.edu>
+Subject: Recent events on Tekumel
+
+Greetings. I am Arjai hi Vaisoner, Priest of Mighty K'Sarul whose blue
+radiance suffuses all with glory, and member of the great Cloak of Azure
+Gems Clan, whose dignity is acknowledged by all good persons.
+
+I am here to relate, in brief, the events of the past few months, so that
+you may know and understand events of importance within the Five Empires.
+These have been times of great change.
+
+In the year 2364, on the third intercalorie day of Vrahama, my
+illustrious wife Chitlasha and I were present in the city of
+Thri'il to witness the bringing forth of a new Prince of the Empire,
+a candidate of the Temple of Hnalla.  Lord So'on hi Tlakotani, son of
+Kulesa hi Tlakotani and nephew of the Mighty Emperor Hirkane hi Tlakotani,
+the Stone Upon Which the Universe Rests, was revealed as a candidate for
+the Petal Throne.
+
+Though this claim met with controversy, as a nephew of the Emperor has a
+less traditionally recognized claim on the throne than the Emperor's own
+children, the controversy was never resolved.  During the revelry and
+intrigue of the Intercalorie Days and the Bringing Forth of the Prince,
+the doom of the empire was revealed.
+
+Yan Koryani forces, aided and abetted by large factions loyal to the Worm
+Prince, Dhich'une, set in motion an invasion long-planned, and presaged by
+the events in that tale which is now known as _The Man of Gold_ in the 
+courts and clanhouses where such tales are traded.  In Thri'il, we did not
+know of the fate of the rest of the Empire -- we were too busy surviving
+ourselves!  My wife and I and some others fled the city by magical means,
+only to learn the awful truth.
+
+The Emperor, Hirkane hi Tlakotani, was dead, as were the Royal offspring
+Aremala, recently revealed candidate of Avanthe, and my own mighty Prince
+Mridobu, servant of our lord K'Sarul.  Dhich'une, Prince of Mouldering Sarku,
+had become Emperor, following a Kolumejalim which he had announced, held,
+and won by default all on one afternoon.  At his side during this mockery of
+Imperial tradition were his allies.. or possibly his masters:  Baron Ald,
+Ruler of the nation of Yan Kor to the north, was now High General of Tsolyanu,
+and Ald's house wizard, the indisputably mighty Lord Fu Shi'i.
+
+Rereshqala had renounced the Gold from his palace in Jakalla, and Princess
+Ma'in was secreted away in Tumissa.  The mighty princes Eselne of Karakan and
+Mirusiya of Vimuhla were on the frontiers -- Eselne in the northwest fighting
+Mu'uglavyani incursions near Pijena, and Mirusiya lost deep in Yan Kor,
+attempting to flank the Yan Koriani forces which had been descending into
+Tsolyanu for some time, aided unknown to any by Dhich'une's own grim generals.
+
+My wife and I joined Lord Arumel hi Chankolel and his wife Iena in Jakalla,
+and there took stock of the situation.  Dhich'une's preparations had been
+thorough, aided perhaps indaverently by the delay to their plans caused when
+Harsan hi Kutonyal had moved to cripple Lord Fu Shi'i's Weapon Without Answer.
+Every temple and every clan was split by the turn of events -- while Dhich'une
+had acted in what was clearly an agressive manner, he had conducted however
+abruptly all of the formalities and sat now upon the Petal Throne as Emperor.
+Who could gainsay the Emperor?  In addition, the Omnipotent Azure Legion,
+arm of the Emperor, was... is "infested" to strong a word?... with his own
+brown-robed loyalists.  Dissent to the new "Emperor" was met with merciless
+destruction.  This, too, was in keeping with Imperial tradition as one does
+not speak ill of the Emperor, and served to further confuse all issues.
+
+So Arumel, a Lord of mysterious origins and great honor and dignity,
+worshipper of Vimuhla and hero of many exploits, decided to raise an army
+to move indirectly against Dhich'une.  He decided to gather an ecumenical
+force and head north to aid Lord Mirusiya in escaping from behind what were
+now consolidated Yan Koryani and Tsolyani lines.  In this he played careful
+politics, as our action could be interpreted as either an attempt to rescue
+the Prince, or to "capture" him for the Emperor.
+
+For many months my wife and I accompanied Lord Arumel and his wife, who is
+a mighty priestess within the temple of Vimuhla, and assisted him in raising
+an army.  By the month of Drengar we had passed through Thraya, Sokatis and
+Fasiltum.  North along the Dry Bay we had crossed, and over the mountains.
+We had fought Yan Koriani forces and arrived at Grai, bound for Tleku Miriya
+where we had learned Prince Mirusiya had been besieged along with his general,
+Karim Missum whose name means "Red Death".
+
+We had done well, raising ten thousand troops representing such divers temples
+as Hnalla, Vimuhla, and even Sarku's own Cohort Durritlamish (and these forces
+fought more faithfully than even the Qon warriors who accompanied us).  After
+a long trek across this arid country, we were all eager to engage the enemy
+around Tleku Miriya's base.  Alas, this was not to be.  With great dishonor
+and cowardice our forces were infected by Dhich'une's undead allies with
+the Plague of Akhouan Mssa, which slays nearly half of those it touches.
+Despite our best efforts to forstall its progress, many became infected and
+many fled as morale dropped.  Then the final blow was struck -- Yan Koryani
+and Salarvyani forces arrived to crush us 'ere we reached Tleku Miriya,
+and they delivered a grim package -- a chest containing the severed heads
+of Prince Mirusiya and Karim Missum.
+
+Broken, the army was scattered and slaughtered outside of Grai.
+
+Lord Arumel, myself, our wives and companions, escaped towards Tleku Miriya,
+intending to sell our lives dearly to avenge the Prince.  We determined,
+however, that the remains which had been delivered were clever fakes, and
+our hope was renewed.  Arriving within sight of Tleku Miriya, we received
+more surprises -- magical sight revealed that this was NOT Tleku Miriya!
+All clues pointed to this being an other-planar copy of the city:  a Tleku
+Miriya from some alternate reality, shifted in to replace our own.
+
+I was staggered.  The mightiest wizards could open passages between the planes
+and move themselves and some goods through.  But to move a CITY would require
+a mind-boggling degree of power.  Such power would have no answer... it would
+be The Weapon Without Answer.  And as we learned, Lord Fu Shi'i had indeed
+restored his blighted device to operation.
+
+Prince Mirusiya might yet live -- such an inter-planar transfer would have
+to be a swap.  The imbalance of any other course of action on that scale would
+have been even more unbelievable, and dangerous to the perpetrator.
+
+So we set off.  I will not relate to you our adventures across the many planes.
+They are inhospitable and do not bear easy description.  Let us say only this:
+in the end we came to a place with no light.  And in this benighted place,
+upon a plane of reality so small a soldier could march across it in one day,
+were there day, we found the city of Tleku Miriya deposited on its side in
+a valley.  Naked, we arrived and faced the soldiers of Mirusiya's army, who
+were alert following repeated demonic attacks by Dhich'une's more hideous
+allies.  Through words and signs we made known to them that despite our
+appearance we were allies of the Prince, and subsequently met that mighty,
+and led he and his army back across the planes.
+
+We arrived in Tleku Miriya upon our home plane, to the bright light of day and
+the surprise of the Yan Koryani garrison there.  Furious at their long abuse,
+Karim Missum's Army of Red Devastation reduced the city, and although they were
+lowly Milumaniyani tribespeople and Yan Koryani soldiers, still their cries of
+anguish did unsettle the nerves.
+
+Finally we set forth.  The day is now the first of Halir 2365, high summer.
+Although our course took unexpected turns, we succeeded in our mission to
+return Prince Mirusiya to Tsolyanu.  Even now we approach Sunraya, our troops
+hungry and desperate after the long march south.  Upon yonder hill, Yan
+Koryani forces in emerald green mingle with Tsolyani troops in the brown of
+Lord Sarku's Legion of the Worm, awaiting the word to attack.  And past
+them, barely visible through the dust, a mighty device upon a wagon:  it is
+the Weapon Without Answer and its operator is Lord Fu Shi'i.  Soldiers cry
+for Kadarni battles of honor before the melee begins, and generals confer
+before their tents.  Prince Mirusiya stands proudly at the fore of his meagre
+army and plans strategy.  The battle will soon be joined and we will face
+Fu Shi'i's Weapon, and try once again to find an answer.
+
+------------------------------
+ 
+Date: Fri, 17 May 91 16:20:51 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re: Recent events on Tekumel
+
+Wow!
+
+Many months ago, I had heard a rumor that Mirusiya was Emperor. I never
+thought it would be like this!
+
+I'm glad I've maintained my GURPS Tekumel campaign in the past, during
+the early stages of the war with Yan Kor. 
+
+You turn your back for a few years and things sure change.
+
+
+------------------------------
+ 
+Date:     Fri, 17 May 91 22:08:37 +0100
+From: advent%ukc.ac.uk@pucc.PRINCETON.EDU
+Subject:  Hello
+
+  This is really just a courtesy message as probably I won't be too much help
+to anyone,at least till next academic year when(hopefully) I get my campaign
+running.In basic terms I got tekumel too late for S&G,though I've had a pretty
+good go at scraping up what else I could find:the different worlds sourcebooks,
+their reprint of EPT,and the two novels(It took me 3 years to find Flamesong).
+Thus mainly I'm going to sit here and siphon off any information that comes
+past,I'm also more than interested in just about everything Brett Slocum
+expressed an interest in in digest 2,i.e. is anything else comming out?As I
+haven't got any rules systems to use apart from the EPT ones I'm going to
+be using GURPS(One of the reasons why I'm very glad that this list got set up
+I was going to mail Brett Slocum and ask for ideas anyway,after reading the
+net for about a year or so,and finally deciding that I wanted to get Tekumel
+going...).I've already got a lot of basic thing sorted out vaguely,my biggest
+problem is warping the Magic/Psionic systems to conform to the sourcebooks'
+and novels' treatment of magic(I'm a bit too much of a perfectionist),especially
+with reguard to Nexus gates,planes,time travel,the limitations of Psionic
+ Magic,etc(I'll stop before things go too far).Also the set ups for non-human
+ races
+and so on,not that I intend to let players play non-humans for a good while,
+the background and Tekumeli mindset will be difficult enough to start with.
+Anyway enough of my problems,I'll have a go at commenting on what has been said
+so far.
+  On the subject of rickshaws:Whilst cultural inertia(all too common in
+ Tekumel)might slow the introduction of such things,possibly another explanation
+ would
+be the lack of very efficient bearings,considering the scarcity of very hard
+metals:whilst greased wooden axles in wooden surrounds may be good enough for
+Chlen carts (Lets face it,virtually nothing stops a Chlen),it may not work too
+well on other things(sounds a little implausible even from here).
+  On Assasin Clans:As I remember(I read sourcebooks far too much),there are
+actually more than two assassin clans,and I don't remember the Ito being one,
+though they may well be(And I'd be very interested if they were,you don't often
+get assassin clans in the Very High bracket).
+
+Since the digest is hardly moving yet there isn't much more to say,just thanks
+to anyone who helps get my campaign going,and lets see if we can get some
+more discussion flowing(Though hopefully not as much as the Ars Magica list:
+25 messages in one day,I can barely cope....)
+
+Piers
+advent@ukc.ac.uk(Adventure gaming society)
+jprb@ukc.ac.uk(Me)
+
+------------------------------
+ 
+Date:    Mon, 20 May 1991 16:24:04 EDT
+From: EJK5@JAGUAR.UCS.UOFS.EDU
+Subject: Clans
+
+Hmmmm, Ito clan runs assassins eh?  I'll have to bring this up with my
+GM.  I (and some other people) have characters who are Ito clansmen,
+although I've never had to use an assassin I did have to contend with one
+who was sent to get me.  I never figured out why, he had apparently been
+magiced up so that when I dominated him, he croaked and I couldn't even
+make him undead to pump him for info.  As far as Ito goes, we have:
+Chakallan hiIto, fighter, has a fief (I'll look up the hex number) and
+was in the process of raising a legion (the Copper Skulls?) and has a 
+considerable ammount of monitary and polical pull.
+Arakesh hiIto(mine),sorcerer-priest, more interested in gaining sorcerous
+knowledege and ability to advance myslelf in the ranks than getting a cushy
+temple post.
+I'll get a list of other characters if you want them, somebody could always
+use them as NPCs or something.
+As for the clan thing, how about a followup? I know that most of the generals
+of the Sarku-funded Imperial legions are from the Domed Tomb clan-the 
+Khanuma family line.
+
+------------------------------
+ 
+From: anthony@cs.pitt.edu (Anthony Kapolka)
+Subject: Tekumel bibliography
+Date: Tue, 21 May 91 15:31:26 EDT
+
+Do you have a comprehensive Tekumel bibliography?  That would be the first
+thing I'd like to see (I only have the first rule book, myself).
+
+Anthony
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

@@ -1,0 +1,139 @@
+ 
+                           Tekumel Digest, Number 30
+ 
+                          Wednesday, January 22nd 1992
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Today's Topics:
+ 
+                                    Campaign
+                    Combining GURPS and the S&G magic system
+----------------------------------------------------------------------
+ 
+Date: Thu, 23 Jan 92 9:52:36 EST
+From: *Jonny the Z* <zamick@yoko.rutgers.edu>
+Subject: Campaign
+
+The campaign I started in was a bit different.
+The system was Rolemaster with modifications like an added Height Build
+statistic, and the GM had gotten us a bit used to Tekumel with the last
+campaign which included the EPT Gods, some monsters and the class system.
+
+Our characters were 1st level, and well we ran. We were on a ship, and we saw
+an embracer of ships or two, but luckily weren't very near. We saw a Hluss
+hive ship. After our ship was atomized by this unlucky encounter, those few
+of us in the lifeboat (we had departed quite a bit earlier) managed to make
+isle's beach.  Unfortunately the bottom of the boat was torn out by the reefs
+surrounding the beach itself.
+      So there we were, a wizard of K'sarul who didn't have any knowledge
+yet of demons or anything else in his specialty. A priest of Vimuchla who was
+able to boil water for us. A warrior of Vimuchla and one of... hmm I don't
+quite remember.  We also shared the company of the bowsin and another member
+of the crew of the original (now Hluss destroyed ship). The bowsin got
+severly injured procuring us food, however we tended his wounds as best we
+could. We explored our home as best we could. Over the sandbank lay a salt
+swamp that extended untold miles back. To one side, the beach merely ended,
+and to the other it was cut off by a channel between the ocean and the swamp.
+Yet we had to make a crossing. So fixing our dinghy, that is getting it ready
+for its last run in patchwork manner, we prepared to cross the channel.
+      The dinghy was almost a total loss, but through luck and some GM
+bribes we didn't quite sink. So now we were on the other side, but where was
+that? Exploring a bit more, we saw a shape in the sand... we approached. We
+stopped. It was a Hluss. It was lying face (yes I guess they could be called
+faces) down and when we approached slowly we noticed that a white powder
+seemed to line its joints. We pondered. We looked up. We paled. Why? Because
+far in the distance we were able to see a glow. A glow that seemed oddly
+familiar. The glow of a Hluss ship.
+
+More to come.
+
+------------------------------
+ 
+Date: Wed, 22 Jan 92 14:48:15 CST
+From: "Brett Slocum" <slocum>
+Subject: Combining GURPS and the S&G magic system
+
+A friend of mine developed this system for using the S&G magic
+system with GURPS characters. I don't necessarily agree with 
+some specifics of his system, but the general idea is good.
+This way you can use all the same, wonderful spells from S&G
+Player's Book, and not have to try to translate each spell to
+GURPS (a slow task I assure you from experience).
+
+     Using the S&G magic system with GURPS
+              by John Finsrud
+
+In the Skill Levels and Purchasable Skills table, replace
+the S&G skill level with 5 spell points per level (e.g.
+skill level 2 is equal to 6-10 spell points, skill level
+16+ is equal to 76+ spell points).
+
+On the Spell Casting Cost table, use the same conversion for skill level
+to spell points. Divide all fatigue costs in the table by 5.
+Example: a G5 ritual spell costs a skill level 8 mage 55 power points.
+This translates to a cost of 11 fatigue for a mage with 41-45 spell
+points.
+
+He calculates Psychic Power Points = IQ + HT + Psychic Ability.
+Psychic Ability is a new attribute, starting at 10, and bought
+normally.
+
+To learn spells, the following table is used:
+
+       Spell Difficulty Table
+
+Spell
+Level     Universal   Generic   Temple
+  1           ME         ME       ME
+  2           ME         ME       MA
+  3           ME         MA       MA
+  4           MA         MA       MA
+  5           MA         MA       MA
+  6           MA         MA       MH
+  7           MH         MH       MH
+  8           MH         MH       MH
+  9           MH         MH       MH
+ 10           MH        MVH      MVH
+  
+
+Nice little conversion.
+
+I'd just use Magery and not the Psychic Ability attribute.
+Then add Magery * 5 points to Power Points. I would also
+slightly change the Difficulty table. I'd say all Level
+10 and T9 spells are MVH, and T1 spells are MA. Something 
+like this: 
+
+       Spell Difficulty Table
+
+Spell
+Level     Universal   Generic   Temple
+  1           ME         ME       MA
+  2           ME         ME       MA
+  3           ME         MA       MA
+  4           MA         MA       MA
+  5           MA         MA       MH
+  6           MA         MH       MH
+  7           MH         MH       MH
+  8           MH         MH      MVH
+  9           MH        MVH      MVH
+ 10          MVH        MVH      MVH
+
+If you try this out, let me know how it works, and give me any
+suggestions you might have.   -- Brett
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

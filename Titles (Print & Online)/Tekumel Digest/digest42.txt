@@ -1,0 +1,63 @@
+ 
+                           Tekumel Digest, Number 42
+ 
+                             Tue., Mar. 17th, 1992
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Administrivia:
+After having done it once by hand, I now have an automated
+index script. That, along with my other automated scripts,
+makes maintaining the digest pretty easy. Now all I need 
+is a good method for adding new subscribers to the mailing 
+list.  If anyone has a good, flexible script for doing so, 
+I'd like to know about it. Thanks.
+
+Also, I'd like to encourage people to use more descriptive subjects
+than "Tekumel Digest, #xx". It will make the index much more useful
+in the long run. Thanks.
+ 
+Today's Topics:
+        Re: Tekumel Digest, #41
+----------------------------------------------------------------------
+ 
+Date:         Tue, 10 Mar 92 19:52:45 EST
+From: Bob Dushay <DUSHAY@NYSPI.bitnet>
+Subject:      Re: Tekumel Digest, #41
+
+Okay, I got cooked on the Phil Barker/MAR Barker connection.  Coming from
+a role-playing background rather than a miniatures background, I assumed
+that the low level of Tekumel awareness among most role-players could be
+generalized to miniatures as well.  As Mr. Dean pointed out, I was not
+correct in my assumptions.
+   Although I am unlikely to have time to play miniatures battles, I have
+been fascinated with the elaborate formations of Tekumeli soldiers in
+battle, and wonder how miniatures rules handle them, and I would love to
+see the pagentry of a miniatures battle.  The Hordes rules seem to make
+miniatures armies more possible--I personally own a handful of miniatures
+(6 Tsolyani archers, 6 Mu'ugalavyani spearmen, and a small variety of priests).
+
+I am more interested in the availability of non-human miniatures.  I have three
+armored Shen, one Ahoggya, and some Ssu.  Are the miniatures being sold
+anywhere currently?
+
+ONe of my other old hobbies is Origami (Japanese paper folding) and I have
+actually devised an Ahoggya model, and I have been trying to fold either a
+Pe Choi or a Hluss with little success.  I had hoped that if I got good
+at it, I couild manufacture my own "miniatures" for role playing purposes.
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

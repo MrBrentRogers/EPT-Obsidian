@@ -1,0 +1,121 @@
+ 
+                           Tekumel Digest, Number 26
+ 
+                          Tuesday, December 31st 1991
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Today's Topics:
+ 
+                            Another information request
+                            Tekumel animal habitats
+----------------------------------------------------------------------
+ 
+Date:         Mon, 30 Dec 91 15:41:06 EDT
+From: Bob Dushay <ROYER%NYSPI.bitnet@CUNYVM.CUNY.EDU>
+Subject:      Another information request
+
+The translation of statistics for the EPT creatures list to S&G
+standards is very welcome, but what of updated encounter tables,
+or at least a list of the types of environments where the
+creatures can be found?  It's a safe bet that most of the big
+predators that might prey on humans are found in wildernesses
+and not on the Sakbe roads, but (for example) would a Zrne
+be found in jungles, mountains, or savannahs?  A Mnor?
+What creatures haunt the Chakan forests?  This kind of information
+would be very helpful.
+
+------------------------------
+ 
+Date: Tue, 31 Dec 91 16:09:27 CST
+From: "Brett Slocum" <slocum>
+Subject: Tekumel animals habitats
+
+Here is what I generated for my GURPS conversions. These habitats
+correspond to those given in the GURPS Bestiary and Fantasy Bestiary.
+I added the differentiation between "Mountains, foothills" and 
+"Mountains, peaks". There is also the "Artic" designation that I
+left off, because, of course, very few places on Tekumel are artic.
+As for encounter tables, I don't use them, so I didn't include any.
+
+Akho                                Habitats: SW
+Aqaa                                Habitats: Sub
+Biridlu                             Habitats: Sub
+Chashkeri                           Habitats: SW
+Chlen                               Habitats: P
+Chnelh                              Habitats: F,J,M*,Sub
+Cholokh                             Habitats: M, M*
+Dlakolel                            Habitats: J
+Dlaqo                               Habitats: Sub
+Dnelu                               Habitats: P, M*
+Dzor                                Habitats: F, J
+Feshenga                            Habitats: F, J
+Gerednya                            Habitats: S, M, M*
+Ghar                                Habitats: FW, S
+Giriku                              Habitats: F, M, M*
+Haqel                               Habitats: FW, SW
+Hli'ir                              Habitats: Sub
+Hra                                 Habitats: Sub
+Huru'u                              Habitats: Sub
+Hyahyu'u                            Habitats: P, F, M*
+Kayi                                Habitats: Sub, F, M, M*
+Kheshchal                           Habitats: F, J
+Krua                                Habitats: FW, SW
+Kurgha                              Habitats: Sub
+Kuruku                              Habitats: F, J, S
+Ku\*:ni                             Habitats: F, J, M, M*, P
+Lri                                 Habitats: F, M, M*
+Marashyalu                          Habitats: Sub
+Mnor                                Habitats: D,M,M*
+Mrur                                Habitats: Sub
+Mu'agh                              Habitats: Sub, S
+Nenyelu                             Habitats: FW, SW
+Ngayu                               Habitats: Sub
+Ngoro                               Habitats: Sub
+Ngrutha                             Habitats: S
+Nshe                                Habitats: Sub
+Qaqtla                              Habitats: S
+Qol                                 Habitats: Sub
+Qumqum                              Habitats: Sub
+Renyu                               Habitats: F, J, S, M*
+Ru'un                               Habitats: Sub
+Sagun                               Habitats: Sub
+Serudla                             Habitats: F, M, M*, Sub
+Shanu'u                             Habitats: F, M, M*
+Shedra                              Habitats: Sub
+Sro                                 Habitats: M, Sub
+Teqeqmu                             Habitats: F, J, S, M*
+Thunru'u                            Habitats: Sub
+Tletlakha                           Habitats: FW, SW
+Tsi'il                              Habitats: P,F,J
+Tsoggu                              Habitats: FW, SW
+Tsu'uru                             Habitats: Sub
+Vorodla                             Habitats: Sub
+Vringalu                            Habitats: J, S
+Yeleth                              Habitats: Sub
+Zrne                                Habitats: F, J
+
+Key to habitats:
+F = Forest
+FW = Fresh Water
+J = Jungle
+M = Mountains, foothills
+M* = Mountains, peaksP = Plains
+S = Swamp
+Sub = Subterranean
+SW = Salt Water, Ocean
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

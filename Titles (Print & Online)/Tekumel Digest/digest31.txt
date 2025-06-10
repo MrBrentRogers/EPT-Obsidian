@@ -1,0 +1,202 @@
+ 
+                           Tekumel Digest, Number 31
+ 
+                           Monday, January 27th 1992
+ 
+Requests or comments: tekumel-request@ssdc.honeywell.com
+Submissions: tekumel-digest@ssdc.honeywell.com
+FTP sites: eklektik.cs.pitt.edu (130.49.2.135) in /pub/rpg/tekumel (Down)
+           rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel (uncompressed)
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel (compressed)
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads (compressed)
+ 
+Today's Topics:
+ 
+                          Digest Index of Issues 21-30
+                               More campaign notes
+                               Re: Tekumel Digest, #29
+----------------------------------------------------------------------
+ 
+Date: Fri, 24 Jan 92 13:05:00 CST
+From: "Brett Slocum" <slocum>
+Subject: Digest Index of Issues 21-30
+
+TEKUMEL DIGEST INDEX
+Volumes 21-30 Inclusive
+24 Jan 92
+
+N.B.:  Digest addendums are listed as A#, where # indicates order of release.
+
+Issue
+21    The beggar in the market says...
+
+22    Re: Tekumel Digest, #21
+
+23    Answers from M.A.R. Barker
+
+24    S & G animal statistics
+
+25    Questions about Tekumeli creatures
+
+26    Another information request
+      Tekumel animal habitats
+
+27    Tekumel Digest Index (v.1-26)
+
+28    Tekumel miniatures?
+      Campaign Descriptions
+
+29    Word from Tsolyanu
+      Magical books
+      magic items and books
+
+30    Campaign
+      Combining GURPS and the S&G magic system
+
+------------------------------
+ 
+Date: Fri, 24 Jan 92 13:03:51 CST
+From: "Brett Slocum" <slocum>
+Subject: More campaign notes
+
+The events in my recent GURPS PBEM campaign were as follows:
+
+A group of Stability worshippers (a couple from Karakan, a couple from Belkhanu)
+are called to the temple of Thumis in Jakalla. An expedition to the underworld
+was mostly lost just after having found an ancient layer, possibly Llyani.
+The Llyani never made it to Jakalla, at least in current theory. Nexus points
+are thought to be the culprit. Another mission is being sent to find the
+remnants of the other expedition. Since nexus points are possibly involved
+the Belkanu temple was asked to send an expert in nexus magic. Karakan was
+asked to send some fighters (the Thumis temple decided that they needed 
+real muscle, and stopped pretending they could do this all on their own).
+The group was joined by two fighters, one a fencer, the other a sailor, who 
+were hired from the foreigner's quarter. A priestess of Thumis is leading,
+plus a Thumis scholar of Llyani and a Physician to tend to any survivors of
+the previous mission.
+
+They walked to the City of the Dead, bribed the tomb police (or did they
+just avoid them? i forget). Once down in the underworld, they had to
+scuttle through a huge temple of Hry'y, and fought and defeated a couple 
+of Vimuhla warriors. They are resting at the top of a staircase that
+leads to the 4th level.
+
+At this point I handed the campaign over to another GM, but he hasn't
+proceeded yet.
+
+------------------------------
+ 
+Date:         Sat, 25 Jan 92 07:11:21 EDT
+From: Bob Dushay <ROYER%NYSPI.bitnet@CUNYVM.CUNY.EDU>
+Subject:      Re: Tekumel Digest, #29
+
+Brett has requested we send our campaign summaries to the
+digest.  My gaming time is very limited, so I have only run two
+games since I've started reading the digest, but here is my
+campaign summary.  The current plot should come as no
+surprise to those who have been following my requests for
+information.
+
+"Biter" is an Ahoggya sometimes gladiator in the Hirilakte
+arena of Tumissa.  He is crude and obnoxious even for an
+Ahoggya, and by Tsolyani standards he is just this side of
+impalement.  He earned his name because he craves the taste
+of his foes' flesh, and he occasionally tries to take mouthfuls of
+his opponents in the arena.  He is tolerated only because the
+worst criminals are punished by a session with "Biter" rather
+than another gladiator.
+
+"Biter" was hired by Niqil hiLatayal, a tomb robber of the
+Clan of the Nighted Tomb, to go on a dangerous expedition
+through the Tumissan underworld.  Niqil had found a an
+unlooted shrine, but had lost two companions to a trap.  He had
+also asked for advice from his clan-father, Tsugash hiLatayal, a
+man so accomplished at gleaning income from the wealthy
+deceased that he insisted on being called "Yirautomringudali-
+koi" ("the great High Lord of Thieves") by those in the know.
+Tsugash was worried about the implications of this trip, enough
+so to come out of his retirement from active procurement trips.
+The biggest wrinkle was timing: a rich, unlooted shrine needed
+to be hit immediately, but it was a few days before the "Feast
+of the Conflagration of All", and the priests of Chiteng would be
+prowling the catacombs to find sacrificial victims.  Tsugash told
+his clan-son to find extra muscle from outside of the clan,
+preferably clanless warriors, so that they could vanish without
+trace if necessary.  Meanwhile, he went to the Temple of Ksarul
+(he has been a generous, and semi-clandestine contributor for
+many years) to hire a sorcerer under an oath of silence.  He
+was able to obtain the services of one Ptak-t'chi, a Pe Choi
+sorcerer.
+
+The party was captured by Nyem hiMerrugan, a sorcerer-
+priest of Chiteng, but were able to escape via the use of an eye
+that Tsugash had concealed, with the loss of a few of the clan's
+bully-boys.  Two more bully boys were lost to a Kayi ambush.
+Finally, the much reduced party found the shrine.
+The shrine, however, was an enormous trap set up by a
+creature from another plane.  The K'qaq'kkh (the closest
+Tsolyani can come to pronouncing its true name) is a
+horrendous creature resembling an enormous spider with iron
+claws.  The K'qaq'kkh had come to our plane on its own, and
+had been trapped in an extradimensional trap set in Livyanu.
+The sorcerer who found it was unprepared, and the K'qaq'kkh
+escaped.  It has lived in several underworlds preying on those
+creatures that stumble into the traps it sets.  It is looking for
+certain essences distilled from the intelligent beings it captures
+to take back to its home dimensions.
+The party was able to obtain the idol, fighting through a
+score of Mrur, but Niqil disappeared during the height of the
+battle.  The only survivors to return to the surface were the
+Ahoggya, the Pe-Choi, and the wiley Tsugash.
+
+Ptak t'chi returned to his temple.  "Biter" was hired by the
+handler of Nammilu hiTektissa, a gladiator who won six
+challenges in the ring.  Nammilu was going to fight Torg, a
+N`luss barbarian who is new to Tumissa.  Nammilu's handler
+was worried that the new N'luss may be tougher than he looks,
+so he chose a training opponent who would be very hard to
+beat.
+
+"Biter" was pleased by the training session, and went to the
+arena to watch Nammilu fight (and to bet all of the money he
+earned by training him).  Nammilu was doing okay, and few
+people were betting on Torg.  However, one well-dressed man
+took most of the bets for Torg.  In the middle of the fight,
+Nammilu suddenly seemed to slow down and get tired. Torg
+handily beat him, and as nobody was able to meet Torg's price
+for Nammilu's redemption, Nammilu became Torg's slave.
+"Biter" suspects there was sorcerous interference in the fight,
+and he especially suspects the well-dressed man who won all
+that money.  He has done a little investigating with the help of
+his comerade, Ikt-P'than, a Pe Choi warrior.  He has found that
+the well-dressed man is a servant of J'heris hiLammammu, of
+a high lineage of the Sword of Fire Clan. J'heris lives in a villa
+outside of Tumissa and is obsessed with the arenas, and
+especially in (illegal) combats between different creatures, such
+as...an Ahoggya and a Feshenga?
+
+Incidentally, Brett asked about new magic items.  Petrul,
+J'heris's servant, secretly owns an Eye of Immediate
+Exhaustion.  This eye causes its target to become so fatigued as
+to be virtually unable to hold a weapon or keep his/her eyes
+open.  It has a short range of about five meters, and its effects
+have a duration of about five minutes--if the target can be
+kept awake (by constant slapping, shaking, or being involved in
+demanding physical activity) for five minutes, then at the end
+of the effect the target is fully awake and aware again.
+Otherwise, the target falls asleep and is next to impossible to
+rouse for thirty minutes, after which he/she may be awakened
+normally.  A target who is under the influence of the eye but
+still awake attacks at -5 to hit in AD&D terms, -25% to his
+chance to hit in S&G rules.
+
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

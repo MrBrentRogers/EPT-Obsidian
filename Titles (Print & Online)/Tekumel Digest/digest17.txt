@@ -1,0 +1,186 @@
+ 
+                           Tekumel Digest, Number 17
+ 
+                           Monday, October 14th 1991
+ 
+            Requests or comments: tekumel-request@ssdc.honeywell.com
+                 Submissions: tekumel-digest@ssdc.honeywell.com
+             FTP Archive site: eklektik.cs.pitt.edu (130.49.2.135) 
+                         in directory /pub/rpg/tekumel
+ 
+Today's Topics:
+ 
+                                  Hirilakte Question
+                             Re:  Hirilakte Question
+                             Re: Tekumel Digest, #16
+                             Re: Tekumel Digest, #16
+                            Tekumel material for sale
+----------------------------------------------------------------------
+ 
+Date:         Mon, 07 Oct 91 14:38:09 EDT
+From: Bob Dushay <ROYER%NYSPI.BITNET@CUNYVM.CUNY.EDU>
+Subject:      Hirilakte Question
+
+Here's another question for you.  How do the authorities test for
+(and prevent) sorcerous tampering of the contests in the Hirilakte
+arenas?  Who are these authorities?  Do the clans that manage the
+arena hire private sorcerers, or pay a fee for a spell that prevents
+magic?   Do the managing clans pay gladiators to compete or do
+gladiators pay the arena for the priviledge of competing?  And which
+clan manages the arena in Tumissa?  I'm going to run a game this
+weekend that features the arenas and I'd like to be accurate, if
+possible.
+                                            --Bob Dushay
+
+------------------------------
+ 
+Date: Thu, 10 Oct 91 12:06:12 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re:  Hirilakte Question
+
+The following is paraphrased from page 69 of the Gamescience version 
+of the sourcebook:
+
+The Hirilakte arenas are used for duelling to resolve disputes,
+as well as gladitorial combat. They are run for a profit for the
+Imperium by a few very low status entreprenuerial clans. The arena
+supplies the referee, but the temples will be asked to supply
+referees for a magical duel.  Duellers must be armed and armored
+as close to identically as possible. If one person is quite adept
+with a weapon and the other is not, a weapon that neither knows well
+is usually chosen. In magical duels, the referees insure that only spells
+of identical or nearly-equivalent power are used.  It is cheating
+to use any other spell, even to save one's life. The punishment
+for violation is death. In a weapons duel (most duels between mages
+and priests are usually physical, not magical), cheaters are subject
+to criminal charges.
+
+Duels are to a specified level of decision: first blood, surrender,
+incapacitation, or death. 
+
+The main purpose of the arenas, though, is entertainment, not resolving
+disputes. Slaves, POWs, beasts, nonhumans, criminals, and professional
+gladiators are brought in. Private persons, clans, some military legions, 
+and the war temples sponser gladiators, and teams of foreign champions
+also come to gain honor. Games, athletic contests, and annual ceremonies
+of governments, temples, clans, etc. are also held in the arenas.
+Only important or highly skilled duellists will be listed in the program.
+Minor duels may occur in a small corner away from the main events,
+or they may be scheduled for early morning, before the crowd arrives.
+Magical duels are always popular, though.
+
+p. 99: (again paraphrasing)
+The arenas are open daily during the cool months, once a week in fall
+and spring, and close in the hot summers. Gladiators and wrestlers
+must obtain approval of the city-ruler or presiding officer (and the
+crowd) to kill an opponent, much like ancient Rome, though it is usually 
+given. Vanquished foes and their arms and armor become the property of 
+the victor, and are generally ransomed back (if the person or his clan
+cannot pay, then the person becomes the victor's slave). The winner of a 
+duel also gets this priviledge. Ransoms depend on status. 100-500 K for a 
+commoner, 600-1000 K for an experienced soldier or low circle priest, 
+2000-20,000 K for an officer or higher Circle priest, 5000-50,000 K for an 
+aristocrat.  If the loser is dead, the body is ransomed for a tenth to a 
+third of the above values.
+
+The clans that run the arenas are the Clan 
+of the Scarlet Sash, the Band of Noble Diversion, and the Bright Victory
+Clan, among others. The types of non-combat events include footraces,
+archery and javelin throwing competitions, acrobatic demonstrations,
+and clowns. The game that draws the best is Marotlan, in which four teams
+of five players vie to take a golden sceptre back to their home "color".
+Body blocking is allowing, but not grappling or weapons.  Teams may ally
+themselves with others, and bribing players from an opposing team to join
+yuours with promises is legal. Only one team can win and the losers lose
+their clothes along with their wager.
+
+Betting is done between the spectators, with the records of the gladiators
+and the odds announced by the referee. Gladiators and wrestlers are
+equally matched, but POWs, criminals, and slaves may face powerful
+warriors or beasts in unequal matches.
+
+You can join one of these clans, but they rank even below slaver clans,
+and the profits are not as much as you might think.
+
+The gladiators cannot keep the money thrown to them by the crowd (it is
+kept by the clan that runs it), but can place wagers and recieve gifts,
+favors from noble women (or men), and invitations to perform at
+feasts, etc.  Amateurs are permitted either against the pros, or other
+amateurs. The chief referee must be informed first to get your name in 
+the program, and you must use the weapons provided by the arena.
+
+As to the specifics of your questions, I would think the entreprenuerial
+clans would trade clan and temple obligations and favors to get the
+priests and sorcerers to referee. They probably pay a yearly fee to the
+temples to provide these people, or exchange services.
+
+I would guess that the clans pay the professional gladiators to compete,
+but the fee is small compared to wager winnings, gifts, etc.
+
+I hope this is helpful.
+
+------------------------------
+ 
+From: ccicpg!mhr@uunet.UU.NET (Mark Hull-Richter)
+Subject: Re: Tekumel Digest, #16
+Date: Thu, 10 Oct 91 10:23:41 PDT
+
+What is your source of information for this discourse on Tekumel magic?
+I confess that I have not read the Book of Ebon Bindings, nor all the
+source books (although I have them), but I would like to know the
+references where I can look this stuff up.  It's good.
+
+P.S.: I have read (and own) both the Man of Gold and Flamesong, and I
+don't recall any mention of this in there, especially not in such format
+or detail.
+
+Thanks.
+
+-- 
+Mark A. Hull-Richter    UUCP:       ccicpg!mhr  In all things, restraint,
+ICL North America       Also:  mhr@irv.icl.com    especially with respect
+9801 Muirlands Blvd     mhr@ccicpg.irv.icl.com    to posting articles and
+Irvine, CA  92713       (714)458-7282x4539        doubly so for flames.
+
+------------------------------
+ 
+Date: Fri, 11 Oct 91 10:15:40 CDT
+From: "Brett Slocum" <slocum>
+Subject: Re: Tekumel Digest, #16
+
+I'm getting it straight out of the Swords and Glory Player's book put out
+by Gamescience. Swords and Glory is the 2nd generation of Tekumel rules,
+after EPT. The Player's Book followed the original sourcebook. The Referee's
+Book was never published. S&G details the character creation, combat and magic
+systems for roleplaying. The list of spells is absolutely fantastic. Very
+Tekumel and often very scary. If you ever see it second hand, buy it at
+just about any price. It originally sold for $25-30.
+
+------------------------------
+ 
+Date: Mon, 14 Oct 91 10:31:36 CDT
+From: "Brett Slocum" <slocum>
+Subject: Tekumel material for sale
+
+I have some Tekumel gaming material for sale:
+
+      o  the three original maps from EPT, in color, on thick glossy paper.
+
+      o  Armies of Tekumel: Vol 1: Tsolyanu.
+
+Both of these are long out-of-print. Send your bids to me.  Highest bid 
+gets them. 
+
+-- 
+Brett Slocum <slocum@ssdc.honeywell.com>
+    or <uunet!ssdc.honeywell.com!slocum>
+ 
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+

@@ -1,0 +1,412 @@
+
+          Development & Procurement     From:     ftpmail@doc.ic.ac.uk@R11F@MRGATE@WEBCS
+                 WEB Mail               Tel No:    
+                                        Date:     11-Aug-1993 00:48am
+
+TO:  PEARSE W R
+
+
+Subject: wings.micro.umn.edu:/pub/tekumel/Digests/054 (get 054)
+
+      Tekumel Digest, Number 54
+ 
+      Saturday, Mar. 20th, 1993
+ 
+Requests or comments: tekumel-request@boombox.micro.umn.edu
+Submissions: tekumel-submit@boombox.micro.umn.edu
+FTP sites: rainbow.cse.nau.edu (134.114.64.24) in /rpg/tekumel 
+           potemkin.cs.pdx.edu (131.252.20.145) in /pub/frp/tekumel 
+           quayle.mu.wvnet.edu (129.71.32.151) in /pub/rpg/uploads 
+           wings.micro.umn.edu (134.84.130.22) in /pub/tekumel/Digests
+
+Gopher:  Fun & Games/
+           Games/
+             Fantasy Role-Playing Games/ 
+               Empire of the Petal Throne RPG/
+                 Digests/
+
+Administrivia:
+
+-------------------------------------
+
+WOW!  What is it?  Could it be a Tekumel Digest?!?
+
+Your Administrator apologizes for his pathetic performance in his position.
+Three months between digests is really pathetic, and I can only beg your
+forgiveness and thank you for your patience.
+
+Fortunately, I've gotten my friend Keith Dalluhn to try his hand at the
+administration of this list, so hopefully he will do a better job than
+I have, maybe even a weekly or bi-weekly mailing.  I'll remain as the 
+Administrator, but Keith will be the Editor.  Thanks, Keith!
+
+And now, on with the Digest.  It will be rather sizeable.  Please accept my 
+apologies in advance if you mailed in a submission and it does not appear 
+here.  No slight is intended; my mail server suffered a crash at one point.
+
+-------------------------------------
+
+Today's Topics:
+  
+                            Comments on the Digest and Replies
+                            FUDGE
+                            Convention Invitation
+                            The Eye of All-Seeing Wonder magazine
+                            How's the Digest doing?
+                            Tekumel Miniatures
+                            Ordering from the U.K
+                            Apocalypse Later
+
+-------------------------------------
+
+From: Charles Martin // martin@cs.uchicago.edu
+
+Bob, thanks for sending me the info on the Tekumel archives.  I accidently
+purged all the digests from my disk and needed to recover them!  Having
+just read through them again, I'd like to make a couple of comments...
+
+Upon re-reading, I have to say that digests 50, 51, and 53 (was there a
+52?) were absolutely compelling in their content.  I am ecstatic that you
+are willing to serve as administrator.  It's great to have someone so close
+to Professor Barker take an active interest in maintaining the digest.  I
+really look forward to hearing about the events, customs, and the like on
+real Tekumel and "real" gamed Tekumel.  I hope you will continue in this
+capacity!
+
+I also think you have done Tekumel proud by setting up the "gopher"
+directory.  What a great idea for getting people interested!  I hope the
+digest has received some new mailing-list requests from the larger Internet
+community as a result.
+
+As I was re-reading the digests, I was struck by what appears to be a
+fundamental change in their character.  Under Brett, the digests were
+simply a collection of postings; now they are edited, and it appears that
+postings are often reduced to a Tekumel question that is subsequently
+answered by you or Professor Barker.
+
+I feel that something has been lost with this new format.  Specifically, I
+don't feel that I am in contact with a community of people interested in
+Tekumel anymore.  Instead, I feel that the community is there but I can't
+really hear what any member of it is saying.
+
+I picked up EPT in 1975, a year after discovering D&D.  Since that day, I
+have never run a non-EPT/non-Tekumel game.  But to this day I have never,
+outside of conventions or one specific trip to Minneapolis, personally met
+anyone else who was familiar with Tekumel.  That's seventeen years of
+living on Tekumel by myself and of trying to convey the wonder and beauty
+of this alien world to my friends through the medium of FRP.  With the
+advent of the Internet Tekumel Digest, that isolation was broken.
+
+When postings to the digests are edited for inclusion, the digest begins to
+feel like another Imperial Courier, or Tekumel Journal, or what-have-you. 
+Not that I wouldn't want another Courier or Journal, but the personal
+aspect is lost.  And once again, I'm on Tekumel alone, waiting for news
+from Bey Sy.
+
+I also suspect people may hesitate to send in non-questions, as the digest
+begins to resemble a more "official Tekumel" publication.  I enjoy postings
+such as "GURPS for Tekumel," or comments on the novels, or someone's
+personal interpretation of whether Ahoggya can climb, swim, fly, or build
+bridges.  The more official the digest becomes, the more "I think Ahoggya
+can't climb because..." will become "Hey, Bob, can you ask Professor Barker
+whether Ahoggya can climb?"  I think that's a terrible loss; I've just
+missed seeing someone's creative imagination at work.
+
+Professor Barker once said something like, "what you have bought is my
+Tekumel; now you have to make it your Tekumel."  I want to be sure I can
+hear about all those other Tekumels, including the ones where some aspect
+of "real" Tekumel doesn't hold.  I want to hear about everyone's Tekumel so
+that I can make mine closer to my ideal vision of Tekumel---not Professor
+Barker's.  The professor's vision carries a lot of weight, but I don't feel
+it is inexorable.  My worst nightmare is that Tekumel becomes a "one true
+way" kind of world.
+
+I don't want this message to be too negative, but on the other hand, you
+are in weekly contact with people who breath the very air of Tekumel, and I
+am not.  I wonder if it would be possible to include people's postings in
+their entirety, and to add your (or Professor Barker's) comments as an
+immediately following message.
+
+Thanks again for your efforts on the digest, and for your attention.
+
+-------------------------------------
+
+Bob Alberti replies:
+
+On Sun, 24 Jan 1993 02:37:52 -0600, <martin@cs.uchicago.edu> wrote:
+>Upon re-reading, I have to say that digests 50, 51, and 53 (was there a
+>52?) were absolutely compelling in their content
+
+Thanks.  About #52, I accidentally managed to delete #52 -- ALL my copies 
+of #52, through the use of a very clever and powerful batch file which I 
+wrote.  It was supposed to consolidate all the pieces of Tekumelia (?) which
+were scattered on my hard drive, but it got confused and in the process 
+wiped out Digest #52.  I was going to call for someone on the list to send 
+me another copy in the next digest (which, as usual, is woefully late).
+
+>I also think you have done Tekumel proud by setting up the "gopher"
+>directory.  What a great idea for getting people interested!  I hope the
+>digest has received some new mailing-list requests from the larger Internet
+>community as a result.
+
+Yes it has.  I've received several subscriptions via Gopher-searchers who 
+stumbled across it.  I'll install a search indexer on it sometime, and I'd 
+also like to scan in a few relevant GIF files, too.  Of course, as a member
+of the Gopher software team, I can justify all this as being part of my 
+product development analysis....  :-)
+
+>As I was re-reading the digests, I was struck by what appears to be a
+>fundamental change in their character.  Under Brett, the digests were
+>simply a collection of postings; now they are edited, and it appears that
+>postings are often reduced to a Tekumel question that is subsequently
+>answered by you or Professor Barker.
+>
+>I feel that something has been lost with this new format.  Specifically, I
+>don't feel that I am in contact with a community of people interested in
+>Tekumel anymore.  Instead, I feel that the community is there but I can't
+>really hear what any member of it is saying.
+
+This has not been deliberate.  I have sensed the change in character myself,
+but I think it has less to do with the layout, and more to do both with the 
+hiatus and with the frequency (or lack thereof) with which I produce 
+digests.  Since restoring the existence of the Digest, I have received very 
+few actual letters from readers.  Frankly, I think folks simply got out of 
+the habit.  Then it doesn't help that I just don't have the kind of time 
+necessary to send out a digest-per-week like Brett was able to -- and since
+I get fewer letters, I don't have anything to send sometimes, anyway.
+
+>The more official the digest becomes, the more "I think Ahoggya
+>can't climb because..." will become "Hey, Bob, can you ask Professor Barker
+>whether Ahoggya can climb?"  I think that's a terrible loss; I've just
+>missed seeing someone's creative imagination at work.
+
+I think this is a very good point, and I'll try to be more sensitive to it 
+subsequent mailings.  *I* certainly don't want to become The Mouthpiece of 
+All that is True regarding Tekumel, nor do I want to impose my own 
+worldview on the list.  I thought it would be novel having questions 
+answered by Barker;  I suppose if that novelty has worn off, it starts to 
+take on the air of having the President of the company hang around the 
+employee lunchroom.
+
+>...other Tekumels, including the ones where some aspect
+>of "real" Tekumel doesn't hold.  I want to hear about everyone's Tekumel
+
+And the game's worldview of "infinite multiverses" gives everyone's Tekumel 
+validity.  Whether or not they take the same path, all Tekumel universes 
+arrive at the College at the End of Time.  The only kinds that don't are 
+where 1) Avanthar or another Primary Point is totally destroyed, 2) 
+Tekumels which return to "our" universe.  So your point about wanting to 
+see other people's Tekumels is not only esthetically pleasing, but is also 
+a mandatory part of the game:  other Tekumels MUST exist.
+
+>I don't want this message to be too negative, but on the other hand, you
+>are in weekly contact with people who breath the very air of Tekumel, and I
+>am not.  I wonder if it would be possible to include people's postings in
+>their entirety, and to add your (or Professor Barker's) comments as an
+>immediately following message.
+
+This is certainly easier for me to do than to edit, and your point is well 
+taken.  I don't THINK I've been omitting anything, but then again I may 
+have.  I'm not a REAL editor, but I play one on television.  However, note 
+the manner in which I'm responding to this letter, and you might see that 
+the "editing" I do is no more or less than what I do to my regular mail.  
+Doesn't mean I'm doing it right, but I think I'm probably guilty of acting 
+out of habit than of acting out of a dictatorial mindset.
+
+>Thanks again for your efforts on the digest, and for your attention.
+
+Thanks for your critique.  And I PROMISE I'll get another digest out this 
+week.  Really.  [Administrator's note:  Ha!]
+
+P.S. Although you didn't write to tekumel-submit, would you mind if I 
+included this discussion in the list?
+
+-------------------------------------
+
+From: Charles Martin <martin@cs.uchicago.edu>
+Thanks for your response, Bob!
+
+>I thought it would be novel having questions 
+>answered by Barker;  I suppose if that novelty has worn off, it starts to 
+>take on the air of having the President of the company hang around the 
+>employee lunchroom.
+
+The novelty certainly hasn't worn off for me!  As long as you and he are
+interested, I'd love to keep hearing from him.
+
+>This is certainly easier for me to do than to edit, and your point is well 
+>taken.  I don't THINK I've been omitting anything, but then again I may 
+>have.  I'm not a REAL editor, but I play one on television.  However, note 
+>the manner in which I'm responding to this letter, and you might see that 
+>the "editing" I do is no more or less than what I do to my regular mail.
+
+I think the difference is that regular mail is a conversation between two
+people, whereas postings are more of a "Roman Forum" address.  When
+in-posting editing takes place, the posting becomes a conversation between
+the poster and the editor, rather than an address in the Forum.
+
+>P.S. Although you didn't write to tekumel-submit, would you mind if I 
+>included this discussion in the list?
+
+Not at all.  If people have been leery of posting due to a perception of
+"officialdom," this might get them going.  I plan to send in more material
+to tekumel-submit myself.  (Long dormant, my Tekumel stirs; like the
+Phoenix, it rises once more from the ashes!)
+
+Charles Martin // martin@cs.uchicago.edu
+
+-------------------------------------
+
+From: <GARBETT@utkvx.utk.edu>
+12 Feb 1993 14:42:14 -0500 (EST)
+To: tekumel-submit
+Subject: FUDGE
+
+There's a generic system called FUDGE on oz.plymouth.edu under /pub/fudge.
+This system might make a great way to play EPT, just that lots of conversion
+is necessary, but easily doable. I'm thinking about giving it a try.
+Anybody else looked at this system.
+Shawn Garbett
+Garbett@utkvx.utk.edu
+
+-------------------------------------
+
+From: David Cheng (drcheng@sales.stern.nyu.edu)
+
+I'd like to invite the _Tekumel Digest_ readers to RuneQuest-Con, to be
+held in the Baltimore area on January 14-16 (MLK weekend), 1994.
+
+Wait, you say...  Why would we want to go to a con dedicated to RuneQuest?
+Well, I've noticed that there is a good bit of cross-pollination between RQ
+and EPT/S&G players.  Both Tekumel and Glorantha are "premium" worlds, and
+they are both favored by "sophisticated" gamers (if I may be so bold as to
+say so...  :-)
+
+I would like very much to have several EPT-related events, including a
+Tekumel seminar, perhaps.  If there is enough interest, Sandy Petersen
+(author of Call of Cthulhu, and several RQ products) has expressed interest
+in running a scenario from his current RQ-Tekumel campaign.
+
+Please contact me if you are interested in attending.  If would be even
+better if you were willing to run some events!  GMs will get discounted
+admission, of course.
+
+Please note: you do not have to run a RQ/EPT event like Petersen.  ANY
+Tekumel/EPT/S&G/etc kind of event would be great.  I have noticed
+several of you play Tekumel-GURPS: bring it along, please!
+
+
+On a related note:
+Can anyone help me contact Andrew G Lorince?  I know he is a Tekumel-fanatic,
+who (used to/still does ?) travel to cons around the Northeast with his
+vanload of EPT stuff.  I tried calling the phone numbers I have, but it seems
+he has moved on.  I would really like to get him to RQ-Con, because his
+presence would be a real plus; he might even help us pull some of you guys
+in!
+
+I can be contacted at:
+David Cheng
+drcheng@sales.stern.nyu.edu
+313 East 85th Street, Apt 2C
+New York, NY  10028
+(212) 472-7752
+
+Hope to hear back from you.
+
+-------------------------------------
+
+From: Loren Miller (LOREN@wmkt.wharton.upenn.edu)
+
+Does anybody know if any plans are being made to distribute "The Eye
+of All-Seeing Wonder" in other countries than the UK? The RuneQuest
+fanzine "Tales of the Reaching Moon" is distributed worldwide despite
+being written in the UK. It would be pretty cool if such a thing
+could also be done for this EPT fanzine, possibly by TOME, possibly
+by an individual.
+
+Anybody with ideas?
+
+Later,
+Loren
+
+--
++++++++++++++++++++++++23
+Loren Miller              LOREN@wmkt.wharton.upenn.edu
+     There's a thin line between TQM and Mutiny
+
+-------------------------------------
+
+From: David Cheng  <drcheng@sales.stern.nyu.edu>
+
+I just discovered the magic of the Gopher.  It really is a easy as you said!
+Thanks for setting it up!
+
+I also notice that the last issue is from back in December.  Is the Digest
+still active?  I certainly hope so.
+
+Thanks,
+-David Cheng
+
+-------------------------------------
+
+From: SIMONDSR@ACFcluster.NYU.EDU
+
+ I don't know how much you know about this, but PHD Games is
+apparently selling Tekumel miniatures.  I was wondering if you had hear d of
+them and if you knew whether or not they were reputable/I could trust them.
+They apparently just started.  Their address is P.O. Box 177/Anderson, IN
+46015.                                      
+
+Richard Simonds -- simondsr@acfcluster.nyu.edu
+
+-------------------------------------
+
+Bob Alberti replies:
+
+It is my understanding that the owner of PHD games came about his molds
+for the miniatures by entirely legitimate means, and that he has already
+contacted Professor Barker and been granted permission to produce these
+miniatures.  I would be interested to hear from anyone who has ordered
+and received these miniatures.
+
+-------------------------------------
+
+From: Rick Innis  <rick@sq.com>
+
+> Available for 2.50 pounds in the UK (3.00 pounds from outside the UK)
+> I don't know how Dave would want this paid so it might be better sending 
+> a letter asking from abroad. It can cost 8.50 pounds to have a $10.00 check 
+> changed!!
+
+The best way to send money to the UK is probably by IMO (International Money
+Order) in pouinds sterling.  These cost a few bucks themselves, though
+($3-$5, varies by bank; AmEx also do them), so people ordering from the UK
+might want to club together and put in a bulk order to cut their costs.
+
+ --Rick.
+
+-------------------------------------
+
+From: Bob Dushay  <DUSHAY@NYSPI.BITNET>
+Subject: Apocalypse later: more questions about Freeing Lord Ksarul
+ 
+I am still a little confused about the keys to the Blue Room.
+If they are used, they must be left on the table in the antechamber,
+right?  Does that mean that the key beneath the palace in Tsatsayagga
+has not been used?  Further, if wards prevent the use of the key
+or prevent it from being undone, how does one go about using a key?
+I assume you must find the ward (if any) that prevents use, disable
+it, and transport the key to the antechamber.  If you have the ward
+that prevents the key from being reversed after use, you would then
+use it, otherwise the key's effect could be undone.  Any further
+hints on this?
+
+-------------------------------------
+ 
+The views expressed in Tekumel Digest
+are those of the individual authors only.
+ 
+*********************
+End of Tekumel Digest
+*********************
+
