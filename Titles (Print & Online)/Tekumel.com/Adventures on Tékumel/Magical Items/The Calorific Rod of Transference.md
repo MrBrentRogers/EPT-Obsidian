@@ -1,0 +1,9 @@
+https://www.tekumel.com/gaming_advCROT.html
+
+by [Jack Bramah](mailto:jack.bramah@xtra.co.nz)
+
+This black rod is about 18" long, and weighing some 3 lbs. It has a beveled indentation in one end, and a stud at the other. Along the side are a series of tiny, dull gemstones. There is a scratched inscription on the side in Engsvanyáli saying 'Draw Power.'
+
+Originally it was a device of the Ancients used in the repair of Eyes and other TM devices. Its purpose was to withdraw and store the energy of the charges of an item safely while the device was repaired. It still does this quite successfully, out to a range of 10', though it also draws any type of magical power - be it the power of books, scrolls, people etc. etc. If it removes the charges from a device it replaces them at the rate of one a day as long as the item is left close to the beveled end of the baton. There is even a chance that it will add extra an extra charge!
+
+Here's the drawback. Some of the energy is converted to heat - i.e. the baton gets warm - potentially very warm. As a guide it increases in temperature by 1 degree for every charge from an item, for every spell point (working on Swords & Glory spell point levels), 10° for every scroll, and 50° for every magical tome or magically imbued weapon within its radius. There is no save for people or for TM devices, though books, scrolls and weapons get saving throws - though any spell points held by an imprisoned spirit within an object are lost. Potentially if you fire it off close to a big sorcerer jangling with magic items it could suddenly go up to several hundred degrees very quickly, certainly inflicting burns on the wielder and potentially setting fire to nearby flammable objects.
