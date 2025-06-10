@@ -1,0 +1,8 @@
+{
+  "deleteFileAfterConversion": false,
+  "importComments": true,
+  "fallbackAttachmentName": "Images",
+  "attachmentsFolder": "subfolder",
+  "customAttachmentsFolder": "Images",
+  "useImageAltAsFilename": true
+}

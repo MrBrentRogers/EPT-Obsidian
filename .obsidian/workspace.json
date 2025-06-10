@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "a1ba8d3294b9d199",
+    "type": "split",
+    "children": [
+      {
+        "id": "590da57e4339abf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7d4688e7b1e2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanspace Empire (HSE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Humanspace Empire (HSE)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a122440907a9d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac84c23497406531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34800dcd042310e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b403ea3da0519d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d94c15c7e66b7f07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a26f219cfa19f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8782641d76df8deb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bcccd9fcebd1cdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Humanspace Empire (HSE).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Humanspace Empire (HSE)"
+            }
+          },
+          {
+            "id": "3e4c542eca0254a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Humanspace Empire (HSE).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Humanspace Empire (HSE)"
+            }
+          },
+          {
+            "id": "5c5c8bf003550ef9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78fb9418a47409d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Humanspace Empire (HSE).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Humanspace Empire (HSE)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b7d4688e7b1e2be",
+  "lastOpenFiles": [
+    "People of Tekumel/_Images/mayantekumel2bybrettslocum.webp",
+    "People of Tekumel/_Images/manda.webp",
+    "People of Tekumel/_Images/david_lemire.webp",
+    "People of Tekumel/Svitlana Young Facebook/tsolyanicourt1.webp",
+    "People of Tekumel/Svitlana Young Facebook/tsolyanicourt1-2.webp",
+    "People of Tekumel/Svitlana Young Facebook/tsolyani court 1.webp",
+    "People of Tekumel/Svitlana Young Facebook/sword.webp",
+    "People of Tekumel/Svitlana Young Facebook/sword 2.webp",
+    "People of Tekumel/Svitlana Young Facebook/sword of dlamelish.webp",
+    "People of Tekumel/Svitlana Young Facebook/sword 1.webp",
+    "People of Tekumel/Svitlana Young Facebook/scroll 1.webp",
+    "People of Tekumel/M.A.R. Barker/Phil_correpondence_to_Brad_Johnson.pdf",
+    "People of Tekumel/_Images",
+    "People of Tekumel/_EPT People.md",
+    "People of Tekumel/Zhu.md",
+    "People of Tekumel/Victor Raymond.md",
+    "People of Tekumel/Svitlana Young Facebook",
+    "People of Tekumel/M.A.R. Barker.md",
+    "People of Tekumel/M.A.R. Barker",
+    "People of Tekumel/Jeff Dee.md",
+    "People of Tekumel/Illuminating Depictions by Robert Svard.md",
+    "People of Tekumel/Illuminating Depictions by Robert Svard",
+    "People of Tekumel/History- An Amazing Adventure.md",
+    "People of Tekumel/David Sutherland.md",
+    "People of Tekumel/David Lemire.md",
+    "People of Tekumel/Brett Slocum.md",
+    "People of Tekumel/Brad Johnson.md",
+    "People of Tekumel/Bob Alberti.md",
+    "People of Tekumel/Bill Hartley.md",
+    "People of Tekumel/Bill Hartley",
+    "People of Tekumel",
+    "Humanspace Empire (HSE).md",
+    "1. Tékumel Home.md"
+  ]
+}
