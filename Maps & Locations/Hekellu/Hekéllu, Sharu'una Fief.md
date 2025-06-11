@@ -1,3 +1,12 @@
+---
+aliases:
+  - Hekéllu
+  - Hekellu
+  - Sharu'una
+  - Sharuuna
+  - Sharu'una Fief
+---
+
 Sharu'una Fief and city of Hekéllu
 
 [http://www.tekumel.com/eoasw5_09.html](http://www.tekumel.com/eoasw5_09.html)

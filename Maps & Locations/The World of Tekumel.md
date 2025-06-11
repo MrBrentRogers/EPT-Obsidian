@@ -5,5 +5,5 @@
 ## [[Tekumel]]
 ![[tekumel - planet.webp]]
 # Countries
-## [[Tsolyanu]] 
+## [[Tsolyánu]] 
 

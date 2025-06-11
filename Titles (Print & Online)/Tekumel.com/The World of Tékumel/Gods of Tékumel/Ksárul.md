@@ -1,3 +1,12 @@
+---
+aliases:
+  - Ksárul
+  - Ksarul
+tags:
+  - Temple
+  - Change
+---
+
 Ancient Lord of Secrets, Doomed Prince of the Blue Room, Master of Magic and Sorcery.
 
 ![Ksarul](https://www.tekumel.com/images/world/godsymbol08.jpg)

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b12092b65832a6d0",
+        "id": "b9d4152012c924d2",
         "type": "tabs",
         "children": [
           {
-            "id": "85b2fbecab4605e5",
+            "id": "cb074af4e0b030f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Titles (Print & Online)/The Blue Room/Yanaz Mittlamu - martial art.md",
+                "file": "1. Tékumel Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yanaz Mittlamu - martial art"
+              "title": "1. Tékumel Home"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Titles (Print & Online)/The Blue Room/Yanaz Mittlamu - martial art.md",
+                "file": "1. Tékumel Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yanaz Mittlamu - martial art"
+              "title": "Backlinks for 1. Tékumel Home"
             }
           },
           {
@@ -168,53 +168,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85b2fbecab4605e5",
+  "active": "cb074af4e0b030f4",
   "lastOpenFiles": [
-    "Titles (Print & Online)/tekumel.groups.io/Dead_End_A_Tekumel_One-shot.pdf",
-    "Titles (Print & Online)/tekumel.groups.io/Dead_End_A_Tekumel_One-shot.pdf.crdownload",
-    "Titles (Print & Online)/The Blue Room/WhiteCrystal.md",
-    "Titles (Print & Online)/The Blue Room/WhiteCrystal.txt",
-    "Titles (Print & Online)/tekumel.groups.io/Tekumel-Blue Room Archives Fusion.md",
-    "Titles (Print & Online)/The Blue Room/The Blue Room Index.md",
-    "Titles (Print & Online)/The Blue Room/Tekumel-Blue Room Archives Fusion.md",
-    "Titles (Print & Online)/The Blue Room/Jack Bramah EPT Game.md",
-    "Titles (Print & Online)/The Blue Room/Hmakuyal Tidbits.md",
-    "Titles (Print & Online)/The Blue Room/EPT News for the year 2365.md",
-    "Titles (Print & Online)/The Blue Room/Emperors.md",
-    "Titles (Print & Online)/tekumel.groups.io/~$Tekumel List of Things 27-2024.xlsx",
-    "Titles (Print & Online)/tekumel.groups.io/Tekumel-Blue Room Archives Fusion.docx",
-    "Titles (Print & Online)/tekumel.groups.io/~$kumel-Blue Room Archives Fusion.docx",
-    "Titles (Print & Online)/tekumel.groups.io/chnéshayàlu.md",
-    "Titles (Print & Online)/tekumel.groups.io/Unconfirmed 803153.crdownload",
-    "Titles (Print & Online)/The Blue Room/Emperors.txt",
-    "Titles (Print & Online)/The Blue Room/Emperors.txt.crdownload",
-    "Titles (Print & Online)/tekumel.groups.io/con of the north 2017.webp",
-    "Titles (Print & Online)/tekumel.groups.io/Clan Glyphs.pdf",
-    "Titles (Print & Online)/tekumel.groups.io/Clan Glyphs.pdf.crdownload",
-    "Titles (Print & Online)/tekumel.groups.io/Campaign Hand Out.md",
-    "Titles (Print & Online)/M.A.R Barker Writings/Greetings from the Petal Throne.md",
-    "Titles (Print & Online)/_Images/boeb origob.webp",
-    "People of Tekumel/M.A.R. Barker/birthday2008.webp",
-    "Maps & Locations/Report on the Southern Islands.md",
-    "Maps & Locations/Hmakuyal Tidbits.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol37.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol36.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol35.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol34.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol33.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol32.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol31.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol30.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol29.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol28.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol27.md",
-    "Titles (Print & Online)/The Blue Room/TheBlueRoomArchive/brvol26.md",
-    "People of Tekumel/M.A.R. Barker/2009 birthday card.webp",
-    "Titles (Print & Online)/_Images/srukarum patrol.webp",
-    "Titles (Print & Online)/The Nightmare Maze of Jigresh 1981/the nightmare maze of jigrésh 2.webp",
-    "Titles (Print & Online)/The Nightmare Maze of Jigresh 1981/the nightmare maze of jigrésh 1.webp",
-    "Titles (Print & Online)/The Book of Visitations of Glory/Pre/Images/Visitations Iss2 - Cover.jpeg",
-    "Titles (Print & Online)/The Book of Visitations of Glory/Pre/Images/trumpettransAgif.png",
-    "Titles (Print & Online)/The Book of Visitations of Glory/Pre/Images/The Monasteryjpg.jpeg"
+    "Titles (Print & Online)/tekumel.groups.io/Anka'á's Diary - Game Notes/Anka'ás diary Part 2.pdf",
+    "Titles (Print & Online)/Empire of the Petal Throne 1975/Empire Of The Petal Throne - Original Manuscript (retyped pages only).pdf",
+    "Titles (Print & Online)/tekumel.groups.io/Anka'á's Diary - Game Notes/Anka'ás diary Part 1.pdf",
+    "Titles (Print & Online)/tekumel.groups.io/A Band of Joyous Heroes/MarketScene-watermarked.pdf",
+    "Titles (Print & Online)/tekumel.groups.io/A Band of Joyous Heroes/BoJH-Teaser.pdf",
+    "Titles (Print & Online)/Tekumel.com/Space Faring Ancients.md",
+    "Titles (Print & Online)/Tekumel.com/Spells, Legions & Personalities.pdf",
+    "Titles (Print & Online)/Tekumel.com/The Temple of the Seven Sighs.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/Recent Events.md",
+    "Titles (Print & Online)/Tekumel.com/EPT0.06  - Wars with the Ssu - The Fishermen Kings.pdf",
+    "Titles (Print & Online)/Tekumel.com/_Images/declaration_of_war.webp",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/03. The Empire of Llyán.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/04. The Three States of the Triangle.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/05. The Dragon Warriors of N’lüss.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/06. The Fisherman Kings.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/07. The First Imperium.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/08. éngsvlan hlá Gánga.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/09. The Time of No Kings.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/10. The Second Imperium.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/02. The Time of Darkness.md",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel/01. Before Recorded History.md",
+    "Titles (Print & Online)/Tekumel.com/EPT0.05  - Ancestors of the N'luss Dragon Warriors - The Barbarian Invasions.pdf",
+    "Titles (Print & Online)/Tekumel.com/History of Tékumel",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Sárku.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Dlamélish.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Vimúhla.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Hrü’ü.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Belkhánu.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Avánthe.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Thúmis.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Karakán.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Hnálla.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel/Ksárul.md",
+    "Religion & Temples/Ksárul.md",
+    "Titles (Print & Online)/Tekumel.com/Gods of Tékumel",
+    "Titles (Print & Online)/Tekumel.com/Untitled.md",
+    "Languages & Script/Tsolyáni Language/Tsolyani Numerology.pdf",
+    "Religion & Temples/_Images/Gods/wuru.webp",
+    "Religion & Temples/_Images/Gods/vimuhla2.webp",
+    "Religion & Temples/_Images/Gods/vimuhla.webp",
+    "Religion & Temples/_Images/Gods/thumis.webp",
+    "Religion & Temples/_Images/Gods/sarku.webp",
+    "Religion & Temples/_Images/Gods/qon.webp",
+    "Religion & Temples/_Images/Gods/ksarul.webp",
+    "Religion & Temples/_Images/Gods/ksarul-img.webp",
+    "Religion & Temples/_Images/Gods/ketengku.webp",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
