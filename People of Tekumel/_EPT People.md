@@ -1,6 +1,10 @@
 # Alva Hardison
 #Mapper
 e.  alva.hardison@yahoo.com
+
+# Alexander Stojanovic
+- [[TsoludhaliyalRuleSystem.pdf|Tsóludháliyal RPG]] | https://tekumel.groups.io/g/main/files/Rules/TsoludhaliyalRuleSystem.pdf
+- [[Plot Generator]]
 # [[Bill Hartley]]
 
 # [[Bob Alberti]]
