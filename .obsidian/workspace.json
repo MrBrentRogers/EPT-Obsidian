@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb496a26bc9080e4",
+        "id": "fd8e868735e577b0",
         "type": "tabs",
         "children": [
           {
-            "id": "57afabee7ed8467e",
+            "id": "37cc9586a8a24e3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Referee’s Manual/Gij and Sons.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gij and Sons"
+              "title": "New tab"
             }
           }
         ]
@@ -168,24 +164,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57afabee7ed8467e",
+  "active": "37cc9586a8a24e3c",
   "lastOpenFiles": [
-    "Referee’s Manual/Sealed Cities.md",
+    "Bestiary/Pe Choi/Pé Chói.md",
+    "Bestiary/Ahoggya/Ahoggyá.md",
+    "Bestiary/Pachi Lei/Perception of the Energies no.3 (Páchi Léi).md",
+    "Bestiary/Pachi Lei/Páchi Léi.md",
+    "Titles (Print & Online)/Tekumel.com/Visitations of Glory",
+    "Titles (Print & Online)/3rd Party Game Systems/Warriors_of_the_Lost_Planet.pdf",
+    "Titles (Print & Online)/Swords and Glory/Swords and Glory vol.1 - Tekumel Source Book.pdf",
+    "Titles (Print & Online)/Adventures on Tekumel (TOME)/Tekumel Bestiary.pdf",
+    "Bestiary/Pachi Lei/adventuresontekumel-part2_vol2_p8.webp",
+    "Bestiary/Pachi Lei/pachi_lei-bestiary_p.43.webp",
+    "Bestiary/Pachi Lei/adventuresontekumel-part2_vol.webp",
+    "Bestiary/Pachi Lei/pachi_lei-bestiary_p.webp",
+    "Bestiary/Pachi Lei/pachi_lei-bestiary_p.43 (2).webp",
+    "Bestiary/Pachi Lei/pachi_lei-bestiary_p.43 (1).webp",
+    "Bestiary/5. Alien Races of Tekumel.md",
+    "Bestiary/Pe Choi/pechoi-drawing_03.webp",
+    "Bestiary/Pe Choi/pechoi-bestiary_p.44.webp",
+    "Bestiary/Pe Choi/pechoi-bestiary_p..webp",
+    "Bestiary/Pe Choi/44.webp",
+    "Bestiary/Hlaka/Hláka.md",
+    "Bestiary/Social Level City Encounter - Judges Guild.md",
+    "Bestiary/The Tèkumel Bestiary.md",
+    "Bestiary/Swamp Folk/Swamp Folk.md",
+    "Bestiary/Nonhumans of Tékumel.md",
+    "Bestiary/Social & City Encounter.md",
     "Referee’s Manual/Gij and Sons.md",
+    "Referee’s Manual/Sealed Cities.md",
     "Referee’s Manual/Secret Societies.md",
-    "Religion & Temples/_Images/the sign of the triangle of being repelled forever.webp",
-    "Languages & Script/_Images/d-10_demon_layout.webp",
     "Religion & Temples/The Nine-Rayed Star of Nyélmu.md",
-    "Religion & Temples/_Images/vimuhla 6th circle ritual priest.webp",
-    "Religion & Temples/_Images/the nine-rayed star of nyélmu.webp",
     "Religion & Temples/Vimuhla 6th Circle ritual priest.md",
-    "Religion & Temples/_Images/eight interlocking squares of djareva.webp",
-    "Religion & Temples/_Images/favor of vinuhla - image.webp",
-    "Religion & Temples/_Images/favor of vinuhla.webp",
-    "Religion & Temples/_Images/Glyph of Present Defense.webp",
-    "Religion & Temples/_Images/temple vimuhla, chaka forest demiplane.webp",
     "People of Tekumel/Bill Hartley/the Tlakotáni.md",
-    "People of Tekumel/Bill Hartley/2018-nov.webp",
     "People of Tekumel/Bill Hartley/An_Intrigue_-_Bill_Hartley.md",
     "People of Tekumel/Clans",
     "People of Tekumel/Bill Hartley/An_Intrigue_-_Bill_Hartley.docx",
@@ -198,24 +209,9 @@
     "People of Tekumel/M.A.R. Barker.md",
     "People of Tekumel/Jeff Dee.md",
     "People of Tekumel/Brett Slocum.md",
-    "People of Tekumel/Brad Johnson.md",
-    "People of Tekumel/Bob Alberti.md",
-    "People of Tekumel/Bill Hartley/Bill Hartley.md",
-    "Referee’s Manual/The Pylons.md",
-    "Referee’s Manual/EPT Espionage Missions.md",
-    "Referee’s Manual/Random Social Encounters.md",
-    "Referee’s Manual/Plot Generator.md",
-    "People of Tekumel/_EPT People.md",
     "Titles (Print & Online)/3rd Party Game Systems/Runequest Tekumel.pdf",
     "Titles (Print & Online)/3rd Party Game Systems/RQtekumel - Tekumel with RuneQuest Rules.pdf",
     "Titles (Print & Online)/3rd Party Game Systems/rpg - Cinematic Role-Playing.pdf",
-    "Titles (Print & Online)/3rd Party Game Systems/EPT D&D5e/Magic of the Worlds on Tekumel.md",
-    "Titles (Print & Online)/3rd Party Game Systems/Magic of the Worlds on Tekumel.md",
-    "Titles (Print & Online)/3rd Party Game Systems/Heroic_Age_of_Tekumel_(7828510).pdf",
-    "Titles (Print & Online)/3rd Party Game Systems/GURPS Conversions (Steve Jackson Games)/GURPS Tékumel Spell Lists.md",
-    "Titles (Print & Online)/3rd Party Game Systems/David Lemire/Yán Koryáni Religion.docx",
-    "Titles (Print & Online)/3rd Party Game Systems/David Lemire/~$n Koryáni Religion.docx",
-    "Titles (Print & Online)/3rd Party Game Systems/David Lemire/~WRL0001.tmp",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

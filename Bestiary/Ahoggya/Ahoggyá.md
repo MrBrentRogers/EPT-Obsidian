@@ -7,17 +7,20 @@ Ahoggyá "the Knobbed Ones"
 
 
 ---
-_source_ The Tekumel Bestiery p.38
+_source: [[Tekumel Bestiary.pdf|The Tekumel Bestiery]]  p.38_
 
 The Sharuna Lowlands of Salarvya, the Flats of Gyogma in Haida Pakala, and Onmu Tle Hlektis in the far southeastern ocean are the chief enclaves of this species. Ahoggya are knobbly, brownish, bristly, tremendously strong creatures, about four or five feet in height . Their bodies are like a thick barrel surmounted by a domed, armoured carapace that makes them look rather like a stocky mushroom . Set equidistantly around the body just under the rim of the carapace are four powerful arms,which end in hands having three fingers and a thumb. Between these arms they have four pairs of independently moveable eyes . Their eating, breathing, and sexual apparatus occupies the middle of their body on each side, and at the base of the body, four thickly muscled, bowed legs project outin a permanent crouch . The Ahoggya are intelligent and speak, though with a ghastly accent . They have eight sexes, but their mating practices are still a mystery to other species . They have a reputation for bad temper, boisterousness, and crudity, and they prefer to be left alone, but will sometimes help humans, though never gladly. As far as is known, they have no religion whatsoever. Once, the Emperor Durumu, "the Copper Blade of Sarku" (ruled 1,747- 1,809 A.S.) sent a body of scholars to ascertain the Ahoggya deities. They concluded that these creatures had no gods at all, whereupon the Emperor classed them as "animals" for citizenship and census purposes, an insult the Ahoggya never forgot . The Ahoggya fight in human armies, often bravely and loyally, as long as they are paid . They employ short spears, maces, flails, and other weapons, as well as magical devices.
 
 ---
 
 ![[ahoggyá-bw.webp]]
-(image: Ahoggyá p.69) Once interstellar explorers, the Ahoggyá of Tékumel dwell in colonies in the swamps.  Their four pairs of eyes keep watch in all directions.  (David Sutherland from Empire of the Petal Throne: The World of Tékumel by MAR Barker, TSR, 1975)
+(image: Ahoggyá p.69) 
+Once interstellar explorers, the Ahoggyá of Tékumel dwell in colonies in the swamps.  Their four pairs of eyes keep watch in all directions.  
+
+(David Sutherland from Empire of the Petal Throne: The World of Tékumel by MAR Barker, TSR, 1975)
 
 ---
-_source: Swords and Glory Vol.1 p.28_  
+_source: [[Swords and Glory vol.1 - Tekumel Source Book.pdf|Swords and Glory Vol.1]]  p.28_  
 ### Construction  
 Locale and social class distinctions : Rural/tribal: Single-storey, 1-room wattle-and-daub huts built up on stilts above the bog, pitched thatch roof ; the center of the floor is open so that a stout ladder can be let down .t o permit ingress and egress
 
@@ -39,7 +42,7 @@ Knobby, brownish, bristly creatures 4-5 feet high, but tremendously broad and st
 Their gruffness, rude ways, and rank smell make them unappealing to humans. They are generally fearless. The Shen detest the Ahoggya.  
 
 ---
-_source:  The Lost Planet by Brett Slocum_
+_source: [[Warriors_of_the_Lost_Planet.pdf]] by Brett Slocum_
 
 The Ahoggyá originate from the vicinity of the Achernar star system (Alpha Eridani). They look like a furry barrel that has sprouted four arms and legs with a bony carapace on top. They live in the low-lying coastal plains and swamps.
 
