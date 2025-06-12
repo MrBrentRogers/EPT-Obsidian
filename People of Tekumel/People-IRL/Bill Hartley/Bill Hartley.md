@@ -5,6 +5,7 @@ aliases:
   - Hlucha
   - Tselin Nyai
   - Bill
+  - Tselin
 ---
 
 ---
