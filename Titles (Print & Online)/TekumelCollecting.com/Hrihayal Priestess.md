@@ -1,0 +1,10 @@
+Someone on the board here asked if I could post some jpegs of the figures I have been making, and this is a start. This figure is not my most complete effort, but she is the most recent and she is fairly well-advanced;  I kind of like how she is coming along so I thought I would post it. Sadly, I am not likely to get back to finishing her off until perhaps October 2003. She is explained below:
+
+A priestess of Hrihayal, twirling to utter a sudden incantation or possibly a command. Her awkward tiptoed stance may be a requirement of the ritual spell she is casting; I happen to think it looks pretty too :).
+
+Her "vestments" are not the typical streetclothes of a priestess of Hrihayal, but rather some sort of specific ritual paraphernalia. Her full-cut but vaguely "Sokatis-style" loincloth is held to her belt by a tripartite chlen-hide element of unknown significance. In the back (not seen) the top of the cloth is covered by a triangular arrangement of small Chlen-hide scales. On her feet she wears soft slippers, and her ankles will eventually sport bangles, as will her wrists. At present the only jewelry she wears is a serpent coiled about her upper left arm, barely-visible in this view and partly hidden by her Tsukehlmri. The Tsukehlmri itself is a rather modest (or immodest!) affair decorated with sinuous serpent bands front and back. The most conspicuous element in her attire is the head-dress, a towering confection of Chlen-hide "scales" rather in the form of a pineapple fronted by yet another coiling serpent. From the circular earpieces at the base of this headress hang three elongated "teardrops." The head-dress is topped with a large Keshchal-feather plume.
+
+In her left hand she carries a double-ended ritual implement of some sort. The upper end (upside down as she carries it here) depicts the "Twin Orbs of Ecstasy" coiled about with the serpent of Hrihayal. The opposite end, with its Keshchal plume issuing forth from the tip,  is a typical piece of Hrihayal/Dlamelish imagery which really needs no explanation.
+
+Fred Schwarz
+(zirunel2003 on this list)

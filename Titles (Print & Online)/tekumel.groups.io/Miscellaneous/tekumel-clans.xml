@@ -1,0 +1,1203 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="tekumel-clans.xsl" type="text/xsl"?>
+<clans>
+	<status>
+		<name>Imperial</name>
+		<clan>
+			<name>Tlakotani</name> 
+			<tag>tlakotani</tag>
+			<description>
+				The clan to which the Tsolyani royal family belongs; some well-to-do farmers and middle-class urban merchants are members as well; found around Bey Su, Hauma and Useanu.
+			</description>
+			<lineages><name>Tlakotani</name></lineages>
+			<notables>
+				<name>Hirkane Tlakotani</name>
+				<role>Emperor of Tsolyanu</role>
+			</notables>
+
+			<notables>
+				<name>Rereshqala</name>
+				<role>Imperial Prince</role>
+			</notables>
+			<notables>
+				<name>Eselne</name>
+				<role>Imperial Prince</role>
+			</notables>
+			<notables>
+				<name>Surundano</name>
+				<role>Imperial Prince</role>
+			</notables>
+			<notables>
+				<name>Mridobu</name>
+				<role>Imperial Prince</role>
+			</notables>
+			<notables>
+				<name>Mirusiya</name>
+				<role>Imperial Prince</role>
+			</notables>
+			<notables>
+				<name>Dhich'une</name>
+				<role>Imperial Prince</role>
+			</notables>
+			<notables>
+				<name>Ma'in Kruthain</name>
+				<role>Imperial Princess</role>
+			</notables>
+
+		</clan>
+	</status>
+
+	<status>
+		<name>High</name>
+		<clan>
+			<name>Blade Raised High</name> 
+			<tag>blade-raised-high</tag>
+			<description>
+				Descended from the palace guard of the Engsvanyali Priest Kings; devoted to Karakan and Chegarra; primarily soldiers and military administrators; found throughout the Empire but centred around Katalal and Useanu.
+			</description>
+			<lineages><name>hiVu'urtesh</name></lineages> 
+			<lineages><name>hiZhayarvu</name></lineages>
+			<lineages><name>hiSakodla</name></lineages>
+			<notables>
+				<name>Lord Fayel hiVu'urtesh</name>
+				<role>Princeps of the Omnipotent Azure Legion in Usenanu</role>
+			</notables>
+		</clan>
+
+
+		<clan>
+			<name>Cloak of Azure Gems</name>
+			<tag>cloak-of-azure-gems</tag>
+			<description>Supposedly servitors of Ksarul at the Battle of Dormoran Plain, but probably Bednalljan; followers of Ksarul and Hru'u and their cohorts; mostly priests and administrators; based in Meku and Mrelu but with clanhouses in Sokatis, Bey Su and other cities.</description>
+			<lineages><name>hiVaisoner</name></lineages>
+			<lineages><name>hiChankolu</name></lineages>
+			<lineages><name>hiVu'unavu</name></lineages>
+
+			<notables>
+				<name>Nrimalu hiChankolu</name>
+				<role>High Ritual Priest of Ksarul in Usenanu</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Emerald and Silver Crown</name>
+			<description>The origins of this powerful clan are unknown; devotees of Dlamelish and more usually of her Cohort, Hrihayal; largely city administrators, landed nobility, high ranking soldiers and 
+Priests and Priestesses make up this clan; found throughout the Empire, but more usually in the central region around Bey Su.</description>
+		</clan>
+
+		<clan>
+			<name>Golden Bough</name> 
+			<tag>golden-bough</tag>
+			<description>Traceable to the Engsvanyali governors of the south; eclectic with no particular religious or professional affiliations; contains many officials and military personnel; powerful all over the Imperium but with main centres in Jakalla, Thraya and Jaikalor.</description>
+			<lineages><name>hiSsaivra</name></lineages>
+			<lineages><name>hiViridame</name></lineages>
+			<lineages><name>hiChankolu</name></lineages>
+			<lineages><name>hiDiridlan</name></lineages>
+			<lineages><name>hiBaluda</name></lineages>
+			<lineages><name>hiQolsuna</name></lineages>
+			<lineages><name>hiKaraktu</name></lineages>
+			<lineages><name>hiTishkolun</name></lineages>
+			<notables>
+				<name>Lord Sirukkeng hiChankolu</name>
+				<role>High Ritual Priest of Hnalla in Usenanu</role>
+			</notables>
+			<notables>
+				<name>Lord Meshmuyel hiVu'urtesh</name>
+				<role>General Legion of the Portals of Death</role>
+			</notables>
+			<notables>
+				<name>Lord Chiringga hiTishkolun</name>
+				<role>General Legion of Mighty Jakalla</role>
+			</notables>
+			<notables>
+				<name>Lord Chekeru hiViridame</name>
+				<role>Clan Patriach</role>
+			</notables>
+			<notables>
+				<name>Lord Mizhar hiDiridlan</name>
+				<role>Scholar-Priest of Hnalla in Usenanu</role>
+			</notables>
+			<notables>
+				<name>Lord Kaingrnra hiZnayu</name>
+				<role>General Legion of Lord Kaingrnra of Bey Su</role>
+			</notables>
+			<notables>
+				<name>Nirunel hiQolsuna</name>
+				<role>Fencing Master, Bey Su</role>
+			</notables>
+			<notables>
+				<name>Ejel hiKataktu</name>
+				<role>Badragu of Hnalla in Jakalla</role>
+			</notables>
+
+		</clan>	
+
+		<clan>
+			<name>Golden Sunburst</name>
+			<description>Descendants of the nobility of the Engsvanyali Empire; aristocratic and exclusive; mostly devoted to Karakan, Chegarra and Hnalla, with a sprinkling of the other sects of Stability; most members are nobles, high bureaucrats, and military officers; found throughout the Empire.</description>
+			<lineages><name>hiQolyeluma</name></lineages> 
+			<lineages><name>hiTetkolel</name></lineages>
+			<lineages><name>hiTikesmu</name></lineages>
+			<lineages><name>hiMraktine</name></lineages>
+			<lineages><name>hiDulomesa</name></lineages>
+			<lineages><name>hiRi'inyussa</name></lineages>
+			<notables>
+				<name>Lord Qoruma hiRi'inyussa</name>
+				<role>High Princeps of the Omnipotent Azure Legion</role>
+			</notables>
+			<notables>
+				<name>Lord Kettukal hiMraktine</name>
+				<role>General The First Legion of Ever-Present Glory</role>
+			</notables>
+			<notables>
+				<name>Lord Tlaneno hiVorodlaya</name>
+				<role>General Squadrons of Tlaneno the Steersman</role>
+			</notables>
+
+		</clan>	
+
+		<clan>
+
+
+			<name>Ito</name>
+			<description>The ancient lords of the Chakan Protectorates; worshippers of Sarku and his Cohort, Durritlamish; limited to the Chakas but with clanhouses in the City of Sarku, Meku and Purdimal; looked upon as a source of trouble in the Imperium.</description>
+			<lineages><name>hiIto</name></lineages>
+		</clan>	
+
+		<clan>
+
+			<name>Jade Diadem</name>
+			<description>Origins unknown; devotees of Dlamelish and her Cohort, Hrihayal; largely city administrators and landed nobility; found throughout the Empire.</description>
+			<lineages><name>hiBurutla</name></lineages>
+			<lineages><name>hiTishkolun</name></lineages>
+			<notables>
+				<name>Lord Mishuel hiTishkolun</name>
+			</notables>
+
+		</clan>	
+
+		<clan>
+
+			<name>Might of Ganga</name>
+			<description>Derived from Engsvanyali royalty; composed of priests and warriors of the sects of Avanthe, Thumis, Hnalla, Belkhanu and their Cohorts;  largely limited to the island of Ganga and the southern coastal cities of Tsolyanu.</description>
+			<lineages><name>hiMazhan</name></lineages>
+		</clan>
+		<clan>
+			<name>Sea Blue</name>
+			<description>Descended from the royal families of the Bednalljans - and correspondingly proud and arrogant even when poor; includes many members of various faiths and professions, although courtiers, bureaucrats and administrators predominate.</description>
+			<lineages><name>hiSayuncha</name></lineages>
+			<lineages><name>hiSsanmirin</name></lineages>
+			<lineages><name>hiChaishmru</name></lineages>
+			<notables>
+				<name>Lady Mnella of Jakalla</name>
+			</notables>
+			<notables>
+				<name>Lord Khamiyal hiSayuncha</name>
+				<role>Governor of Bey Su</role>
+			</notables>
+			<notables>
+				<name>Lady Khamra hiSayuncha</name>
+			</notables>
+			<notables>
+				<name>Lord Mirusaya hiSsanmirin</name>
+				<role>General Legion of Potent Destiny</role>
+			</notables>
+			<notables>
+				<name>Lord Bushu'un hiSsanmirin</name>
+				<role>General Legion of Ruby Hand</role>
+			</notables>
+			<notables>
+				<name>Lord Aruonmu hiSsanmirin</name>
+				<role>General Legion of the Blue Peak</role>
+			</notables>
+
+		</clan>	
+
+		<clan>
+
+			<name>Sword of Fire</name>
+			<description>A small and very ancient clan descended from the Dragon Warriors; totally devoted to Vimulha; aloof and disinterested in politics; centred in Bey Su but with clanhouses in Tumissa, Khirgar and Chene Ho; this clan has many mercantile ventures in the west and in Mu'ugalavya and its contacts in the latter country make it suspect to Imperial eyes.</description>
+			<lineages><name>hiVriddi</name></lineages>
+		</clan>	
+
+		<clan>
+
+			<name>Vriddi</name>
+			<description>The original semi-autonomous rulers of Fasiltum; fierce and haughty; totally devoted to Vimulha  and Chiteng; almost entirely limited to Fasiltum, although a few clanhouses are in the predominantly Vimulha worshipping cities of the west (eg. Khirgar and Tumissa);  not trusted by the Imperium because of seperatist tendencies, and some younger hotheads are now languishing in prison.</description>
+
+			<lineages><name>hiVriddi</name></lineages>
+			<lineages><name>hiCharkha</name></lineages>
+			<notables>
+				<name>Elara hiVriddi</name>
+			</notables>
+			<notables>
+				<name>Lord Sangar hiVu'unavu</name>
+				<role>General Legion of Glorious Destiny</role>
+			</notables>
+
+		</clan>	
+
+	</status>
+
+	<status>
+		<name>High</name>
+		<clan>
+			<name>Amber Cloak</name>
+<description>Devoted to Belkhanu, Thumis and their Cohorts; composed of priests, scholars, apothecaries, physicians and professional people; found throughout the Empire.</description>
+			<lineages><name>hiMrelsa</name></lineages>
+			<lineages><name>hiViridame</name></lineages>
+			<lineages><name>hiMaika</name></lineages>
+		</clan>
+		<clan>
+			<name>Dark Fear</name>
+			<description>Totally devoted to Hru'u, Ksarul, Sarku and their Cohorts; many medium-level officials, priests and soldiers; found in the midwest and the north.</description>
+			<lineages><name>hiKhanmu</name></lineages>
+ 			<lineages><name>hiKarelsa</name></lineages>
+			<notables>
+				<name>Lord Helmuna hiSharvoya of Penom</name>
+				<role>General Legion of the Fishers of Death</role>
+			</notables>
+			<notables>
+				<name>Jayargo hiKhanmu</name>
+				<role>Priest of Sarku</role>
+			</notables>
+		</clan>
+		<clan>
+			<name>Dark Flame</name>
+			<description>Totally devoted to Hru'u, Ksarul, Sarku and their Cohorts; many medium-level officials, priests and soldiers; found in the midwest and the north.</description>
+			<notables>
+				<name>Lord Kureshu hiViridun</name>
+			</notables>
+			<notables>
+				<name>Lord Fereshma hiKorodu</name><role>General Legion of the Night of Shadows</role>
+			</notables>
+			<notables>
+				<name>Lord Saku'u hiFershena</name><role>Tsemel of Ksarul, General Legion of the Price of the Blue Room</role>
+			</notables>
+		</clan>
+		<clan>
+			<name>Dark Moon</name>
+			<description>Totally devoted to Hru'u, Ksarul, Sarku and their Cohorts; many medium-level officials, priests and soldiers; found in the midwest and the north.</description>
+		</clan>
+		<clan>
+			<name>Dark Water</name>
+			<description>Totally devoted to Hru'u, Ksarul, Sarku and their Cohorts; many medium-level officials, priests and soldiers; found in the midwest and the north. 
+			</description>
+			<lineages><name>hiSekoru</name></lineages>
+ 			<lineages><name>hiKakan</name></lineages>
+			<notables>
+				<name>Lord Faskranu hiNokor</name>
+				<role>General Legion of Lord Durritlamesh of the Rotted Face</role>
+			</notables>
+			<notables>
+				<name>Lord Vrishtara hiAvesu</name>
+				<role>General Legion of Vrishtara the Mole</role>
+			</notables>
+
+		</clan>
+		<clan>
+			<name>Domed Tomb</name>
+			<description>The ancient nobility of the City of Sarku and totally devoted to Sarku and Durritlamish; wealthy farmers, priests, administrators and soldiers of the Worm Lord's sect; mainly based in the Kraa Hills and around the City of Sarku but has clanhouses in Bey Su, Purdimal and Sokatis, etc.
+			</description>
+			<lineages><name>hiTukkolen</name></lineages> 			
+			<lineages><name>hiVorussa</name></lineages>
+			<notables>
+				<name>Lord Sikun hiKhanuma</name><role>General Legion of the Scales of Brown, Mriyan of Sarku in Meku</role></notables>
+			<notables>
+				<name>Lord Qurrumu hiKhanuma</name><role>General Battalion of the Seal of the Worm</role>
+			</notables>
+			<notables>
+				<name>Jinasa hiTukkolen</name>
+				<role>High Administrive Priest of Sarku in Usenanu</role>
+			</notables>
+			<notables>
+				<name>Haikon hiVorudu</name>
+				<role>General Legion of the Peaks of Kraa</role>
+			</notables>
+
+
+		</clan>
+
+		<clan>
+			<name>Emerald Girdle</name>
+			<description>Mostly worshippers of Hnalla,Thumis and Avanthe and their Cohorts; many rurallandowners belong to this clan; found throughout the Empire. </description>
+			<notables>
+				<name>Lord Gagarsha hiChurgashshs</name>
+				<role>General Legion of Gagarsha of Mmillaka</role>
+			</notables>
+		</clan>
+
+
+		<clan>
+			<name>Golden Staff</name>
+			<description>Small clan powerful only in Usenanu. Worshippers of stability, especially Thumis</description>
+			<lineages><name>hiArusa</name></lineages>
+			<notables>
+				<name>Lord Aruken hiArusa</name>
+				<role>Governor of Usenanu</role>
+			</notables>
+		</clan>
+
+		<clan>
+			<name>White Stone</name>
+			<description>An old and respected clan; includes many high and medium-level officials and bureaucrats as well as priests of several sects (but no specific religious affiliations); originally from Jakalla but now widespread throughout the centre of the Empire.</description>
+			<lineages><name>hiChakkena</name></lineages>
+			<lineages><name>hiJashte</name></lineages>
+			<lineages><name>hiSarelte</name></lineages>
+			<lineages><name>hiVessura</name></lineages>			
+			<lineages><name>hiTirissu</name></lineages>
+			<lineages><name>hiTukun</name></lineages>
+			<notables>
+				<name>Lord Kaikama hiMrachiyaku</name><role>General Legion of Kaikamu of Bey Su</role>
+			</notables>
+			<notables>
+				<name>Lord Elechu hiChakkena</name><role>General Legion of Elechu hiChakkena of Usenanu</role>
+			</notables>
+			<notables>
+				<name>Lord Chai Miridai hiJashte</name><role>General Force of Chai Miridai</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Grey Cloak</name>
+			<description>Composed of devotees of Thumis and Ketengku with a scattering of members worshipping others of the Lords of Stability; most are upper and middle-class administrators, land-holders, merchants, etc.; based around Paya Gupa and Chene Ho but with clanhouses in most of the large cities of the Empire. </description>
+			<lineages><name>hiHehesha</name></lineages>
+			<lineages><name>hiSayuncha</name></lineages>
+			<notables>
+				<name>Lady Sitlaya hiHehesha</name>
+				<role>High Ritual Priest of Thumis in Usenanu</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Gray Wand</name>
+			<description>Composed of devotees of Thumis and Ketengku with a scattering of members worshipping others of the Lords of Stability; most are upper and middle-class administrators, land-holders, merchants, etc.; based around Paya Gupa and Chene Ho but with clanhouses in most of the large cities of the Empire. </description>
+
+
+		</clan>
+
+		<clan>
+			<name>Great Stone</name>
+			<description>Originally a northern matrilineal clan based in Khirgar; many followers of Ksarul, Hru'u and their Cohorts, but not exclusively so; members often involved in trade, shipping, caravans and mercantile ventures, but also contains a number of priests, bureaucrats, and a few soldiers; found largely in the northwest of the Empire but has clanhouses elsewhere also.</description>
+			<lineages><name>hiTankolel</name></lineages>
+			<lineages><name>hiTlakan</name></lineages>
+			<lineages><name>hiTeyonel</name></lineages>
+			<lineages><name>hiSsanyusa</name></lineages>
+			<lineages><name>hiTlekolmu</name></lineages>
+			<notables>
+				<name>Lord Sruqu hiTankolel</name>
+				<role>Legate of the Palace of the Realm in Bey Su</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>High Pinnacle</name>
+			<description>Many medium-level military personnel and high- and medium-level bureaucrats are members; no religious affiliations; based around Hauma, Mrelu and Si'is but has clanhouses throughout the west and centre of the Imperium.</description>
+
+			<notables>
+				<name>Lord Sryma hiHoqqulen</name><role>General Battalions of Syrma of Vra</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Iron Helm</name>
+			<description>The lords of Meku are hereditary members of this clan; usually devotees of Ksarul and Gruganu, although others are worshippers of Hru'u, Wuru, etc; widespread throughout the Empire. </description>
+
+		</clan>
+
+		<clan>
+			<name>Joyous of Vra</name>
+			<description>Descended from the old Vrayani nobility; mostly worshippers of Belkhanu, Thumis, Hnalla, Avanthe and their Cohorts; originally established on the island of Vra, but now found throughout the Empire. </description>
+
+
+		</clan>
+
+		<clan>
+			<name>Purple Gem</name>
+			<description>Originally scribes and bookmakers in the Engsvanyali Empire; many medium- and high-level court officials at Avanthar are members; no religious affliations; based at Avanthar but has clanhouses throughout the west and centre of the Empire.</description>
+			<lineages><name>hiVu'urtesh</name></lineages>
+
+
+		</clan>
+
+		<clan>
+			<name>Red Mountain</name>
+			<description>Being based in the west, this clan worships Vimulha and his Cohort, Chiteng, with a sprinkling of the followers of Karakan and Chegarra as well; includes warriors, priest of these deities and medium-level officals; based around Tumissa and Butrus but extends into Mu'ugalavya.</description>
+ 
+			<lineages><name>hiKetkolel</name></lineages>
+			<lineages><name>hiHlutu'un</name></lineages>
+			<lineages><name>hiBeshmylu</name></lineages>
+			<notables>
+				<name>Giriga hiBeshmylu</name><role>General Legion of Lord Kuruksa</role>
+			</notables>
+			<notables>
+				<name>Lord Ge'eltigane hiBeshmylu</name><role>Governor of Urmish</role>
+			</notables>
+			<notables>
+				<name>Qurel hiMrissanmu</name><role>High Administrative Priest of Vimulha in Usenanu</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Red Stone</name>
+<description>Being based in the west, this clan worships Vimulha and his Cohort, Chiteng, with a sprinkling of the followers of Karakan and Chegarra as well; includes warriors, priest of these deities and medium-level officals; based around Tumissa and Butrus but extends into Mu'ugalavya.</description>
+			<lineages><name>hiMrissanmu</name></lineages>
+
+		</clan>
+
+		<clan>
+			<name>Red Sun</name>
+			<description>Being based in the west, this clan worships Vimulha and his Cohort, Chiteng, with a sprinkling of the followers of Karakan and Chegarra as well; includes warriors, priest of these deities and medium-level officals; based around Tumissa and Butrus but extends into Mu'ugalavya.</description>
+
+			<notables>
+				<name>Lord Kuruktashmu hiKetkolel</name>
+				<role>General Legion of Red Devastation</role>
+			</notables>
+			<notables>
+				<name>Lord Girkiteshmu hiKoyuga</name>
+				<role>General Legion of Girkiteshmu</role>
+			</notables>
+
+		
+		</clan>
+		<clan>
+
+		<name>Red Sword</name>
+<description>Being based in the west, this clan worships Vimulha and his Cohort, Chiteng, with a sprinkling of the followers of Karakan and Chegarra as well; includes warriors, priest of these deities and medium-level officals; based around Tumissa and Butrus but extends into Mu'ugalavya.</description>
+			<lineages><name>hiTengetlaku</name></lineages>
+			<lineages><name>hiDirikte</name></lineages>
+			<lineages><name>hiMarussa</name></lineages>
+			<notables>
+				<name>Lord Korikada hiKurushma</name><role>High Priest of Chiteng in Butrus, General Legion of the Givers of Sorrow</role>
+			</notables>
+			<notables>
+				<name>Lord Burushaya hiKaikune</name><role>Mriyan of Chegarra, General Cohorts of Chegarra</role>
+			</notables>
+			<notables>
+				<name>Lord Kaikurodlan hiTengetlaku</name><role>High Ritual Priest of Vimulha in Usenanu</role>
+			</notables>
+
+			<notables>
+				<name>Lord Tsumikel hiTengetkalu</name>
+				<role>Governor of Tumissa, General Legion of Citadel of Glory </role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Rising Sun</name>
+			<description>Include minor nobles and upper-class merchants of the eastern Empire; no religious affliation; based at Jaikalor with houses at Sokatis, Thraya, Jakalla, etc.</description>
+			<lineages><name>hiTukkolen</name></lineages>
+			<notables>
+				<name>Lord Dridakka hiTukkolen</name><role>General Legion of Langsha of Jaikalor</role>
+			</notables>
+
+
+		</clan>
+
+		<clan>
+			<name>Staff of Beneficence</name>
+			<description>Mostly wealthy physicians and apothecaries devoted to Thumis and his Cohort, Ketengku; found throughout the Empire.</description>
+
+		</clan>
+
+		<clan>
+			<name>Standing Stone</name>
+<description>Compised of priests and officials, plus many middle-class agriculturalists; no religious affiliations; centred around Urmish but has clanhouses in most major cities.</description>
+			<lineages><name>hiQurrodu</name></lineages>
+			<lineages><name>hiTlangtel</name></lineages>
+			<notables>
+				<name>Lord Znayashu hiVrazhimy</name><role>Tsemel of Karakan, General Legion of Golden Sunburst</role>
+			</notables>
+			<notables>
+				<name>Lord Riritlu hiVrazhimy</name><role>Lord Adept of Temple of Thumis</role>
+			</notables>
+			<notables>
+				<name>Lord Jijekmu hiQurrodu</name>
+				<role>High Ritual Priest of Avanthe in Usenanu</role>
+			</notables>
+			<notables>
+				<name>Lord Charikasa hiChuyon</name>
+				<role>General Legion of the Clan of Standing Stone</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Sweet Singers of Nakome</name>
+			<description>Descended from an ancient hero who was given this strange nickname; devoted to Vimulha and Chiteng; members are agriculturalists and soldiers in the Vimulha-worshipping legions; found only around Fasiltum.</description>
+			<lineages><name>hiVravodaya</name></lineages>
+			<notables>
+				<name>Lord Shruka hiVravodaya</name>
+				<role>Clan Patriarch, General Legion of the Sweet Singers of Nakome</role>
+			</notables>
+
+		</clan>
+
+
+		<clan>
+			<name>Triple Peak</name>
+			<description></description>
+			<notables>
+				<name>Lord Ssiyor hiNaquma</name><role>General Regimet of Noble Lord Ssiyor of Mrelu</role>
+			</notables>
+		</clan>
+
+		<clan>
+			<name>White Crystal</name>
+			<description>An eclectic clan devoted to Avanthe, Dlamelish and their Cohorts (but also containing  members of other sects); many administrators and military personnel; found throughout the Empire, but centred around Bey Su and Sokatis.</description> 
+			<lineages><name>hiTetkuru</name></lineages>
+			<notables>
+				<name>Lord Reshmel hiTekkuru</name><role>High Ritual Priest of Karakan in Usenanu</role>
+			</notables>
+		</clan>
+	</status>
+
+	<status>
+		<name>Medium</name>
+
+		<clan>
+			<name>Black Stone</name>
+			<description>Comprised of medium-level bureaucrats, scribes, professional people and priests in the service of the Lords of Change; found throughout the Empire.</description>
+			<lineages><name>hiTlelsu</name></lineages>
+			<lineages><name>hiTukkolen</name></lineages>
+			<notables>
+				<name>Lord Kakaganu hiBeshudla</name>
+				<role>General Legion of Slayers of Cities</role>
+			</notables>
+			<notables>
+				<name>Lord Chankoru hiTlelsu</name>
+				<role>Tsemel of Sarku</role>
+			</notables>
+			<notables>
+				<name>Lord Churmehasu hiTlelsu</name>
+				<role>Tiritlen of Sarku</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Black Pinnacle</name>
+			<description>Agriculturalists, craftemen and artisans; no religious affliations; based at Hekellu in the far northeast but with clanhouses at Fasiltum, Sokatis and Thraya. </description>
+			<lineages><name>hiKhanuma</name></lineages>
+			<lineages><name>hiSayuncha</name></lineages>
+		</clan>
+		<clan>
+
+			<name>Black Water</name>
+			<description>Agriculturalists, craftemen and artisans; no religious affliations; based at Hekellu in the far northeast but with clanhouses at Fasiltum, Sokatis and Thraya. </description>
+			<lineages><name>hiJashte</name></lineages>
+			<notables>
+				<name>Lord Korrugu hiJashte</name>
+				<role>High Scholarly Priest of Sarku in Usenanu</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Copper Door</name>
+			<description>Merchants and moneylenders; usually followers of Sarku but some are devotees of othersof the Lords of Change; centred at Bey Su and along the Mssuma River.</description>
+			<lineages><name>hiVessuma</name></lineages> 
+			<lineages><name>hiTigal</name></lineages>
+			<notables>
+				<name>Lord Dayarka hiVessuma</name>
+				<role>High Ritual Priest of Sarku in Usenanu</role>
+			</notables>
+		</clan>
+
+		<clan>
+			<name>Crooked Bough</name>
+			<description>Forestors, based around Ru and the Gilraya Forests.</description>
+			<notables>
+				<name>Hutligainu hiBarregga</name>
+				<role>General Legion of the Crystalline Peak</role>
+			</notables>
+		</clan>
+
+
+		<clan>
+
+			<name>Blue Kirtle</name>
+			<description>Members are devoted to Avanthe and her Cohort, Dilinala; originally potters, winemakers and builders but now includes medium-level priests and administrators as well; based at Bey Su bt has clanhouses throughout the Empire.</description>
+		</clan>
+		<clan>
+
+			<name>Blue Shadow</name>
+			<description>Rural agriculturalists and landowners; devoted to Avanthe and Dilinala with a sprinkling of worshippers of others of the Lords of Stability; found through the Empire.</description>
+			<notables>
+				<name>Lord Yamashsha hiKorokol</name>
+				<role>General Legion of the Many-Legged Serpent</role>
+			</notables>
+		</clan>
+		<clan>
+
+			<name>Blue Stream</name>
+			<description>Rural agriculturalists and landowners; devoted to Avanthe and Dilinala with a sprinkling of worshippers of others of the Lords of Stability; found through the Empire.</description> 
+			<lineages><name>hiTlangtel</name></lineages>  
+			<lineages><name>hiTlakan</name></lineages> 
+			<notables>
+				<name>Lady Mrissa hiChagotlekka</name>
+				<role>General Legion of Lasy Mrissa</role>
+			</notables>
+		</clan>
+		<clan>
+
+			<name>Copper Door</name>
+			<description>Merchants and moneylenders; usually followers of Sarku but some are devotees of othersof the Lords of Change; centred at Bey Su and along the Mssuma River.</description>
+			<lineages><name>hiVessuma</name></lineages> 
+			<lineages><name>hiTigal</name></lineages> 
+		</clan>
+		<clan>
+
+			<name>First Moon</name>
+			<description>This clan contains merchants and artisans, plus a few bureaucrats and priests; no religious affiliation; largely southern clans with houses in Jakalla, Thraya, Jaikalor and Penom.</description>
+			<lineages><name>hiKirutlar</name></lineages> 
+		</clan>
+		<clan>
+
+			<name>Glory of the Worm</name>
+			<description>Mountain people from the City of Sarku and the Kraa Hills; devoted to Sarku and Durritlamish; medium-level agriculturalists, growers of Dlel-fruit tress and landowners; found largely in the northwest but has clanhouses in Bey Su and Jakalla.</description>
+			<lineages><name>hiDautlesa</name></lineages> 
+
+			<notables>
+				<name>Lord Uqetme hiDautlesa</name>
+				<role>Jashten of Sarku in Bey Su</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+
+			<name>Golden Dawn</name>
+			<description>Follows the Lords of Stability and contains medium-level business people; soldiers, priests, agriculturalists, etc; found throughout the Empire.</description> 
+			<lineages><name>hiVraisu</name></lineages>
+		</clan>
+
+		<clan>
+
+			<name>Golden Lintel</name>
+			<description>Follows the Lords of Stability and contains medium-level business people; soldiers, priests, agriculturalists, etc; found throughout the Empire.</description>
+		</clan>
+		<clan>
+
+			<name>Golden Sapphire</name>
+			<description>Follows the Lords of Stability and contains medium-level business people; soldiers, priests, agriculturalists, etc; found throughout the Empire. </description>
+		</clan>
+		<clan>
+
+			<name>Golden Sheaf</name>
+			<description>Follows the Lords of Stability and contains medium-level business people; soldiers, priests, agriculturalists, etc; found throughout the Empire. </description>
+		</clan>
+		<clan>
+
+			<name>Golden Sphere</name>
+			<description>Follows the Lords of Stability and contains medium-level business people; soldiers, priests,  griculturalists, etc; found throughout the Empire.</description>
+			<lineages><name>hiWarukka</name></lineages> 
+			<lineages><name>hiArniyala</name></lineages> 
+			<notables>
+				<name>Lord Changekte hiArniyala</name>
+				<role>Clan Patriach, General Legion of the Clan the Golden Sphere</role>
+			</notables>
+		</clan>
+		<clan>
+			<name>Green Bough</name>
+			<description>Prosperous agriculturalists; no religious affliation; found throughout the Empire but has its largest clanhouse in Katalal. </description>
+			<lineages><name>hiSsaivra</name></lineages> 
+			<lineages><name>hiSirukku</name></lineages> 
+			<lineages><name>hiKhanuma</name></lineages> 
+			<notables>
+				<name>Lord Dardayel hiKhanuma</name>
+				<role>General Legion of Heretlekka of Sokatis</role>
+			</notables>
+			<notables>
+				<name>Lord Mnashu hiSsaiva of Thri'il</name>
+				<role>General Legion of Manesh of Thri'il</role>
+			</notables>
+		</clan>
+		<clan>
+
+			<name>Green Kirtle</name>
+			<description>An offshoot of the Blue Kirtle clan which turned to the worship of Dlamelish and Hrihayal; follows a variety of middle-class occupations; based in Bey Su and the west but has clanhouses all across the Empire. </description>
+			<lineages><name>hiReretlesu</name></lineages> 
+			<lineages><name>hiVriyen</name></lineages> 
+			<notables>
+				<name>Lord Sarela hiReretlesu</name>
+				<role>High Ritual Priest of Dlamelish in Usenanu</role>
+			</notables>
+
+		</clan>
+		<clan>
+			<name>Green Malachite</name>
+			<description>A southern agricultural and maritime clan; includes farmers, sailors, fishermen, etc.; mostly devoted to the Lords of Stability; based at Penom but has clanhouses all along the southern coast and as far north as Usenanu on the Mssuma River.</description>
+			<lineages><name>hiVayeshtu</name></lineages> 
+			<notables>
+				<name>Lord Verussa hiNakkolel</name>
+				<role>Mriyan of Qon, General Legions of the Defense Against Evil</role>
+			</notables>
+		</clan>
+		<clan>
+			<name>Moon of Evening</name>
+			<description>This clan contains merchants and artisans, plus a few bureaucrats and priests; no religious affiliation; largely southern clans with houses in Jakalla, Thraya, Jaikalor and Penom.</description>
+		</clan>
+		<clan>
+			<name>Red Eye of Dawn</name>
+			<description>The best jewelers' clan in the Empire; largely made up of worshippers of Avanthe and Dilinala in spite of the 'red' of its name; centred in Bey Su but has clanhouses in almost every major city.</description>
+
+		</clan>
+		<clan>
+			<name>Red Flower</name>
+			<description>An old Vrayani mercantile clan with sailing, shipping and foriegn travel interests; mostly devoted to Karakan and Chegarra but with followers of both the Lords of Stability and the Lords of Change as well; centred on the island of Vra but has clanhouses at Jakalla, Thraya, Penom and even Bey Su.</description>
+
+		</clan>
+		<clan>
+			<name>Red Sail</name>
+			<description>Smallish Jakallan clan, specializing in nautical pursuits. Some of the finest seamen in the Empire belong to this clan. It only maintains a few clanhouses along the major rivers, and in Jakalla itself. For the most part followers of Karakan and Chegarra.</description>
+
+		</clan>
+		<clan>
+			<name>Red Sky</name>
+			<description>Another Vimulha-worshipping western 'Red' clan; argiculturalists and breeders of Hmelu and Hma  but also some lower-level bureaucrats, soldiers and priests; found throughout the western and central regions of the Empire. </description>
+			<notables>
+				<name>Lord Hagarr hiChunrniyel</name>
+				<role>Admiral Flotilla of Hagarr of Paranta</role>
+			</notables>
+			<notables>
+				<name>Miridame hiChunrniyel</name>
+			</notables>
+
+		</clan>
+		<clan>
+			<name>Red Star</name>
+			<description>Another Vimulha-worshipping western 'Red' clan; argiculturalists and breeders of Hmelu and Hma but also some lower-level bureaucrats, soldiers and priests; found throughout the western   and central regions of the Empire. </description>
+
+		</clan>
+		<clan>
+			<name>Ripened Sheaf</name>
+			<description>A prosperous agriculturalists' and artsians' clan; no religious affiliation; centred around Urmish, Penom, Katalal and Jakalla with smaller clanhouses in almost every village in this area. </description>
+			<lineages><name>hiSsaronel</name></lineages> 
+
+		</clan>
+		<clan>
+			<name>Scroll of Wisdom</name>
+			<description>Comprised of jurists and scholars; no religious affiliation; found throughout the Empire.</description>
+
+		</clan>
+		<clan>
+			<name>Silver Collar</name>
+			<description>This clan contains many artists, jewelers and workers in the ornamental crafts; mostly devoted to Avanthe and Hnalla and their Cohorts; found throughout the Empire.</description>
+
+		</clan>
+		<clan>
+			<name>Silver Lightening</name>
+			<description>This clan contains many artists, jewelers and workers in the ornamental crafts; mostly devoted to Avanthe and Hnalla and their Cohorts; found throughout the Empire. </description>
+
+		</clan>
+		<clan>
+			<name>Standing Pinnacle</name>
+			<description>Originally from the tribal areas of the Kurt Hills but now urbanised; dealers in woods and forest products; largely worshippers of Avanthe and Dilinala with a sprinkling of followers of most other faiths; centred at Hauma and Tsuru but has clanhouses throughout the western Empire.</description>
+			<notables>
+				<name>Lord Ka'a hiSrygashchene</name>
+				<role>General Legion of Inverted Hand</role>
+			</notables>
+
+		</clan>
+
+		<clan>
+			<name>Triple Peak</name>
+			<description>?</description>
+			<notables>
+				<name>Lord Ssiyor hiNaquma</name><role>General Regimet of Noble Lord Ssiyor of Mrelu</role>
+			</notables>
+		</clan>
+		<clan>
+			<name>Victorious Globe</name>
+			<description>Makers of paper, inks, paints and scribal materials; mostly devotees of Thumis, Hnalla and their Cohorts; found in every major city of the Empire.</description>
+
+			<lineages><name>hiDaranu</name></lineages> 
+			<lineages><name>hiJanja</name></lineages> 
+
+		</clan>
+		<clan>
+			<name>Weeping Stone</name>
+			<description>Manufacturers of liquor and wines; no religious affliation; found throughout the Empire.</description>
+		</clan>
+
+	</status>
+
+	<status>
+		<name>Low</name>
+
+		<clan>
+			<name>Association of Relievers from Life</name>
+			<description>This is one of the Assassins' clans. It has clanhouses in all of the major cities; most members worship at the temples of the Lords of Change, but some worship Karakan and his Cohort Chegarra; Their inner membership is secret, their clanhouses walled, and clients are only allowed to enter small cubicles within the outer gates. </description>
+		</clan>
+		<clan>
+			<name>Black Hood</name>
+			<description>Another 'Black' clan containing middle-class merchants, artisans and labourers; most members follow Hru'u, Ksarul, Sarku and their Cohorts; found throughout the Empire.</description>
+			<lineages><name>hiViridu</name></lineages> 
+			<lineages><name>hiBurusa</name></lineages> 
+			<notables>
+				<name>Heketh hiBurusa</name>
+				<role>General Legion of Heketh of Purdimal</role>	
+			</notables>
+		</clan>
+		<clan>
+			<name>Black Monolith</name>
+			<description>Another 'Black' clan containing middle-class merchants, artisans and labourers; most members follow Hru'u, Ksarul, Sarku and their Cohorts; found throughout the Empire.</description> 
+			<lineages><name>hiVraisuna</name></lineages> 
+
+		</clan>
+		<clan>
+			<name>Black Mountain</name>
+			<description>Another 'Black' clan containing middle-class merchants, artisans and labourers; most members follow Hru'u, Ksarul, Sarku and their Cohorts; found throughout the Empire.</description>
+
+		</clan>
+		<clan>
+			<name>Black Stone Tomb</name>
+			<description>Once the bodyguards of the Ito family of the Chakas, this clan specialises in grave digging, embalming and the guarding of tombs; devoted to Sarku and Durritlamish; based at Chene Ho, Paya Gupa and Tumissa but with clanhouses at Mrelu, Meku, Purdimal and the City of Sarku.</description>
+
+		</clan>
+		<clan>
+			<name>Black Y Society</name>
+			<description>This is one of the Assassins' clans. It has clanhouses in all of the major cities; most members worship at the temples of the Lords of Change, but some worship Karakan and his Cohort  Chegarra; Their inner membership is secret, their clanhouses walled, and  clients are only allowed to enter small cubicles within the outer gates.</description>
+
+		</clan>
+		<clan>
+			<name>Blazoned Sail</name>
+			<description>Sea-captains, shippers, sailors and maritime artisans; no religious affiliation; found in almost every city with access to the sea.</description>
+
+		</clan>
+		<clan>
+			<name>Blue Water</name>
+			<description>Peasants, foresters, wood workers, pitch and tar makers and fetchers; mostly worshippers of Hnalla and Avanthe, with a scattering of other faiths as well; centred at Jaikalor but now found throughout the eastern Empire.</description>
+		</clan>
+
+		<clan>
+			<name>Broken Bough</name>
+			<description>Agriculturalists; mostly worshipers of the Lords of Stability, although some devotees of Vimulha and Chiteng are encountered around Fasiltum; based at Usenanu but with clanhouses throughout the centre and eastern areas of the Empire.</description>
+			<notables>
+				<name>Jugar hiFa'asu </name>
+				<role>General Legion of the Clan of Broken Bough</role>
+			</notables>
+		</clan>
+		<clan>
+			<name>Broken Reed</name>
+			<description>A large clan of agriculturalists, warriors, lower-class artisans and a variety of other occupations; no religious affliations; founf throughout the Empire.</description> 
+			<lineages><name>hiTurugda</name></lineages>
+
+		</clan>
+		<clan>
+			<name>Clan of Whispered Fear</name>
+			<description>This is one of the Assassins' clans. It has clanhouses in all of the major cities; most members worship at the temples of the Lords of Change, but some worship Karakan and his Cohort  Chegarra; Their inner membership is secret, their clanhouses walled, and  clients are only allowed to enter small cubicles within the outer gates.</description>
+
+		</clan>
+		<clan>
+			<name>Closed Hand</name>
+			<description>Peasants, laborers and tenant farmers; devotees of the Lords of Change, particularly Ksarul and Hru'u; found throughout the Empire.</description>
+
+		</clan>
+		<clan>
+			<name>Deep Flowing Water</name>
+			<description>An old and respectable agricultural clan; largely devoted to Hru'u, Ksarul and their Cohorts; based at Mrelu but with clanhouses at Purdimal, Meku, etc. </description> 
+
+		</clan>
+		<clan>
+			<name>Ewer of Gold Outpouring</name>
+			<description>Found primarily in the southeastern part of the Empire. Its members usually belong to Avanthe, Hnalla, Thumis, and their Cohorts. The clan handles transshipping along roads and rivers</description> 			<lineages><name>hiRirutla</name></lineages> 
+			<lineages><name>hiKetkolel</name></lineages> 
+
+		</clan>
+		<clan>
+			<name>Eye of Flame</name>
+			<description>Originally barbers, but now includes many low-level soldiers and hired bodyguards; worshippers of Vimulha and Chiteng; based at Tumissa but with clanhouses throughout the west and north.</description> 
+
+		</clan>
+		<clan>
+			<name>Flat Peak</name>
+			<description>Lower-class artisans, usually carpenters, bricklayers, masons, furniture-makers, etc; no religious affiliation; encountered throughout the Empire. </description> 
+
+		</clan>
+		<clan>
+			<name>Flowering Life</name>
+			<description>Rope and net-makers, fishermen, and shellfish gatherers; the majority is devoted to Avanthe and Dilinala with a large percentage of worshippers of Hnalla and his Cohort, Dra, as well; found all along the southern seacoasts.</description> 
+		</clan>
+		<clan>
+			<name>Green Emerald</name>
+			<description>Dyers, weavers, tailors and a few priests and warriors; primarily worshippers of Dlamelish and Hrihayal; found throughout the centre and eastern part of the Empire.</description> 
+
+		</clan>
+		<clan>
+			<name>Green Forest</name>
+			<description>Comprised of peasants and rural craftsmen; mostly worshippers of Avanthe, Dlamelish and their Cohorts; based at Sokatis but with clanhousethroughout the west and along the Mssuma River.</description> 
+			<lineages><name>hiSoruna</name></lineages> 
+
+		</clan>
+		<clan>
+			<name>Green Opal</name>
+			<description>Dyers, weavers, tailors and a few priests and warriors; primarily worshippers of Dlamelish and Hrihayal; found throughout the centre and eastern part of the Empire.</description>  
+
+		</clan>
+		<clan>
+			<name>Green Reed</name>
+			<description>Comprised of peasants and rural craftsmen; mostly worshippers of Avanthe, Dlamelish and their Cohorts; based at Sokatis but with clanhouse throughout the west and along the Mssuma River. </description> 
+
+			<lineages><name>hiArkuna</name></lineages> 
+		</clan>
+		<clan>
+			<name>Green Stone</name>
+			<description>Dyers, weavers, tailors and a few priests and warriors; primarily worshippers of Dlamelish and Hrihayal; found throughout the centre and eastern part of the Empire.</description> 
+
+		</clan>
+
+		<clan>
+			<name>Hand of Darkness</name>
+			<description>Ksarul worshippers from Jakalla</description>
+			<lineages><name>hiViridame</name></lineages>
+
+		</clan>
+		<clan>
+			<name>High Sun</name>
+			<description>?</description>
+			<lineages><name>hiChitten</name></lineages>
+
+		</clan>
+
+		<clan>
+			<name>High Tower</name>
+			<description>Chlen-raisers, tanners and leather-workers, plus a few officials and administrators; no religious affiliation; based at Usenanu but with clanhouses throughout the centre of the Empire. </description> 
+
+		</clan>
+		<clan>
+			<name>Iron Fist</name>
+			<description>This clan contains mainly smiths and armourers; worshippers of Vimulha, Karakan and their  Cohorts; originally western but now spread throughout the Empire.</description> 
+
+		</clan>
+		<clan>
+			<name>Iron Hand</name>
+			<description>This clan contains mainly smiths and armourers; worshippers of Vimulha, Karakan and their Cohorts; originally western but now spread throughout the Empire.</description> 
+
+		</clan>
+		<clan>
+			<name>Ivory Staff</name>
+			<description>Peasants and labourers, Dlel-fruit and Mash-fruit pickers; largely devoted to the Lords of Stability, although members of othre sects are occasionally found;  northern clan centred at  Si'is and Khirgar with a few clanhouses in other major cities.</description> 
+			<lineages><name>hiVaruse</name></lineages> 
+
+		</clan>
+		<clan>
+			<name>Open Hand</name>
+			<description>Peasants, laborers and tenant farmers; no religious affiliations; found throughout the Empire.</description> 
+			<lineages><name>hiBurusa</name></lineages> 
+
+
+		</clan>
+		<clan>
+			<name>Open Sepulchre</name>
+			<description>Embalmers, tomb guards and professional mourners; devoted to Belkhanu, Sarku and their Cohorts; found all over the Empire.</description> 
+			<lineages><name>hiTukkolen</name></lineages> 
+			<lineages><name>hiKamethu</name></lineages> 
+			<notables>
+				<name>Lord Ge'eru hiTukkolen</name>
+				<role>Tsemel of Durritlamish</role>
+			</notables>
+
+		</clan>
+		<clan>
+			<name>Plume of White</name>
+			<description>Scribes, accountants, clerks and administrators; mostly devoted to the Lords of Stability, although a few members of other sects are found; centred around Jakalla but with clanhouses throughout the Empire. </description> 
+
+		</clan>
+		<clan>
+			<name>Round Rock</name>
+			<description>Agriculturalists, weavers, dyers and cloth-makers; no strong religious affliation, although many do worship Hnalla and Dra; based along the Equnoyel River in the southeast with clanhouses throughout the eastern Empire. </description> 
+		</clan>
+		<clan>
+			<name>Sapphire Bird</name>
+			<description>Peasants, Hmelu and Hma raisers and herdsmen and tanners; devotees of Avanthe, Dlamelish and their Cohorts; centred at Thraya and found throughout the east and southeast - and also  across the border in Salarvya.</description>
+
+		</clan>
+		<clan>
+			<name>Society of the Hands Which Are Not Seen</name>
+			<description>Puppeteers</description>
+		</clan>
+		<clan>
+			<name>Striding Incantation</name>
+			<description>Puppeteers</description>
+		</clan>
+		<clan>
+			<name>Twin Peaks</name>
+			<description>Wood cutters and foresters; no religious affliations; found mainly in the Chakan forests.</description>
+		</clan>
+		<clan>
+			<name>Woven Whip</name>
+			<description>Leatherworkers and tanners; no religious affliations; centred around Tsuru and Hauma with clanhouses throughout the centre of the Empire.</description>
+		</clan>
+	</status>
+
+	<status>
+		<name>Very Low</name>
+
+		<clan>
+			<name>Arch of Heaven</name>
+			<description>Brewers of beer, distillers of cheaper liquors and vineyard workers; no religious affiliations; found throughout the Empire. </description>
+		</clan>
+
+		<clan>
+			<name>Artificers of Iron</name>
+			<description>Village smiths, although some have become prosperous urban armourers and manufacturers of metal tools; worshippers of Vimulha, Karakan and their Cohorts; especially strong in Tumissa and Butrus but encountered all across the Empire. </description>
+
+		</clan>
+
+		<clan>
+			<name>Band of Noble Diversion</name>
+			<description>This is one of the clans that operate the Hirilakte arenas for the Imperium. They are viewed as on an equal footing with the Slaver clans, and no one in their right minds would associate with then socially. </description>
+
+		</clan>
+
+		<clan>
+			<name>Black Earth</name>
+			<description>Peasants, artisans, fishermen and swamp workers; followers of Hru'u and Wuru although other sects are found as well; based at Purdimal but also numerous around Penom.</description>
+
+		</clan>
+
+		<clan>
+			<name>Bright Sword</name>
+			<description>Musicians, singers of epic poems, panderers, courtesans and hostel-keepers; no religious affiliation; based at Jakalla but found all across the Empire. </description>
+
+		</clan>
+
+		<clan>
+			<name>Bright Victory Clan</name>
+			<description>This is one of the clans that operate the Hirilakte arenas for the Imperium. They are viewed as on an equal footing with the Slaver clans, and no one in their right minds would associate with then socially.</description>
+
+		</clan>
+
+		<clan>
+			<name>Collar of Bronze</name>
+			<description>Professional slavers, many of whom are wealthy but are without social prestige because of their work; no religious affiliation; small clanhouses exist in every major city.  </description>
+
+		</clan>
+
+		<clan>
+			<name>Emerald Circlet</name>
+			<description>Panderers, prostitutes, dancers, jugglers, roadside entertainers, etc; followers of Dlamelish and Hrihayal with a sprinkling of other faiths; often thought to be thieves and purveyors  of poisons, aphrodisiacs, etc; found all over the Empire.</description>
+
+		</clan>
+
+		<clan>
+			<name>Flat Rock</name>
+			<description>Poor labourers and peasants; no religious affiliation; found throughout the western regions of the Empire.</description> 
+
+		</clan>
+
+		<clan>
+			<name>Frost of Night</name>
+			<description>Peasants, labourers and lower-class warriors; devotees of the Lords of Change, particularly Sarku and his Cohort; based in the Chakas and western Empire. </description>
+
+		</clan>
+
+		<clan>
+			<name>Glass Spear</name>
+			<description>Potters, bricklayers, cement-workers, layers of mosiacs, etc; no religious affiliation; clanhouses exist all over the Empire.</description>
+		</clan>
+
+
+		<clan>
+			<name>Granite Lintel</name>
+			<description>Cooks, body-servants, and kitchen workers; followers of Hru'u and Wuru although other sects are found as well; based at Purdimal but also numerous around Penom.</description>
+			<lineages><name>hiVashaka</name></lineages>
+		</clan>
+
+		<clan>
+			<name>Green Pyramid</name>
+			<description>Labourers, peasants and poor urban merchants; usually devoted to Dlamelish and Hrihayal but with members of other sects as well; common throughout the Empire.</description>
+
+		</clan>
+
+		<clan>
+			<name>Hand of Compassion</name>
+			<description>Professional prison guards and warders; devoted to Belkhanu and Qon; based at Jakalla but with representation in every large city and many towns.</description>
+
+		</clan>
+
+		<clan>
+			<name>Nighted Tower</name>
+			<description>Tomb guards, makers of various chemicals - and often accused of being tomb robbers; followers of all of the Lords of Change except Vimulha and his Cohort; based in Purdimal but found throughout the northwest.</description>
+
+		</clan>
+
+		<clan>
+			<name>Red Moon</name>
+			<description>Impoverished peasnats, labourers, woodcutters, etc; mostly worshippers of Vimulha and Chiteng; based at Bey Su and encountered throughout the centre of the Empire.</description>
+
+		</clan>
+
+		<clan>
+			<name>Scarlet Mantle</name>
+			<description>Professional servants and domestics; usually devoted to Karakan or Chegarra and claim to have once been a warrior clan; found throughout the Empire. </description>
+
+		</clan>
+
+		<clan>
+			<name>Clan of the Scarlet Sash</name>
+			<description>This is one of the clans that operate the Hirilakte arenas for the Imperium. They are viewed as on an equal footing with the Slaver clans, and no one in their right minds would associate with then socially. </description>
+
+			<lineages><name>hiAsanuka</name></lineages>
+
+
+		</clan>
+
+		<clan>
+			<name>Scarlet Planet of Knives</name>
+			<description>Butchers, hunters and lower-class warriors; devoted to Karakan and Chegarra; based at Katalal but encountered in every major city. </description>
+
+		</clan>
+
+
+		<clan>
+			<name>Sinking Land</name>
+			<description>Peasants, producers of swamp products and fishermen; devoted to Belkhanu and his Cohort, Qon; based in the waterlogged lowlands around Penom but with clanhouses in Jakalla, Urmish, Usenanu and Katalal also. </description>
+
+		</clan>
+
+		<clan>
+			<name>Standing Reed</name>
+			<description>Mostly N'luss who settled long ago in the Empire; professional soldiers, gladiators, bodyguards, fletchers and makers of leather armour; devoted to Vimulha and Chiteng; based in the rural areas around Khirgar but with clanhouses throughout the Empire.</description>
+
+		</clan>
+
+
+		<clan>
+			<name>Sweet Breeze</name>
+			<description>Manufacturers of perfumes and essences; devotees of Hrihayal; based in Jakalla, but with small clanhouses in the major cities. </description>
+
+		</clan>
+
+		<clan>
+			<name>Turning Wheel</name>
+			<description>Carters, suttler, wheelwrights and transporters of goods; no religious affiliations; encountered all over the Empire.</description>
+
+		</clan>
+
+		<clan>
+			<name>Wicker Image</name>
+			<description>Latrine-cleaners, sewer workers, bathers of corpses and house-sweepers; no religious affiliation, except that those who bathe corpses are likely to be followers of Belkhanu and Qon; clanhouses found throughout the Empire.</description>
+			<lineages><name>hiMani</name></lineages> 
+		</clan>
+
+		<clan>
+			<name>Woven Mat</name>
+			<description>Weavers, mat-makers and builders of cheap furniture; no religious affiliation; found throughout the Empire.</description>
+			<lineages><name>hiTaku</name></lineages> 
+		</clan>
+
+	</status>
+
+</clans>
+
+<!-- neodl6.grp.bf1.yahoo.com Wed Nov 27 18:18:32 UTC 2019 -->
