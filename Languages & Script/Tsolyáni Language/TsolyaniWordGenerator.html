@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 6">
+		<title>Tekumel - Tsolyani Word Generator</title>
+		<script type="text/javascript" language="javascript">
+<!--
+// by Mark Pawelek
+// based on the article in the Stategic Review
+// Version 6 browsers only.
+
+var tooFew = "Enter a numeric value for 'number of words' (1 - 100)";
+var tooMany = "Too many words! Enter a value (1 - 100)";
+var notNum = "Enter numberic digits only (1 - 100)"
+
+function tryAgain(msg,oNum){
+	alert(msg);
+	oNum.select();
+}
+
+function cmdNumWords_onclick() {
+	var oNum = document.getElementById('txtNumWords');
+	var oTxt = document.getElementById('txtWords');
+	var oChk = document.getElementById('chkCapitalised');
+	var wl='';
+	var n=parseInt(oNum.value);
+
+	if (isNaN(n))
+		tryAgain(notNum, oNum)
+	else if (n<1)
+		tryAgain(tooFew, oNum)
+	else if (n>100)
+		tryAgain(tooMany, oNum)
+	else {
+		for (var j=1; j<=n; j++)
+			wl += ((oChk.checked) ?  toUpper(Word()) : Word()) + '\n';
+		oTxt.value = wl;
+	}
+	return true
+}
+
+function UnNumbered(ary){
+	var position = d(ary.length)-1;
+	var arow = ary[position].split('|');
+	return arow[0].toString()
+}
+
+function getAssocA(ary, r) {
+	var z = d(r);
+	var key;
+	for (key in ary)
+		if (key>=z)
+			break;
+	return ary[key]
+}
+
+function toUpper(w) {
+	return (w.charAt(0).toUpperCase() + w.substring(1))
+}
+
+function d(X){
+	return Math.floor((X * Math.random() + 1))
+}
+
+function cmdCopyToClip_click(oName){
+	var oTxt = document.getElementById(oName)
+	oTxt.select();
+	return copy_clip(oTxt.value)
+}
+
+function copy_clip(txt){
+	if (window.clipboardData)
+	{
+		window.clipboardData.setData("Text", txt);
+	}
+	else if (window.netscape)
+	{
+		netscape.security.PrivilegeManager.enablePrivilege('UniversalXPConnect');
+		var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+		if (!clip)
+			return;
+		var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+		if (!trans)
+			return;
+		trans.addDataFlavor('text/unicode');
+		var str = new Object();
+		var len = new Object();
+		var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+		var copytext=txt;
+		str.data=copytext;
+		trans.setTransferData("text/unicode",str,copytext.length*2);
+		var clipid=Components.interfaces.nsIClipboard;
+		if (!clip) return
+			false;
+		clip.setData(trans,null,clipid.kGlobalClipboard);
+	}
+	return false;
+}
+
+//Tsolyani Word Generator
+
+var vowel1, vowelAlt, diphthongA, cons, conInit3, conInit2, consFin
+
+vowel1 = ['i','a','o','u','ü','e','au','ai','oi'];
+vowelAlt = ['ai','au','ua','ue','ae'];
+diphthongA = ['i','a','o','u','ü','e'];
+
+// GROUP I : 2 - 20; 	GROUP II : 22 - 40;   GROUP III : 42 - 60;
+cons = {2:"p",4:"b",6:"m",8:"f",10:"v",12:"w",14:"t",16:"d",18:"n",20:"th",22:"dh",24:"ch",26:"l",28:"y",30:"k",32:"g",34:"kh",36:"gh",37:"'",38:"q",40:"h",42:"w",44:"ts",46:"tl",48:"s",50:"sh",52:"z",54:"zh",55:"ss",56:"r",58:"l",60:"hl"};
+conInit3 = ['mr','ms','dl','tr','nj'];
+conInit2 = {2:'m',4:'n',6:'ng',8:'r',10:'l',12:'y',14:'s',16:'sh',18:'ss',19:'j'};
+consFin = {2:'m',4:'n',6:'ng',8:'r',10:'l',12:'kh',14:'k',16:'s',18:'hl',19:'tl',20:'sh'};
+
+function Word() {
+	var z = d(100);
+	if(z <= 10)
+		pname = vowel() + con() + vowel()
+	else if(z <= 20)
+		pname = vowel() + con() + vowel() + conFinal()
+	else if(z <= 30)
+		pname = vowel() + con() + vowel() + con() + vowel()
+	else if(z <= 40)
+		pname = con('i') + vowel() + conFinal()
+	else if(z <= 70)
+		pname = con('i') + vowel() + con() + vowel()
+	else if(z <= 90)
+		pname = con('i') + vowel() + con() + vowel() + conFinal()
+	else if(z <= 95)
+		pname = con('i') + vowel() + con() + vowel() + con() + vowel()
+	else
+		pname = con('i') + vowel() + con() + vowel() + con() + vowel() + conFinal();
+	return pname
+}
+
+function con(typ) {
+	var z = d(100);
+	if(z <= 50)
+		return consonant(typ)
+	else if(z <= 95)
+		return consonant2(typ)
+	else
+		return consonant3(typ)
+}
+
+function consonant2(typ) {
+	if (typ=='i')
+		return consonant()+conInitial2()
+	else
+		return consonant()+consonant()
+}
+
+function consonant3(typ) {
+	if(typ=='i')
+		return conInitial3()
+	else
+		return consonant()+consonant()+conInitial2()
+}
+
+function vowelOther() {
+	if(d(6)==1)
+		return diphthong()+diphthong()
+	else
+		return UnNumbered(vowelAlt)
+}
+
+function vowel() {
+	if(d(10)==1)
+		return vowelOther()
+	else
+		return UnNumbered(vowel1)
+}
+
+function diphthong() {
+	return UnNumbered(diphthongA)
+}
+
+function consonant() {
+	return getAssocA(cons, 60)
+}
+
+function conFinal() {
+	return getAssocA(consFin, 20)
+}
+
+function conInitial2(){
+	if (d(20)==1)
+	{
+	// specified as 'or other' in the article
+	// I didn't know what to do so I used a consonant (Groups I, II or III)
+		return getAssocA(cons, 60)
+	}
+	else
+		return getAssocA(conInit2, 19)
+}
+
+function conInitial3(){
+	return UnNumbered(conInit3)
+}
+// End word generator
+
+//-->
+		</script>
+	</head>
+	<body>
+		<h1>Tsolyani random word generator</h1>
+		<p>For Tekumel. Based on the article &quot;Tsolyani Names Without Tears&quot;, by M. A. R. Barker, from &quot;The Strategic Review&quot;, (Vol. 1, #4,&nbsp;Winter 1975)</p>
+		<table border="1" cellspacing="1" cellpadding="0">
+			<tr>
+				<td>Enter <b>number of words</b> required: </td>
+				<td><input id="txtNumWords" name="txtNumWords" value="10" size="4"></td>
+				<td rowspan="4"><textarea id="txtWords" name="txtWords" rows="12" cols="30"></textarea></td>
+			</tr>
+			<tr>
+				<td>Capitalised? </td>
+				<td><input id="chkCapitalised" type="checkbox" name="chkCapitalised" checked></td>
+			</tr>
+			<tr>
+				<td colspan="2"><input type="button" id="cmdNumWords" onclick="return cmdNumWords_onclick()" name="cmdNumWords" value="Make Words"></td>
+			</tr>
+			<tr>
+				<td colspan="2"><input type="button" id="cmdCopyToClip" onclick="return cmdCopyToClip_click('txtWords')" name="cmdCopyToClip" value="Copy to clip-board"></td>
+			</tr>
+		</table>
+		<p>Based on the following groups of letters (see the article). Randomly generated words tend to have too many multiple adjacent consonants, which result in ugly unpronounceable words. Remove the ugly words and just keep the ones you like. Hey, it's easier than rolling dice and takes less thought than actually making up words from your imagination.</p>
+		<table border="1" cellspacing="1" cellpadding="0">
+			<tr>
+				<td>vowel </td>
+				<td>i, a, o, u, &uuml;, e, au, ai, oi</td>
+			</tr>
+			<tr>
+				<td>vowel  (alternative)</td>
+				<td>ai, au, ua, ue, ae</td>
+			</tr>
+			<tr>
+				<td>diphthongs</td>
+				<td>i, a, o, u, &uuml;, e</td>
+			</tr>
+			<tr>
+				<td>consonant Group I</td>
+				<td>p, b, m, f, v, w, t, d, n, th</td>
+			</tr>
+			<tr>
+				<td>consonant Group II</td>
+				<td>dh, ch, l, y, k, g, kh, gh, ', q, h</td>
+			</tr>
+			<tr>
+				<td>consonant Group III</td>
+				<td>w, ts, tl, s, sh, z, zh, ss, r, l, hl</td>
+			</tr>
+			<tr>
+				<td>consonant Initial 3</td>
+				<td>mr, ms, dl, tr, nj</td>
+			</tr>
+			<tr>
+				<td>consonant&nbsp;Initial 2</td>
+				<td>m, n, ng, r, l, y, s, sh, ss, j</td>
+			</tr>
+			<tr>
+				<td>consonant&nbsp;Final</td>
+				<td>m, n, ng, r, l, kh, k, s, hl, tl, sh</td>
+			</tr>
+		</table>
+		<p></p>
+		<p> </p>
+		<p></p>
+		<p></p>
+	</body>
+</html>
+<!-- neodl4.grp.bf1.yahoo.com Wed Nov 27 18:18:00 UTC 2019 -->
