@@ -1,0 +1,1 @@
+![[Religion & Temples/Stability Demons/Denggur|Denggur]]
