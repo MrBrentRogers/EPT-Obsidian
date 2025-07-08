@@ -1,3 +1,5 @@
+[https://dmdavid.com/tag/10-best-collections-of-inspirational-tables-and-lists-to-help-dms-create-and-improvise/](https://dmdavid.com/tag/10-best-collections-of-inspirational-tables-and-lists-to-help-dms-create-and-improvise/)
+
 d100: City Encounter: 
 
 01-05 Ruffian/Bandit/Criminal: Usually belongs to a gang of 2d10 persons. Desires henchmen, accomplices, or aid. May cheat or harm the party. May try to pass himself/herself off as  
