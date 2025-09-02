@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d46187a367d2bee8",
+        "id": "e645749dda1add4a",
         "type": "tabs",
         "children": [
           {
-            "id": "0b16c8632e12c808",
+            "id": "ba8d9acac3668b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Tékumel Home.md",
+                "file": "Bestiary/Ahoggya/Ahoggyá.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Tékumel Home"
+              "title": "Ahoggyá"
             }
           }
         ]
@@ -168,8 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b16c8632e12c808",
+  "active": "ba8d9acac3668b4a",
   "lastOpenFiles": [
+    "Bestiary/Ahoggya/ahoggya.webp",
+    "Maps & Locations/The World of Tekumel.md",
+    "Maps & Locations/Omnibus Compendium Vrayani.pdf",
+    "Maps & Locations/North-Eastern States of Known Tekumel.pdf",
+    "Maps & Locations/Tubeways/Tubeway Stations.md",
+    "Maps & Locations/Tubeways/Tubeway Car Diagram.pdf",
+    "Maps & Locations/Tubeways/Random Tubeway Car Stations for Tékumel.md",
+    "Maps & Locations/Tubeways/DoubleTubewayStation.md",
+    "Maps & Locations/Tubeways/DoubleTubewayStation.docx",
+    "1. Tékumel Home.md",
     "Titles (Print & Online)/Magazines/Chimaera (Play Reports)/#Index.md",
     "Religion & Temples/Gods/Hnálla.md",
     "Referee’s Manual/Encounter - Fantasy City Seeds & Plots.md",
@@ -190,14 +200,8 @@
     "Referee’s Manual/Stampedes.md",
     "Bestiary/Zo’óra “the God of the Deep”.md",
     "Bestiary/Yuál “the Biped”.md",
-    "Bestiary/Yazái.md",
-    "Bestiary/Vúr “the Fruit Bat”.md",
     "Bestiary/_Images/yazai-tekumel_bestiery_p36.webp",
-    "Bestiary/Vriyágga.md",
-    "Bestiary/Vringálu “The Flying Snake”.md",
     "Bestiary/_Images/vringálu vs human (art by sutherland).webp",
-    "Bestiary/Utánakh “the Sand Barb”.md",
-    "Bestiary/Urunén “the Cold-Dwellers”.md",
     "Bestiary/_Images/urunen-tekumel_bestiary_p50.webp",
     "Titles (Print & Online)/Bethorm - UniGames/Kurt Hills Images/kurthillscoloringbook_p6.webp",
     "Bestiary/_Images/tletlakha-human_in_swamp.webp",
@@ -212,10 +216,6 @@
     "Titles (Print & Online)/Tekumel.com/The Gods of Tékumel",
     "Titles (Print & Online)/Tekumel.com/Lands of Tékumel/_images",
     "Titles (Print & Online)/Tekumel.com/Lands of Tékumel/New folder",
-    "Titles (Print & Online)/Tekumel.com/Lands of Tékumel",
-    "Titles (Print & Online)/Tekumel.com/New folder",
-    "Titles (Print & Online)/Bethorm - UniGames/Bethorm - The Plane Of Tekumel.pdf",
-    "Titles (Print & Online)/Tekumel.com/The Eye of All-Seeing Wonder/Issue 4/11 - Going Underground.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
