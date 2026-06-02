@@ -1,6 +1,7 @@
 # Victor Jaspn Raymond
 Victor Raymond - chairs the Tekumel Foundation
 Twitter: @badger2305
+Discord: badger2305
 
 Victor Raymond is a professor of anthropology, currently teaching gender studies, in Madison, Wisconsin. He was a member of Prof. Barker's Thursday Night Gaming Group, and currently chairs the Tekumel Foundation, the organization founded to tend Prof. Barker's literary legacy (and the game/book intellectual property).
 
